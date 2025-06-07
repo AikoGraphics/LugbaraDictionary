@@ -1,2 +1,2 @@
-# LugbaraDictionary
+# Lugbara Dictionary
 Collection of Lugbara words and their English parallels...
