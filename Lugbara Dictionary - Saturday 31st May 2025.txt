@@ -1,5 +1,5 @@
 SIMPLIFIED LUGBARA
-28 Letters in the Alphabet,Pronunciation
+28 Letters,Pronunciation
 Aa,Ah
 Bb,Ba
 'B'b,Bha
@@ -33,27 +33,29 @@ Diphthong Clusters:
 dj,(Letter D is silent) as in jilt eg odji (pronounced oji) [wash]
 gb,(Letter G is silent) as in bend eg gbe (pronounced be) [egg]. Lugbara is pronounced Lubara
 kp,(Letter K is silent) as in paint eg okpo (pronounced opo) [power]
-mv,as in converse eg omve [call]
+mv,as in converse eg omve (pronounced onve) [call]
 nz,(Letter Z changes to J) as in jet eg onzi (pronounced onji) [bad]
-oa, as in soar eg Ngoa [Where]?
+oa,as in soar eg Ngoa [Where]?
 oo,as in hold eg ocoo [dog] and rarely oo as in food eg 'doo (pronounced dhu) [pick with tongue or sth and eat]
 uu,as in chew eg cuu [market]...
 
 All Lugbara words end with a vowel.
+Nouns can be both singular and plural (though number or -yi after denote more than one too); exceptions include mva [child] becomes anzi [children], etc.
 Some words are repeated to create other words eg kali kali [sweet].
+Vocabulary is small because some words have multiple meanings depending on tone or context.
 Words are written the way they sound.
 
 TONES:
-´ High tone,tí [cow]
-- Mid tone,tī [strangle]; Mid tone is very common in Lugbarati!
-` Low tone,tì [give birth]
+High tone /,tí [cow]
+Mid tone -,tī [strangle]; Mid tone is very common in Lugbarati!
+Low tone \,tì [give birth]
 
-Other examples include: ai [salt/ accept or pray - ask or beg\]; dri [head/ hand - heat\]; etc. The word for read and lie down (or sleep) is la but pronounced differently. Others are the same sound but mean different things depending on context eg to beat with a stick and draw pictures is (o)gba. Some words are said threeways depending on dialect like valley = a'bu can also be e'bu and i'bu or twoways like fish = e'bi and i'bi...
+Other examples include: ai [salt / accept or pray - ask or beg \]; dri [head / hand - heat \]; etc. The word for read and lie down (or sleep) is la but pronounced differently. Others are the same sound but mean different things depending on context eg to beat with a stick and draw pictures is (o)gba. Some words are said threeways depending on dialect like valley = a'bu which can also be e'bu and i'bu or twoways like fish = e'bi and i'bi...
 
-NUMBER(S), KALAFE
+NUMBER(S),KALAFE
 0,toko/ ogbo
 1,alu
-2,iri/ eri
+2,iri
 3,na
 4,su
 5,towi/ tawu
@@ -96,8 +98,8 @@ NUMBER(S), KALAFE
 1000000,milioni alu 
 7000000000,bilioni aziri
 
-BUKU BIBLIA ALATARARU-A, BOOKS IN THE HOLY BIBLE
-[Buku Okuri,Old Testament]
+BUKU BIBLIA ALATARARU-A,BOOKS IN THE HOLY BIBLE
+Buku Okuri,Old Testament
 E'doza (Buku Musa ni sile aluri),Genesis
 Efuza (Buku Musa ni sile iriri),Exodus
 Kalafe (Buku Musa ni sile nari),Numbers
@@ -134,7 +136,7 @@ Hagai,Haggai
 Zekaria,Zechariah
 Malaki,Malachi
 
-[Buku O'diri,New Testament]
+Buku O'diri,New Testament
 Matayo,Matthew
 Mariko,Mark
 Luka,Luke 
@@ -153,22 +155,22 @@ Filemoni,Philemon
 'Ba Ebraniani ('Diyi),Hebrews
 Yakobo,James
 Petero 1ri azini 2ri,1st and 2nd Peter
-Yohana 1ri, 2ri azini 3ri,1st, 2nd and 3rd John
+Yohana 1ri/ 2ri azini 3ri,1st/ 2nd and 3rd John
 Yuda,Jude
-E'yo Ece,Revelation
+E'yo Eceza,Revelation
 
 WURA, LUGBARA COLOURS
 eka,red/ crimson/ scarlet
 orenji/ orenzi,orange
 yelo,yellow
 grini,green
-blu,blue/ indigo/ cyan/ aqua/ sky blue
-papo,purple/ violet
+blu,blue/ indigo/ cyan/ aqua/ sky blue/ turquiose
+papo,purple/ violet/ lilac
 pinki,pink/ magenta/ hotpink/ fuchsia
 imve,white
 imve silili/ whilili,very white/ pure white
 enisi-emvesi/ korikori,black and white
-horohoro/ pereper/ walalaru,light
+horohoro/ perepere/ walalaru,light
 foro(foro)/ foroto,grey/ greyish (UK English)/ gray and grayish (American English)
 ini (inikini),black (darkish)
 inibiricici (inicici),very dark
@@ -176,7 +178,7 @@ okaza/ okazaru/ okalamgba/ wara wara (walala)/ okata/ oka/ brawuni,brown (brown-
 maruni,maroon
 
 THE VERB "TO BE"
-Ma,I am
+Ma,I am/ I'm
 Mi,You (Singular)
 Eri,He/ She/ It is
 Ama,We are
@@ -192,11 +194,11 @@ a'bipika,grandmother's clan
 adri/ adripi(si),brother eg Aiko ni ma adri. = Aiko is my brother.
 adrizi/ arizi,brotherliness
 adro agupianzi,sister's sons
-adro eza(pi)/ za(pi), niece
+adro eza(pi)/ za(pi),niece
 adro ezoanzi,sister's daughters
 adro mva, nephew
-adropi/ ata ogu/ atapiru[ka]/ atapuru[ka]/ atipiru,paternal uncle[s]
-adro(yi[ka]),maternal uncle[s]
+ata ogu/ atapiru[ka]/ atapuru[ka]/ atipiru,paternal uncle[s]
+adro(yi[ka])/ adropi,maternal uncle[s]
 agi/ agoyi/ agyi/ alipi,friend
 agiago,boyfriend
 ago/ agupi/ culu,husband/ man/ mister
@@ -206,8 +208,9 @@ aje,marriage
 aku/ ori'ba,family
 ali mva,illegitimate child
 amuroo/ arusu/ mugole,bride
-amvi,sister
+amvi/ amvupi(si),sister
 andrapi[ka], andrapuru, andripiru[ka],maternal aunt
+andrapuru[ka],paternal aunt[s]
 andri/ ayia/ mama/ mami,mother eg Elizabeti ni ma andri. = Elizabeth is my mother.
 andria/ andrapuru/ ayia ogu,step-mother
 anzi,children
@@ -215,7 +218,7 @@ ata(pi)/ ati/ baba/ dadi/ papa,father
 atapuruka agupianzi,cousin brothers
 atapuruka ezopi,cousin sister
 atapurumva,cousin
-awupi/ a'wi/ a'wizi/ owupi,paternal aunt
+awupi[ka]/ a'wi/ a'wizi/ owupi,maternal aunt[s]
 awuzi,widow
 awuzio,widower
 ayipi/ onyere,sister-in-law
@@ -254,11 +257,11 @@ aju,spear
 alitara,altar
 asindriza,peace
 au,chicken
-ayiko,happiness
+ayiko,happiness/ joy/ bliss/ enjoyment/ pleasure
 bafu,bathroom
 banda,cassava
 beseni,basin
-Biblia,Bible eg Joni ni Biblia la o'du dria! = John reads the Bible everyday!
+Biblia,Bible eg Joni ni Biblia la o'du driasi! = John reads the Bible everyday!
 blawuzi,blouse
 bongo,cloth
 coroni,latrine/ toilet
@@ -268,7 +271,7 @@ enya/ nyaka,food
 enyasa,staple bread (usually from cassava) slapped with mingling stick while cooking and hand while eating
 ero,granary
 fun(y)o,groundnut(s)
-imvu,pot
+imvu (pronounced invu),pot
 imvua,small pot
 iribi,greens/ vegetables
 jo,house
@@ -282,7 +285,7 @@ kijiko/ malaga/ spuni,spoon
 kitanda,bed
 kiti,seat
 kitipara,stool made in Paraa
-kobi,basket
+kobi,open-end basket
 kome,chair
 kopo,cup
 kulukulu,turkey
@@ -317,27 +320,26 @@ tivi,TV
 torozi,trousers
 viato/ shuzi,footwear/ shoes
 yi,water
-'ye,arrow
+'ye,arrow(s)
 za,meat
 zukulu,calabash
 
 LUGBARA KARI,HOUSE OF LUGBARA
-Ayivu
-Maracha
-Terego
-Vur(r)a
+Agofe,Paramount Chief elected rotationally every five years
+Langa,Parliament of Lugbara Kari
+Clans,Ayivu/ Maracha/ Terego/ Vur(r)a
 
 Invited to the Chiefdom: Aringa (Yumbe) and Madi plus nine Lugbara clans in DR Congo's Orientale Province including Adranga and Zaki...
 
-O'DU WIKI NI, DAYS OF THE WEEK
+O'DU WIKI NI,DAYS OF THE WEEK
 A day is called o'du in Lugbara; 1 week is wiki alu/ yumala alu/ yumula alu/ sabatu alu/ sabiti alu or yinga [Lingala for: week] alu
-1. Sabatoni/ Sabato/ Sabatu/ O'du Engata YESU niri; O'du Sabatuniri ma vutia, Sunday
+1. Sabatoni/ Sabato/ Sabatu/ O'du Engata YESU niri; O'du Sabatuniri ma vutia,Sunday
 2. O'du alu, Wiki ma o'du alu,Monday
 3. O'du iri,Tuesday
 4. O'du na/ Wikiagaa,Wednesday/ Midweek 
 5. O'du su,Thursday
 6. O'du towi/ O'du Otuzuri,Friday/ Preparation Day
-7. O'du azia/ O'du Sabatuni/ Sabato/ Sabatu,Saturday/ Jewish Sabbath/ Adventist Seventh Day
+7. O'du azia/ Yahudi ma O'du Sabatuni/ Sabato/ Sabatu,Saturday/ Jewish Sabbath/ Adventist Seventh Day
 
 KALENDA,CALENDAR
 The simplest way to refer to months or moons [mba in Lugbara] is to use numbers eg January is Mba alu while May is Mba towi and so on.
