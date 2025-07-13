@@ -32,6 +32,10 @@ Calendar
 
 Lugbara Proverbs
 
+Riddles
+
+Idioms
+
 Lost in Translation (Dreamcast)
 
 
@@ -262,11 +266,9 @@ adra (n) fetish (also uri, yakani), violence, anger
 
 adro (n) uncle; spirit placed in a body by Divine Spirit and stands for the individuality of its possessor (one of the elements of a human while others include body, breath, soul [orindi] and tali)
 
-ADRO (n) the Creator; sky GOD in Lugbara mythology appears in both good and evil aspects though a single Deity, appeared on earth as a very tall white man near death with only one half of the body, missing one eye, one leg, etc; Divine Absolute Spirit, his children were adroanzi (also ADRONGA in Aringa, ADROO, ADROU) eg ADRO 'ba o'bapiri = GOD who created people
+ADROA (n) the Creator; sky GOD in Lugbara mythology appears in both aspects - good and evil (ADRO) though a single Deity, appeared on earth as a very tall white man near death with only one half of the body, missing one eye, one leg, etc; Divine Absolute Spirit, his children were adroanzi (also ADRONGA in Aringa, ADROO, ADROU) eg ADROA 'ba o'bapiri = GOD who created people
 
-adroa (n) small god, idol
-
-adroanzi (n) children of ADRO; nature gods of specific rivers, trees and other sacred wild areas, protect people but can also kill and eat them if they look behind while being followed in the dark, sometimes known as water snakes, bloodline of the Nosferatu Clan, originating in the Lugbara Culture of Central Africa, protectors of the local tribe in exchange for blood
+adroanzi (n) nature gods of specific rivers, trees and other sacred wild areas, protect people but can also kill and eat them if they look behind while being followed in the dark, sometimes known as water snakes, bloodline of the Nosferatu Clan, originating in the Lugbara Culture of Central Africa, protectors of the local tribe in exchange for blood
 
 adrogo (n) idol, false god eg Muhamadi nze adrogo karakara Kaba ma ageia Meka-a. = Muhammad removed many idols near the Kaaba in Mecca.
 
@@ -390,7 +392,7 @@ agobi (n) pumpkin leaves eg Aparaka ma tibi agobi. = Carelessness has pumpkin le
 
 agofe (n) pillar, post, in charge
 
-Agofe (n) rotationally elected Leader of all the Lugbara Clans (in Uganda and DRC plus the Diaspora), King of Lado who must be above 55 years old, Agofe Jalusiga - an Alur ruled during colonial times before Mariko Boroa (from Terego) assumed power after Uganda's 1962 Independence until cultural institutions were banned by President Milton Obote in 1967 (Other records mention John Anacleto Atobua who was assassinated on 14th April 1948 because he asked USSR to raise the question of Lado at the UN around 1947 as the 1st Agofe; then John Bart Agami Onzima II) eg Jasoni Avutia (engazu Vurra) ni andra Lugbara Kari ma Agofe nazori pere eli 2023. = Jason Avutia (from Vurra) was Lugbara Kari's 3rd Agofe until 2023.
+Agofe (n) rotationally elected Leader of all the Lugbara Clans (in Uganda and DRC plus the Diaspora), King of Lado who must be above 55 years old, Agofe Jalusiga - an Alur ruled during colonial times before Mariko Boroa (from Terego) assumed power after Uganda's 1962 Independence until cultural institutions were banned by President Milton Obote in 1967 and Jason Avutia (from Vurra) came in during the NRM regime around 1987 up to the 2023 election of Manase Yuma from Ayivu (Other records mention John Anacleto Atobua who was assassinated on 14th April 1948 because he asked USSR to raise the question of Lado at the UN around 1947 as the 1st Agofe; then John Bart Agami Onzima II) eg Jasoni Avutia (engazu Vurra) ni andra Lugbara Kari ma Agofe nazori pere eli 2023. = Jason Avutia (from Vurra) was Lugbara Kari's 3rd Agofe until 2023.
 
 agofuku (n) love potion, sth a Lugbara woman does to keep her husband safe from being snatched by another woman like cooking her man's favourite food, spices, smelling nice, dressing enticingly, sex, submission, respect or peaceful disposition
 
@@ -1338,7 +1340,7 @@ Bukaresti (n) Bucharest, locals call it Bucuresti, Capital City of Romania locat
 
 buku (n) book eg 'Ezati pi Candiru Be Azini Agipi' ni buku 'bani Lugbarati imbazu eli alusi azini irisi. = 'Ezati pi Candiru Be Azini Agipi' is a book used to teach Lugbara language in Year 1 and 2 (P1 and P2).
 
-Buku 'Ba Driani MUNGU Zizuri/ Ongo Munguni (n) Book For Everyone To Ask GOD/ GOD's Songs
+Buku 'Ba Driani MUNGU Zizuri/ Ongo MUNGUni (n) Book For Everyone To Ask GOD/ GOD's Songs
 
 buloka (n) broker, dealer
 
@@ -2420,7 +2422,7 @@ gbolo (n) bed
 
 Gboro (n) Lugbara ancestor in mythology who hunted water animals like hippopotamus, crocodile and fish. He was the father of Oli (Banyale), Olu (Angundru who ran away but left footprints on Mt. Wati till today), Kibira (Ajupiri) and Obaru
 
-Gborogboro (n) superhuman Lugbara hero ancestor, first man created by ADRO and his name means "the person coming from the sky"
+Gborogboro (n) superhuman Lugbara hero ancestor, first man created by ADROU and his name means "the person coming from the sky"
 
 gborondu (n) unsocial
 
@@ -3462,7 +3464,7 @@ ligaliga (n) gecko
 
 ligi (n) league eg Malaga ni avi Speini ma Ligi-a. = Malaga plays in the Spanish League.
 
-likico (n) orphan
+likico (n) orphan (also emvu)
 
 likinya (n) yam (also girinya)
 
@@ -5146,7 +5148,7 @@ Orientale Province (n) region in northeastern DR Congo immediately west of Arua 
 
 orii (n) mixture of gold and other metals (also oruu), reference in Congo
 
-orindi (n) spirit, soul (also urindi)
+orindi (n) spirit, soul (also urindi, literally ori indi [because of fleshy body, but becomes only ori after death])
 
 Orindi Alari (n) Holy Spirit (also Urindi Alari)
 
@@ -6348,6 +6350,8 @@ vu (n) ground; [(prep) near, with him/ her/ it; (v) blow] eg Abiriambati ni Go D
 
 vudu (n) voodoo, vodou, witchcraft (also enata)
 
+VUKA (n) the only ONE Who knows everything and can solve any problem, sacred word compared to Hebrew word YHWH (YAHWEH), not used commonly because of respect and fear
+
 vule (adv) behind, backwards (also vile), follower (younger sibling)
 
 Vura (n) Vurra, Lugbara clan, town and area southwest of Arua City, URA Customs border post on the DR Congo International Boundary, parish in Tara Subcounty (of Maracha East comprising the villages of Agavua, Pajuru, Igumayi, Kololo East, Agaruku and Odupiri) eg Kevini mu Vura-a. = Kevin has gone to Vurra.
@@ -6930,7 +6934,7 @@ Lugbara Kari eci ama tualu [Lugbara Kari unites us].
 
 
 
-3. ADRO fe amani lonyi capini 'bo [GOD has given us enough wealth already]:
+3. ADROU fe amani lonyi capini 'bo [GOD has given us enough wealth already]:
 
 Nyaku, pati, yi, anyapa, oli be [Land, trees, water, animals, with air]
 
@@ -7206,7 +7210,7 @@ What do you sell? = Mi a'du ozi?
 
 I sell food and pots. = Ma nyaka ozi azini imvu.
 
-What time is it? = Saa si?
+What time is it? = Saa si? (Other ways to ask for the daytime hour: Etu aga ngopi ya [How far has the sun gone]/ Etu atu ngopi ya [How far has the sun ascended]/ Etu ca ngopi ya [Which position has the sun reached]/ Etu ca si ya [How far has the sun arrived]?)
 
 Exactly 4 O'clock! = Saa mudri (10) 'dere! [Time is told as the reverse number from the hour hand like in Luganda, so 1 O'clock is saa aziri (7); 2 O'clock is saa aro (8) and so forth]
 
@@ -7272,11 +7276,15 @@ Ajobe odru fu ni [Ajobe was killed by a buffalo. Ajobe, an individual was warned
 
 Aku ni anzi agupi si [A home is heavy because of a man or husband] = People tend to show little consideration for a home without a husband, but his presence guarantees respect for everybody in it...
 
+Ali ndandari abe ose [Looking for problems is a big stick] = The one who creates problems ends up being beaten...
+
 Amvu ambori 'ba 'ya oyasi [A big farm is dug with payment]...
 
 Andri azini yo/ Ayia ma ndu yo [There is no other mother] = You can only be conceived by one mother...
 
 Angu 'buari yuku ni [The elevated place is for kites] = A warning to those wanting to elevate themselves to high positions...
+
+Anya sa-i ceni ku [Millet does not sow itself]...
 
 Anyu ni mbepi ma ti du [A bee stings the licker's mouth]...
 
@@ -7285,6 +7293,8 @@ Aparaka ma tibi agobi [The sauce (food) for carelessness is pumpkin leaves] = Fr
 Aria driori ni o'bu alari nya (ni) [The early bird (is the one that) eats the good worm]...
 
 Aria gaa ti anya ose [A small bird dropped big millet faeces] = Do not underrate people...
+
+Aria o'be jo tizo coti ku [Birds do not all of a sudden build a nest to lay their eggs in it]...
 
 Au fe mva ni ku [A chicken does not give to its young]...
 
@@ -7306,6 +7316,8 @@ Ayiko ni ondi ma mva [Happiness is sweat's child]...
 
 'Ba ma nda e'yo ku [Do not look for issues/ problems]...
 
+'Ba 'ya amvu diti (azini) de coti ku [People do not dig a field and finish it at once] = Proper work takes time and foresight to complete...
+
 'Ba yori ni, 'ba je oku ku [For someone absent, people do not buy a a wife]...
 
 Drileba aga ondua [Blessing is better than intellect]...
@@ -7320,9 +7332,13 @@ E ka te ise osiza ma nga mi ti-a, mi te sawa izu tu [If you wait for roasted gra
 
 E'bi ma dri ka e'do ma 'bo, sobi ni nga vini ma ra [When the head of a fish starts rotting, the tail will also rot eventually] = One bad thing can cause an avalanche of disaster...
 
+E'bu ako abiri ma ayiko ni [The absence of the hoe is the happiness of hunger]...
+
 E'yere e'yere, okuku mu re [Slowly slowly, the tortoise went far]...
 
 E'yere nya ni [Slow(ness)/ Patience is the one who ate]...
+
+E'yo amale ku ri si, ozoo ma si fu kalaa [For not having corrected them, the teeth of the warthog have grown out sideway] = Bad inclinations not corrected on time will not be  remedied in future...
 
 E'yo erikurisi ewa ma si zo ra [Because of not listening, the elephant's trunk grew]...
 
@@ -7403,6 +7419,8 @@ Si imve ma etia ari eka ci [Behind white teeth there is red blood]...
 Suru 'ba oji yi si ku [Nationality/ Tribe is not washed away with water]...
 
 Toko andri dra 'bo [The mother of free gifts is dead] = Nothing is free...
+
+'Yapikuri nya ku [One who does not dig does not eat]...
 
 Yuku dezari ni vini au mva bi ra [An old kite can also catch a young chicken] = A mad person can also do something sensible...
 
@@ -7560,15 +7578,29 @@ A monkey laughs at the tail of another monkey (thinking it has no funny tail)...
 
 The booklet entitled "The Hidden Wisdom of Lugbara-Aringa" features 116 Proverbs. A copy used to cost 10,000 UgX from Rasul Bombasa (+256-779-496927). Furthermore, 100.9 FM Voice Of Life and Radio Pacis in Arua broadcast programs where children share common as well as very rare riddles plus proverbs, so enlightening...
 
+
+
+Riddles (from "Lugbara Perception of Time" by Albert Titus Dalfovo): 
+
+Do you know the name of the fat rat in the house finishing our groundnuts? The answer is the name of the boy who has stolen some food. 
+
+Another riddle refers to a mushroom and asks for its name, which is that of some fearful boy. 
+
+Another may ask for the name of a cat unable to catch rats or of a dog unable to chase anything, the name being that of a lazy boy. 
+
+(The objective of riddles is ultimately to shape the future conduct of those whom the riddle is addressed to, generally boys and girls)
+
  
 
 O'du Peza/ Nyo [Lugbara Idioms]:
 
-Adriko pi Matua be eza pi si be [Adriko and Matua are like meat and teeth, always together] = They are in good terms and like each other...
+Adriko pi Matua be eza pi si be [Adriko and Matua are like meat and teeth, always together] = They are in good terms and like each other.
 
-Angu ri ti pi omvu be [The place sits or is located like the mouth and nose] = The place is near...
+Angu ri ti pi omvu be [The place sits or is located like the mouth and nose] = The place is near.
 
 'Ba 'di, emi andru ewa za a'di [You people, today are you cooking elephant meat] = Why is it taking long to cook, is it an elephant? (Terego)
+
+Deza baki Terego-a [There are many old people in Terego] = Drunkards look like old people.
 
 E dro mi pamvu [Chase your footprints] = Evaluate yourself!
 
@@ -7578,19 +7610,19 @@ Emi we emi yofe si [Sweep yourselves with a broom] = Come in huge numbers!
 
 E'yo ma ndri a'bua le [Things should be nice like bananas]...
 
-E'yo mbe ma tibi ('bo) [An issue has (already) licked my sauce] = I have a problem...
+E'yo mbe ma tibi ('bo) [An issue has (already) licked my sauce] = I have a problem.
 
 Eza nya maaku maaku [Eating a lot of meat like potatoes]...
 
 Mi dra ma adri o'du [Your death should be like sleep]...
 
-Mile iga [Dig an eye] = Interest sb...
+Mile iga [Dig an eye] = Interest sb.
 
-Onya su-i aci-a ceni [The white ant put itself in the fire by itself] = Deliberately look for trouble...
+Onya su-i aci-a ceni [The white ant put itself in the fire by itself] = Deliberately look for trouble.
 
 Si dri 'de ku, ari ni ra ni [If teeth do not fall, then blood will flow]...
 
-Tu burusu sia [Climbed onto a pigeon-pea tree] = Used vulgarity and obscene insults...
+Tu burusu sia [Climbed onto a pigeon-pea tree] = Used vulgarity and obscene insults.
 
  
 
