@@ -417,7 +417,7 @@ agu afa jepiri (n) buyer
 
 agu angu onepi (n) tourist
 
-agu ase lipiri (n) grasscutter; grasscutters eg WENGA ni amuti agu ase lipiri yi ni. = WENGA is the association for grasscutters.
+agu ase lipiri (n) grasscutter; grasscutters eg WENGA ni amuti agu ase lipi Westi Nailu-a ri yi ni. = WENGA is the association for grasscutters in West Nile.
 
 agu azoru (n) patient
 
@@ -457,7 +457,7 @@ ai (n) salt; (v) trap with rope or string, get caught, accept, welcome, respond,
 
 Aiivu (n) subcounty near Maracha, south of Yivu and Omugo, north of Katrini
 
-Aiko (n) penname of a committed Black Ugandan Artist who dropped out the letter Y from his surname at 6 years of age (Can mean no Artificial Intelligence, no salt or trapping salt, but rarely Aiiko), shortened from Ayiko, American musician also known as Jhene Chilombo, Scandinavian male-given name also used in Northern Germany as a variation of Eike or Ekke [Blade], Chinese boy-name, Japanese female-given name meaning "Love child", "Little Love" or "Child who will be loved", mountain in Finland eg Aiko Japani-a ngo "Kisshug". = Aiko in Japan sang "Kisshug".
+Aiko (n) penname of a committed Black Ugandan Artist who dropped out the letter Y from his surname at 6 years of age (Can also mean "No Artificial Intelligence", "no salt" or "trapping salt"), shortened from Ayiko (rarely Aiiko), American musician also known as Jhene Chilombo, Scandinavian male-given name also used in Northern Germany as a variation of Eike or Ekke [Blade], Chinese boy-name, Japanese female-given name meaning "Love child", "Little Love" or "Child who will be loved", mountain in Finland eg Aiko Japani-a ngo "Kisshug". = Aiko in Japan sang "Kisshug".
 
 aise (n) grass
 
@@ -589,7 +589,7 @@ Alifa azini Omega (n) Alpha & Omega
 
 alifu (n) thousand
 
-Alikua (n) place in Maracha where Belgians built a small pyramid in the 1920s, two Belgian officers Captain Von Kirkhoven and M. de Laages are buried under the fort somewhere next to the road between Nyadri and Katrini
+Alikua (n) place in Maracha where Belgians built a small pyramid in the 1920s, two Belgian officers Captain Von Kirkhoven (probably Willem Frans Van Kerckhoven) and M. de Laages are buried under the fort somewhere next to the road between Nyadri and Katrini
 
 alimva (v) bastard, illegitimate child
 
@@ -6577,7 +6577,7 @@ yuu (adj) lukewarm, warm eg Homi ni i-oji yi yuu si. = Homi bathes herself with 
 
 'yezaru (adv) done
 
-'yo (v) say, speak, talk, utter (also yho) eg Olivu 'yo ica muke. = Olive said she reached safely.
+'yo (v) say, speak, talk, utter (also yho) eg Olivu 'yo ica Burundi-a muke. = Olive said she reached Burundi safely.
 
 'yota (n) saying, speaking, talking, utterance
 
@@ -6623,7 +6623,7 @@ Zombo (n) Alur town and district south of Arua before Nebbi
 
 zori (suffix) the one which is for or of
 
-zota (n) growth, development, prosperity, length, milking (also zotaa, zoza)
+zota (n) growth, development, prosperity, length, milking (also zoza)
 
 zozo (adv) distant, far, long
 
@@ -6661,9 +6661,9 @@ Kalafe [Numbers]:
 
 10. Mudri/ Modri
 
-11. Mudri (dri) ni alu
+11. Mudri (dri)ni alu
 
-12. Mudri (dri) ni iri
+12. Mudri (dri)ni iri
 
 
 20. Kali iri
@@ -6939,13 +6939,13 @@ imve silili, whilili = very white, pure white
 
 enisi-emvesi, korikori = black and white
 
-maruni/ marooni = maroon
+maruni = maroon
 
 horohoro, perepere, walalaru = light
 
 foro(foro), foroto = grey, greyish (England or UK English), gray, grayish (American English)
 
-okaza, okazaru, okalamgba, wara wara (walala), okata, oka, brawuni = brown (brown skinned), becoming brownish, become brownish with dirt
+okaza, okazaru, okalamgba, wara wara (walala), okata, oka = brown (brown skinned), becoming brownish, become brownish with dirt
 
 
 The Verb "Be":
