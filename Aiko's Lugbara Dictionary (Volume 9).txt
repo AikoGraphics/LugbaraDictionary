@@ -42,7 +42,7 @@ Lost in Translation (Dreamcast)
 
 Pronunciation Guide [Lugbara Phonology]:
 
-Created painstakingly with gritty nerves on the 3rd Agofe's 90th birthday (Saturday 26th November 2016) and reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet. I'm only human and apologise in advance for any mistakes. So, corrections and suggestions are most welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS! Every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Inn), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoU), Va, Wa, Wha, Ya, Yha, Za. The original Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg ai can mean salt (high tone); accept, pray (mid tone); ask (low tone) while ti can mean cow; to drip; mouth, language; to produce and so on. However, new words keep being added to the existing language eg komputa = computer; simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different meaning while goal brackets [] show tone or translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V though nga [will, shall] is added after the Subject to mark the difference eg YESU ni (nga) 'ba onzi pa [JESUS (will) save sinners]...
+Created painstakingly with gritty nerves on the 3rd Agofe's 90th birthday (Saturday 26th November 2016) and reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet. I'm only human and apologise in advance for any mistakes. So, corrections and suggestions are most welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS! Every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Inn), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoU), Va, Wa, Wha, Ya, Yha, Za. The original Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg ai can mean salt (high tone); accept, pray (mid tone); ask (low tone) while ti can mean cow; to drip; mouth, language; to produce and so on. However, new words keep being added to the existing language eg komputa = computer; simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V though nga [will, shall] is added after the Subject to mark the difference eg YESU ni (nga) 'ba onzi pa [JESUS (will) save sinners]...
 
 Some words are borrowed or modified from English and other languages like Swahili, Luganda and Lingala. Lugbara words are written the same way they are pronounced; repeated letters look redundant eg Vurra, Oluffe, Ofudde, Owaffa, Mekki, etc unless special and meaningful (What you see is what you get). Diphthong clusters and other noteworthy phonetics include the following:
 
@@ -70,7 +70,7 @@ u as in food, for example o'du
 
 uu as in chew, for example cuu (can also be just cu or chu)
 
-z (letter Z becomes J) as in jean after n, for example onzi (is pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
+z (letter Z becomes J after N) as in jean, for example onzi (is pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
 
 
@@ -108,9 +108,9 @@ VOCABULARY (VOLUME):
 
 Aa
 
-a (n) stomach, belly; [(prep, suffix) at, (is) in, on, to; (pron) I; we (also Ama)] eg A ga si = I have refused
+a (n) stomach, belly; (prep, suffix) at, (is) in, on, to; (pron) I; we (also Ama) eg A ga si = I have refused
 
-a a (adj) not true, not at all, no (also yo); [(prep) across]
+a a (adj) not true, not at all, no (also yo); (prep) across
 
 aa (v) stay, reside (also oa) eg Toro Suru ma Omukama ni aa Foti Poto-a. = Toro Kingdom's King stays in Fort Portal.
 
@@ -128,11 +128,15 @@ Abataki Geri (n) Abataki Road (also Mustafa Abataki Geri), road in Anyafio that 
 
 abaza (n) confusion, doubt (also abata)
 
+abe (n) handle as of hoe and knife, club
+
 abebe (n) dumb person
 
 Abedju-Azaki (n) Lugbara dialect in DR Congo
 
 abefe (n) bridge (also alofe, olufe)
+
+abeleso (n) worm eg hookworm
 
 abi (n) wall eg Sakaya, Bosiko, Azita azini Hamoni abi si. = Sakaya, Bosco, Azita and Harmony are building a wall.
 
@@ -160,13 +164,13 @@ aboloto (n) obese, fat person, fat bombola
 
 abudira (n) catapult, Y-shaped slingshot for hitting birds with stones or small rocks (also abidira) eg Dramu ni aria ogbi abudira si. = Dramu shoots birds with a catapult.
 
-Abutze (n) mountain in Metu, Moyo District (also Abotzi) 1,574 or 1585 metres above sea level; highest point in West Nile
+Abutze (n) mountain in Metu Subcounty of Moyo District (also Abotzi) at 1574 metres above sea level, highest point in West Nile, near other Moyo mountains like Otze (1,563 m), Ilo (1,410 m), Nyeri, Isi, Dingbulungbulu, Urudri, Legu, Bongi, Limara, etc
 
 a'balao (n) dove (also a'buo)
 
 a'be (n) wrestling, axe 
 
-a'bi (n) grandfather (also a'bipi, abhi, jaja), ancestors, omugurusi, kwaro, Papa Kus; [destiny (also pari asizuri)] eg Ma a'bi la ki iritro 'bo (Dobo azini Banito). = My grandfathers have both rested already (Dobo and Banito).
+a'bi (n) grandfather (also a'bipi, abhi, jaja), ancestors, omugurusi, kwaro, Papa Kus; destiny (also pari asizuri) eg Ma a'bi la ki iritro 'bo (Dobo azini Banito). = My grandfathers have both rested already (Dobo and Banito).
 
 a'bianzi (n) descendants, generation(s)
 
@@ -176,7 +180,7 @@ a'bici (n) heartburn
 
 a'bimva (n) descendant 
 
-a'bu (n) valley (also e'bu & i'bu); [fatness; covering; (v) cover; fatten] eg Amina a'bu ima dribi. = Amina covered her hair.
+a'bu (n) valley (also e'bu & i'bu); fatness; covering (also a'buza); (v) cover; fatten eg Amina a'bu ima dribi. = Amina covered her hair.
 
 a'bu mile (n) swamp
 
@@ -196,9 +200,9 @@ acepiri (n) remainder
 
 aceta (n) remaining (also aceza)
 
-aci (n) fire, light, electricity, energy, WENRECo's Diza, Umeme's Yaka, heat; [journey, trip, safari, movement, walk; (v) crush with teeth] eg Etu ni aci ide. = The sun creates (solar) electricity.
+aci (n) fire, light, electricity, energy, WENRECo's Diza, Umeme's Yaka, heat; journey, trip, safari, movement, walk; (v) crush with teeth eg Etu ni aci ide. = The sun creates (solar) electricity.
 
-aci aci (v) share; [walked; hot hot (also aciaci)]
+aci aci (v) share; walked; hot hot (also aciaci)
 
 Aci Injini (n) Electricity Engine, fuel power plant in Osu Village run by WENRECo (West Nile Rural Electrification Company) since the early 2000s supplying electricity to Arua Town before the anticipated Nyagak Dams were finally switched on, the second fuel-powered station was built in Ewuata
 
@@ -208,13 +212,13 @@ aci ma baka (n) cable, electricity wire (also kebo)
 
 aci waya siri (n) electricity (also aci waya ma-a ri)
 
-acia (adj) in fire; [(adv) on a journey]
+acia (adj) in fire; (adv) on a journey
 
-acibe (adj) with fire, hot; [with a journey, with a trip, with safari]
+acibe (adj) with fire, hot; with a journey, with a trip, with safari
 
 Acidri (n) male-given name meaning "I suffered"
 
-acife (n) witchcraft, practice of magic, use of spells, invocation of spirits, necromancy, sorcery, shamanism, possession, occult, divination, rituals, incantation, vodou, voodoo, vudu (also enata, jadu, ondrita) eg Haiti nde acife si. = Haiti wins in witchcraft.
+acife (n) witchcraft, practice of magic, use of spells, invocation of spirits, necromancy, sorcery, shamanism, possession, occult, divination, rituals, incantation, vodou, voodoo, vudu (also enata, jadu, ondrita, andrike) eg Haiti nde acife si. = Haiti wins in witchcraft.
 
 acika (n) smoke
 
@@ -224,7 +228,7 @@ Acile (n) male-given name meaning "Like light"
 
 acita (n) movement (also aciza)
 
-aco (n) hoe (also e'bu, i'bu), fight, battle; [break eg eggs, become lame]
+aco (n) hoe (also e'bu, i'bu), fight, battle; break eg eggs, become lame
 
 Acoli (n) Luo tribe east of Lugbara and northwest of Langi, Acholi people
 
@@ -234,15 +238,15 @@ acoza (n) lameness (also acota)
 
 acozaru (adj) lame
 
-ada (adj) true (also adaada, tandi); [(v) pour] eg Putini ma leta ada! = Putin's love is true!
+ada (adj) true (also adaada, tandi); (v) pour eg Putini ma leta ada! = Putin's love is true!
 
 Adada (n) rock, hill in Tara
 
 Adalafu (n) village near Arua City separated from Jiako by Oli River
 
-adaza (adj) feeble, malnourished; [(n) chaff]
+adaza (adj) feeble, malnourished; (n) chaff
 
-adi (n) legend, function where multiple generations of Lugbara in a particular clan gather to hear their origin stories plus share meat; [(v) abandon, desert; choke] eg Martineli ni adi. = Martinelli is a legend.
+adi (n) legend, function where multiple generations of Lugbara in a particular clan gather to hear their origin stories plus share meat; (v) abandon, desert; choke eg Martineli ni adi. = Martinelli is a legend.
 
 adi 'dipi (n) historian
 
@@ -252,19 +256,21 @@ adisi (n) humour, comedy, chat, fun talk (also adu, andru) eg Tobi Tobiasi "High
 
 Adjumani (n) district east of Moyo across the Albert Nile (also East Moyo) eg Skovia ni aa Adjumani-a. = Scovia stays in Adjumani.
 
+adra (n) fetish (also uri, yakani), violence, anger
+
+adraka (n) poison
+
 Adranga (n) Lugbara clan in DR Congo
 
 adre (v) be, is, was
 
 adreni (phr v) is not (plu. adrekini) eg Ewa adreni muke ku 'ba andrale eli 120 (turu alu kali iri) pini. = Alcohol is not good for persons under the age of 120.
 
-adri (n) brother (also adrii), means rock in Hindi eg Yuda ni Yema ma adri. = Yuda is Yema's brother.
+adri (n) brother (also adriazi), means rock in Hindi eg Yuda ni Yema ma adri. = Yuda is Yema's brother.
 
-adriza (n) behaviour
+adriza (n) behaviour, manner, conduct
 
-adra (n) fetish (also uri, yakani), violence, anger
-
-adro (n) uncle; spirit placed in a body by Divine Spirit and stands for the individuality of its possessor (one of the elements of a human while others include body, breath, soul [orindi] and tali)
+adro (n) maternal uncle; spirit placed in a body by Divine Spirit and stands for the individuality of its possessor (one of the elements of a human while others include body, breath, soul [orindi] and tali) eg Jad ni ma adro. = Jad is my maternal uncle.
 
 ADROA (n) the Creator; sky GOD in Lugbara mythology appears in both aspects - good and evil (ADRO) though a single Deity, appeared on earth as a very tall white man near death with only one half of the body, missing one eye, one leg, etc; Divine Absolute Spirit, his children were adroanzi (also ADRONGA in Aringa, ADROO, ADROU) eg ADROA 'ba o'bapiri = GOD who created people
 
@@ -274,9 +280,9 @@ adrogo (n) idol, false god eg Muhamadi nze adrogo karakara Kaba ma ageia Meka-a.
 
 adromva (n) nephew, niece
 
-adropi (n) paternal uncle eg Kefa ni ma adropi. = Kefa is my paternal uncle.
+adropi (n) place where one's mother comes from, uncle
 
-adroyi (n) maternal uncle eg Jadi ni ma adroyi. = Jad is my maternal uncle.
+adroyi (n) uncle
 
 adu (n) humour
 
@@ -292,7 +298,7 @@ a'data (n) insult, abuse
 
 a'danga (n) criticism
 
-a'di (n) war, battle, fight, bon fire eg during e'yo o'beza (also koyi koyi); [(v) cook] eg Mi a'di mani mutere! = Cook for me mutere!
+a'di (n) war, battle, fight, bon fire eg during e'yo o'beza (also koyi koyi); (v) cook eg Mi a'di mani mutere! = Cook for me mutere!
 
 a'di? (interj, pron) who? (also a'di-i?) eg 'Da a'di-i? = Who is that?/ A'di kini 'ba odra ni? = Who said people should die?
 
@@ -302,7 +308,7 @@ a'diko (n) riddle (also adhiko) eg A'diko ti si: Baka fi ni, nyondo ni ti ma mul
 
 a'diza (n) cooked, boiled
 
-a'du (interj, pre-determiner, pron) what; [(n) silver] eg A'du ei Mande be ni? = What happened to Monday?
+a'du (interj, pre-determiner, pron) what; (n) silver eg A'du ei Mande be ni? = What happened to Monday?
 
 a'duko (n) story
 
@@ -328,7 +334,7 @@ afa feza (n) thanksgiving (also awa'difo feza)
 
 afa idri koko (n) non-living thing eg Mutuka 'ba olipiri ni afa idri koko. = A taxi is a non-living thing.
 
-afa ofuza (n) production
+afa ofuza (n) production eg Lematia ma afa ofuza chu be. = Lematia's production has market.
 
 Afayo (n) male-given name meaning "No wealth" (also Afayoa)
 
@@ -344,23 +350,31 @@ afimaniru (adj) selfish, self-centred
 
 Afrika (n) Africa eg Adamu Chira/ Kira ni aa Afrika-a i-ma oku Eva Vikitoria be. = Adam Kiira stays in Africa with his wife Eve Victoria.
 
-afu (v) compete, break something fragile, fight; [(n) pride, fight (or battle)]
+afu (v) compete, scramble for sth, break something fragile, fight over sth; (n) pride, fight (or battle)
 
 afu 'ba (phr v) put on airs
 
 afuru (v) proud eg Baganda ki afuru eyi ma suru si. = Baganda are proud of their culture.
 
-aga (adv) beyond; [(v) pass] eg YESU le ma aga. = JESUS loves me beyond.
+aga (adv) beyond; (v) pass eg YESU le ma aga. = JESUS loves me beyond.
 
-agaa (adv) halfway (also otru)
+agaa (adv) halfway, middle, amidst, between, among (also otru)
+
+agadri (n) stubbornness
+
+agadria (adj) in the middle (also agadua)
+
+agandua (adv) in the middle
+
+agara (adj) passed, more than, exceeding
 
 agara'ba (n) whiteman (also ogara'ba), sb with axe
 
-agata (n) passing, exceeding; [refusal to do sth when asked]
+agata (n) pass(ing), exceeding; refusal to do sth when asked
 
 agati (n) chest
 
-agaza (n) victory, triumph, success (also ndeza) eg Agaza ni afa mini leri isuzu. = Success is getting what you want.
+agaza (n) (by)pass, victory, triumph, success (also ndeza) eg Agaza ni afa mini leri isuzu. = Success is getting what you want.
 
 Agazu (n) name meaning "For victory"
 
@@ -386,13 +400,13 @@ ageyitema (n) watch, watchfulness, security (also ageitema, ageyiteza, agei teza
 
 agi (n) friend (also agyi, alipi) eg Abu Bakari ni andra Muhamadi ma Agi Ndeni. = Abu Bakr was Muhammad's Best Friend.
 
-ago (n) male animal, husband, boyfriend; [pumpkin (also nzu)], totem for Logiri eg Mao ni eri ma ago. = Mao is her husband.
+ago (n) male animal, husband, boyfriend; pumpkin (also nzu), totem for Logiri eg Mao ni eri ma ago. = Mao is her husband.
 
 agobi (n) pumpkin leaves eg Aparaka ma tibi agobi. = Carelessness has pumpkin leaves as soup/ Carelessness feeds on pumpkin leaves. [Lugbara Proverb]
 
 agofe (n) pillar, post, in charge
 
-Agofe (n) rotationally elected Leader of all the Lugbara Clans (in Uganda and DRC plus the Diaspora), King of Lado who must be above 55 years old, Agofe Jalusiga - an Alur ruled during colonial times before Mariko Boroa (from Terego) assumed power after Uganda's 1962 Independence until cultural institutions were banned by President Milton Obote in 1967 and Jason Avutia (from Vurra) came in during the NRM regime around 1987 up to the 2023 election of Manase Yuma from Ayivu who was ousted in 2025 and replaced by Anzelo Alia Pati from Maracha (Other records mention John Anacleto Atobua who was assassinated on 14th April 1948 because he asked USSR to raise the question of Lado at the UN around 1947 as the 1st Agofe; then John Bart Agami Onzima II) eg Jasoni Avutia (engazu Vurra) ni andra Lugbara Kari ma Agofe nazori pere eli 2023. = Jason Avutia (from Vurra) was Lugbara Kari's 3rd Agofe until 2023.
+Agofe (n) rotationally elected Leader of all the Lugbara Clans (in Uganda and DRC plus the Diaspora), King of Lado who must be above 55 years old, Agofe Jalusiga - an Alur ruled during colonial times before Mariko Boroa (from Terego) assumed power after Uganda's 1962 Independence until cultural institutions were banned by President Milton Obote in 1967 and Jason Avutia (from Vurra) came in during the NRM regime around 1987 up to the 2023 election of Manase Yuma from Ayivu who was ousted in 2025 by Cabinet due to petitions and replaced by Anzelo Alia Pati from Maracha (Other records mention [His Majesty Culu] John Anacleto Atobua who was assassinated on 14th April 1948 because he asked USSR to raise the question of Lado at the UN around 1947 as the 1st Agofe; then John Bart Agami Onzima II) eg Jasoni Avutia (engazu Vurra) ni andra Lugbara Kari ma Agofe nazori pere eli 2023. = Jason Avutia (from Vurra) was Lugbara Kari's 3rd Agofe until 2023.
 
 agofuku (n) love potion, sth a Lugbara woman does to keep her husband safe from being snatched by another woman like cooking her man's favourite food, spices, smelling nice, dressing enticingly, sex, submission, respect or peaceful disposition
 
@@ -404,7 +418,7 @@ agopa (n) pumpkin stem
 
 agrikeca (n) agriculture (also azi amvu ni, amvu 'yaza)
 
-agu (n) person; [(v) bend (also avu)] eg Mi agu eri Bekihamu le! = Bend it like Beckham!
+agu (n) person; (v) bend (also avu) eg Mi agu eri Bekihamu le! = Bend it like Beckham!
 
 agu a'di 'dipi driwala ijizu (n) freedom fighter
 
@@ -414,13 +428,13 @@ agu afa jepiri (n) buyer
 
 agu angu onepi (n) tourist
 
-agu ase lipiri (n) grasscutter; [grasscutters] eg WeNGA ni amuti agu ase lipiri yi ni. = WeNGA is the association for grasscutters.
+agu ase lipiri (n) grasscutter; grasscutters eg WENGA ni amuti agu ase lipiri yi ni. = WENGA is the association for grasscutters.
 
 agu azoru (n) patient
 
 agu blogu sipiri (n) blogger (also bloga)
 
-agu 'ba ni oni tu (n) famous person, celebrity; [famous people]
+agu 'ba ni oni tu (n) famous person, celebrity; famous people
 
 agu e'bi okupi (n) fisherman eg Yekini ni agu e'bi okupi. = Yekini is a fisherman.
 
@@ -434,11 +448,15 @@ agu mupira vupi (n) football referee
 
 agule (n) transmasculine
 
-agupi (n) male, husband, man; [men] eg Kintu ni Nambi ma agupi. = Kintu is Nambi's husband.
+agupi (n) male, husband, man; males, husbands, men eg Kintu ni Nambi ma agupi. = Kintu is Nambi's husband.
 
-agupia (adv) (of women) married to a man
+agupia (adv) (of women) married to a man, lad
+
+agupiamva (n) boy, lad, male child eg Ondia, Draru ma adri, ni agupiamva. = Ondia, Draru's brother, is a boy.
 
 agupianzi (n) boys, male children eg Agupianzi mu Wobulenzi-a. = The boys went to Wobulenzi.
+
+Agusito (n) male-given name, August (8th month of the year)
 
 Aguta (n) male-given name
 
@@ -446,11 +464,11 @@ agwara (n) dance by the Lugbara and Kebu
 
 Agwoko (n) Agwok, trading centre after Nebbi on the Pakwach Highway
 
-ai (n) salt; [(v) trap with rope or string, get caught, accept, welcome, respond, admit, affirm, pray; ask] (archaic a'i) eg Rubeni ni mu MUNGU ai Dominioni Theata-a. = Reuben is going to pray to GOD at the Dominion Theatre.
+ai (n) salt; (v) trap with rope or string, get caught, accept, welcome, respond, admit, affirm, pray; ask, beg (archaic a'i) eg Rubeni ni mu MUNGU ai Dominioni Theata-a. = Reuben is going to pray to GOD at the Dominion Theatre.
 
 Aiivu (n) subcounty near Maracha, south of Yivu and Omugo, north of Katrini
 
-Aiko (n) penname of a committed Black Ugandan Artist who dropped out the letter Y from his surname at 6 years of age, shortened from Ayiko, American musician also known as Jhene Chilombo, Scandinavian male-given name also used in Northern Germany as a variation of Eike or Ekke [Blade], Chinese boy-name, Japanese female-given name meaning "Love child", "Little Love" or "Child who will be loved", mountain in Finland eg Aiko Japani-a ngo "Kisshug". = Aiko in Japan sang "Kisshug".
+Aiko (n) penname of a committed Black Ugandan Artist who dropped out the letter Y from his surname at 6 years of age (Can mean no Artificial Intelligence, no salt or trapping salt, but rarely Aiiko), shortened from Ayiko, American musician also known as Jhene Chilombo, Scandinavian male-given name also used in Northern Germany as a variation of Eike or Ekke [Blade], Chinese boy-name, Japanese female-given name meaning "Love child", "Little Love" or "Child who will be loved", mountain in Finland eg Aiko Japani-a ngo "Kisshug". = Aiko in Japan sang "Kisshug".
 
 aise (n) grass
 
@@ -462,7 +480,7 @@ aita (n) faith (sometimes aitaa though might mean "in faith") eg Aita ma mba oni
 
 aitipa (n) sun-wivered salty leaves burnt to create salt after mixing the ash with water and sieving through a container
 
-aiza (n) prayers, fellowship
+aiza (n) prayers, fellowship, affirmation, acceptance, reply, admittance; begging, receiving
 
 aizu (v) beseech
 
@@ -470,17 +488,15 @@ Ajai (n) game reserve towards eastern Arua on Rhino Camp Road, used to be famous
 
 Ajara (n) suburb or parish in Ayivu north of Manibe on Koboko Highway after Enyau River, near Omi
 
-aje (n) buying, cost, price; [traditional marriage where a groom pays a cow for the bride plus extra cows depending on number of children born, give away, kwanjula] eg Ndri ma aje Yuganda ma Silingi 50,000. = The price of a goat is 50,000 Ugandan Shillings.
+aje (adv) yesterday; (n) buying, cost, value (also ajeni), price; traditional marriage where a groom pays a cow for the bride plus extra cows depending on number of children born, give away, kwanjula (also ajeta) eg Ndri ma aje Yuganda ma Silingi 50,000 eli 2017 si. = The price of a goat was 50,000 Ugandan Shillings in 2017.
 
 aje koko (adj) free, priceless, cheap eg buku aje koko = free book
 
 aje manyaka (n) small price (also o'boloko aje)
 
-ajee (adv) yesterday
-
 Ajekuru (n) female-given name meaning "They have not paid anything for me"
 
-ajeru (n) expensive eg E nga azi pere afa ajeru ni ecazu ajekoko. = Work until expensive things become cheap.
+ajeru (n) expensive, dear, costly (also ajesi) eg E nga azi pere afa ajeru ni ecazu ajekoko. = Work until expensive things become cheap.
 
 aji (n) taste, flavour; blessing (drileba), luck
 
@@ -488,7 +504,7 @@ aji di (v) defame, cause to lose interest, dilute taste, spoil name or reputatio
 
 Ajia (n) subcounty south of Oluko, north of Arivu eg Alani ni 'ba sa Ajia-a. = Allan was buried in Ajia.
 
-ajiko (n) pot for preparing millet flour; [tastelessness (also ajiyo)]
+ajiko (n) pot for preparing millet flour; tastelessness (also ajiyo)
 
 Ajikoro (n) place in Maracha
 
@@ -498,11 +514,11 @@ Ajira (n) marketplace in Maracha East, subcounty that was formed from Tara
 
 ajiru (adj) tasty, flavoured; blessed (also drilebaru), lucky eg Harieti ni ajiru. = Harriet is blessed.
 
-aju (n) spear; [(v) insult using obscene words] eg Shaka ma aju aliaru. = Shaka's spear is short.
+aju (n) spear, javelin; (v) insult using obscene words eg Shaka ma aju aliaru. = Shaka's spear is short.
 
 Ajua (n) great grandfather of the seven true Tara parishes in Maracha named after his seven grandchildren through Opodria (whose mother was given to him in Onduparaka) then Naye. In Ovisoni during his quest to find the source of Enyau River, Ajua paid brideprice for another wife who gave birth to Otu, the father of Vurra after whom a clan and county are named in western Arua District eg Ajua ni a'bi mba Tara ni woro. = Ajua is the real ancestor for the whole of Tara.
 
-aka (adv) deliberately
+aka (adj) big, large, enormous, grand, huge; (adv) deliberately, purposely, intentionally, knowingly; soften (said of fruits)
 
 akaaka (adj) soft
 
@@ -510,7 +526,9 @@ akanya (n) ass, horse
 
 akanyamva (n) colt, young donkey
 
-akaza (v) soft, weak, molten
+akata (n) melting
+
+akaza(ru) (adj) soft, weak, molten
 
 akiki (n) pimple eg Ninsima ma akiki yo. = Ninsiima has no pimple.
 
@@ -526,7 +544,7 @@ akpaku (n) chin
 
 aksidenti (n) accident (also drileonzi)
 
-aku (n) home; [(v) cover, close usually from above]
+aku (n) home; (v) cover, close usually from above
 
 aku ambo (n) city (literally big home), headquarters, place with over 500,000 dwellers and bigger than a municipality that has a lower limit of 100,000 inhabitants eg Kristofu mu Aku ambo Kinshasa-a! = Kristof has gone to Kinshasa City.
 
@@ -542,7 +560,9 @@ akumanikuye (n, informal) generosity, selfless charity, givers never lack becaus
 
 akuruma (n) bread made from smashed white ants eg Dismasi ni akuruma nya. = Dismas is eating akuruma bread.
 
-ala (adj) clean, neat, smart, good, fine (maganda in Filipino); [(n) paste from groundnuts or simsim (also odi); (v) put across, season food] eg Hosa ala i'bi odi si. = Hosa seasoned the fish with groundnut paste.
+akuza (adj) covered
+
+ala (adj) clean, neat, smart, good (also alaru), fine (maganda in Filipino); (n) paste from groundnuts or simsim (also odi); (v) put across, season food eg Hosa ala i'bi odi si. = Hosa seasoned the fish with groundnut paste.
 
 ala pititi (adj) very good
 
@@ -554,23 +574,27 @@ alanda (n) bread made from small white ants (also amboroko)
 
 alapapa (n) butterfly
 
-alata (n) health
+alata (n) health, cleanliness, smartness, neatness
 
-alatararu (adj) healthy, holy eg Opi ADROU okpo dria beri, alatararu, alatararu, alatararu, ERI ndra indi ERI curu'do ci, vini ngapi emupiri-i! = Holy, holy, holy, LORD GOD Almighty WHO was and is and is to come!
+alatararu (adj) healthy, smart, neat, clean, good, holy eg Opi ADROU okpo dria beri, alatararu, alatararu, alatararu, ERI ndra indi ERI curu'do ci, vini ngapi emupiri-i! = Holy, holy, holy, LORD GOD Almighty WHO was and is and is to come!
 
-ale (n) love, liking (also leta); [stomach, belly, inside (also aleni)] eg A'duni nga ama awa ale MUNGU ni be ni? = What will separate us from the love of GOD?
+ale (n) love, liking (also leta); stomach, belly, inside (also aleni); (v) exchange eg A'duni nga ama awa ale MUNGU ni be ni? = What will separate us from the love of GOD?
 
 ale azoza (n) stomach ache, stomach pain
 
 ale ngurufu (n) potbelly
 
+alea (adj) pregnant, (prep) inside, in the stomach
+
 Alemani (n) Germany (also Girimani)
 
-ali (adj) short (also alia, aliaru), (adv) far away; (v) pass by, cut [(n) adultery (also ali'baza), crime]
+ali (adj) short (also alia, aliaru), (n) adultery (also ali 'baza), brideprice, crime, plant with thorns, far away (also re), deep; (v) pass by, cut
 
 aliasi (adv) in short
 
 Aliba (n) ward or parish of Aroi Subcounty in Ayivu County of Arua District
+
+ali'bo (n) partridge
 
 Alifa azini Omega (n) Alpha & Omega
 
@@ -580,9 +604,11 @@ Alikua (n) place in Maracha where Belgians built a small pyramid in the 1920s, t
 
 alimva (v) bastard, illegitimate child
 
-alio (n) poverty eg Alio le ma nde. = Poverty wants to defeat me.
+alio (n) poverty; poor person eg Alio le ma nde. = Poverty wants to defeat me.
 
 Alioma (n) name given when family is in poverty or groom's family is poor (also Alioru, Alio)
+
+alioru (adj) poor 
 
 alipi (n) friend (also agoyi) eg Sisilia ni ma alipi! = Cecilia is my friend!
 
@@ -590,7 +616,7 @@ aliria (n) virgin eg YESU ma andri ni andra aliria. = JESUS's mother was (someti
 
 alitara (n) altar
 
-aliza (n) cut (something)
+aliza (n) cut (sth)
 
 alo (n) peg for tethering animals
 
@@ -602,9 +628,11 @@ alota (n) loosening
 
 aloza (adj) loosened
 
-alu (n) one, singular; [mole, grasscutter; taste, sweetness (also aluta); (v) peep]
+alu (n) one, singular; mole, grasscutter; taste, sweetness (also aluta); (v) peep
 
-alu alu (adj) tasty; [one by one]
+alu alu (adj) tasty; one by one
+
+alu toko (adj) one only
 
 alugbe (n) unhatched egg
 
@@ -612,7 +640,7 @@ aluma (n) curse
 
 Alungaru (n) old woman in Lugbara mythology who helped Oli trace Kibira's spear
 
-Aluru (n) Luo tribe south of Lugbara; [Lugbara dialect in DR Congo]
+Aluru (n) Luo tribe south of Lugbara; Lugbara dialect in DR Congo
 
 aluruga (n) south direction, because of proximity to Alur People (also baria)
 
@@ -620,9 +648,9 @@ Aluruti (n) Alur language
 
 alutukubi (n) creeping greens
 
-aluza (adj) tasty eg Olanya kini: Roleksi chapati ni aluza! = Olanya said: Rollex chapati is tasty!
+aluza(ru) (adj) tasty eg Olanya kini: Roleksi chapati ni aluza! = Olanya said: Rollex chapati is tasty!
 
-ama (pron) we, us; [(v) assess, judge, feel]
+ama (pron) we, us; (v) assess, judge, feel
 
 Amadingo (n) welfare system where rich Lugbara take care of poor relatives
 
@@ -640,7 +668,7 @@ ambiriga ambiriga (n) sex
 
 Ambo Towi (n) the Big 5 eg Ambo 5 mi isu woro suru were ma alea ekile Yuganda; eyi: ewa, odru, obirio, kami azini o'du! = All the Big 5 can be found in few countries like Uganda; they are: elephant, buffalo, rhino, lion and leopard!
 
-ambo (adj) great, big, huge (also amboo, ambooru, ambu, ambo, amboru) (n) master, boss, supervisor, respected person; [stubbornness (also drionzi, agadri)]
+ambo (adj) great, big, huge (also amboo, ambooru, ambu, ambo, amboru) (n) master, boss, supervisor, respected person; stubbornness (also drionzi, agadri)
 
 ambo jindia (n) sergeant at arms
 
@@ -670,7 +698,7 @@ amve (prep) out, outside, abroad, overseas
 
 amvi (n) sister (also amvii, sisi), touch (also olo) eg Ketra ni Fiona ma amvi. = Ketra is Fiona's sister.
 
-amvu (n) garden; [(v) embrace] eg Ayakaka ni ti dro amvu-a ri si. = Ayakaka is chasing the cows from the garden.
+amvu (n) garden; (v) embrace eg Ayakaka ni ti dro amvu-a ri si. = Ayakaka is chasing the cows from the garden.
 
 amvu 'yaza (n) farming, agriculture (also azi amvu ni, informal agrikeca)
 
@@ -684,7 +712,7 @@ anderiku (n) chiefly stool
 
 andesoma (n) reward (also orodri)
 
-andra (adv) sometime ago (also andraa); [(prep) down below, down the slope, beneath] eg Idi Amini ni andra Yuganda ma Prezidenti. = Idi Amin was sometime ago President of Uganda.
+andra (adv) sometime ago (also andraa); (prep) down below, down the slope, beneath eg Idi Amini ni andra Yuganda ma Prezidenti. = Idi Amin was sometime ago President of Uganda.
 
 andrale (n) east direction (also etu ni efuria)
 
@@ -698,13 +726,13 @@ andreli (n) dew
 
 andreti (n) face (also mileti) eg Asinduru isu coki i-ma andreti-a. = Asinduru found chalk on her face.
 
-andri (n) mother (also andrii, andre, andree, ayia, ma, mama, mami); [(v) visit (also andri), supervise, regulate, check] eg Ndezo ni ma andri. = Ndezo is my mother.
+andri (n) mother (also andrii, andre, andree, ayia, ma, mama, mami); (v) visit (also andri), supervise, regulate, check eg Ndezo ni ma andri. = Ndezo is my mother.
 
 andrike (n) witchcraft (also acife, enata)
 
 androndro (n) gossip (also songi songi, kimbelembele, lugambo)
 
-andru (adv) today; [(n) humour, abandoned home, deserted place] eg Andra ma o'dapiri, andrusi o'da ni ma ku. = The one who abused me before, today doesn't abuse me.
+andru (adv) today; (n) humour, abandoned home, deserted place eg Andra ma o'dapiri, andrusi o'da ni ma ku. = The one who abused me before, today doesn't abuse me.
 
 Andruvu (n) suburb northeast of Arua City before Manibe and Ombaci
 
@@ -786,7 +814,7 @@ Anyiribu (n) place and subcounty in Arua District near Ewanga
 
 anyoya (n) boiled maize seeds and beans plus fried onions for breakfast or a meal (also called mix in Arua Town, githeri in Kikuyu), staple food of the Japadhola who are Luo like Alur and Kenyans, means "fermented" in Alur and is usually prepared at night to be consumed in the morning
 
-anyu (n) bee, honey; [simsim; (v) switch off] eg 'Ba azi alupi anyu le ni yo! = There is no one as sweet as honey! [Lugbara Proverb]
+anyu (n) bee, honey; simsim; (v) switch off eg 'Ba azi alupi anyu le ni yo! = There is no one as sweet as honey! [Lugbara Proverb]
 
 anyu oso (n) honey syrup (literally honey fats)
 
@@ -810,7 +838,7 @@ apata (n) loins
 
 ape ti (v) comment
 
-api (v) get satisfied; [(n) white ants collected in the middle of the night around 11pm to midnight (also inia)]
+api (v) get satisfied; (n) white ants collected in the middle of the night around 11pm to midnight (also inia)
 
 apife (n) role model
 
@@ -828,7 +856,7 @@ apu stowa (n) app store
 
 Apurutandi (n) Protestant (also Purukati)
 
-ara (n) python; [cover] eg Azaria kini: Ara 'do yo! = Azaria said: This python is not there!
+ara (n) python; cover eg Azaria kini: Ara 'do yo! = Azaria said: This python is not there!
 
 Arabiti (n) Arabic language, Most Spoken Language from outside Africa
 
@@ -840,7 +868,7 @@ arau (n) monkey
 
 are (v) stuck in the throat, choke
 
-ari (n) blood; [drum; (v) scramble, hurry] eg YESU ma ari ni ama pa ni. = The blood of JESUS saves us.
+ari (n) blood; drum; (v) scramble, hurry eg YESU ma ari ni ama pa ni. = The blood of JESUS saves us.
 
 ari aci (n) cheekiness, adrenaline, literally hot blood (also fujo)
 
@@ -854,7 +882,7 @@ Ari Tuza (n) High Blood Pressure (also Ari Tuza 'Bua)
 
 aria (n) bird eg Aria driori ni o'bu alari nyani. = The early bird eats the good worm. [Lugbara Proverb]
 
-aria anya (n) rice (also mucele, {In Filipino, kanin means cooked rice, sinangag is fried rice, lugaw is rice porridge, puto is steamed rice cake})
+aria anya (n) rice (also mucele, [In Filipino, kanin means cooked rice, sinangag is fried rice, lugaw is rice porridge, puto is steamed rice cake])
 
 ari'bo (n) enemy, foe, rival eg Sitani ni ama ari'bo. = Satan is our enemy.
 
@@ -870,7 +898,7 @@ Arinzoro (n) place East of Muni University
 
 Ariwara (n) trading town in northeastern DR Congo, place near Ociba and Orawa in Arua, means "the blood dried" in Lugbara
 
-aro (n) eight; [medicine (also dawa)] eg Musi ma andri fe mani aro ale azoza ni. = Musi's mother gave me medicine for stomachache.
+aro (n) eight; medicine (also dawa) eg Musimenta ma andri fe mani aro ale azoza ni. = Musimenta's mother gave me medicine for stomachache.
 
 aro anzi tizu anyia ku (n) contraceptive (also aro anzi tiza atripi, aro anzi tizu anyia anyia ku, aro anzi tiza awazu)
 
@@ -886,6 +914,8 @@ aru (n) prison (also aru jo), prisoner, sprain eg Nelsoni Mandela aa aru-a eli 2
 
 Aru (n) place in Congo west of Vurra where prisoners from Arua were taken by Belgian colonialists
 
+arua (n) small prison, in prison (also aru-a)
+
 Arua (n) town or city in northwestern Uganda, second Busiest Airfield (RUA) in the Republic, 13 km east of the DR Congo borderline, established on 14th June 1914, one of the Best Medium-size Cities in Africa during 2015, ancient Capital of West Nile Province, declared a regional city by Parliament on 28th April 2020, Area Code 0476 from Madi Okollo to Koboko, Business and humanitarian hub for neighbouring countries (Congo/ Sudan and Central African Republic), Idi Amin's hometown, means "small prison" or "in prison" and was named after a hill where Belgian colonialists imprisoned people directly southwards from Arua Avenue before transferring them to the bigger prison in Aru (DRC), Roman Catholic diocese north of Nebbi, Ugandan district and City-state from Madi Okollo to South Sudan border, First-Class business hub
 
 Arua Hilu (n) hill that inspired the name Arua [because of the Belgian colonial prison (Aru in Lugbara) that used to be near it] found directly southwards from Arua Avenue with a 360-degree-panoramic view of the entire locality; city division comprising 22 cells in 2018, subcounty in Arua District - others include Adumi, Ajia, Arivu, Aroi, Dadamu, Logiri, Manibe, Offaka, Ogoko, Okollo, Oli River, Oluko, Pajulu, Rhino Camp, Rigbo, Uleppi and Vurra; football club formed in 2010 as Doves FC but bought and rebranded 100 percent by Joel Aita in 2020 before qualifying (as invincible 2021 Big League Champions) for their maiden 2022 Ugandan Premier League (also Arua 'Be wereari)
@@ -898,7 +928,7 @@ ARUDIFA (abbr) Arua District Farmers Association
 
 arumadri (n) policewoman eg Jeni ni arumadri. = Jenny is a policewoman.
 
-arusu (n) bride (also amuro[o], mugole)
+arusu (n) bride (also amuro, mugole)
 
 Aruu (n) place in Uganda eg Oto ni mu Aruu-a. = Otto is going to Aruu.
 
@@ -912,13 +942,13 @@ Aseno (n) Arsenal Football Club (also Asno, Arseno, Arsenali, Arsenalu, Arsenolu
 
 aseti (n) asset
 
-asi (n) heart; [end, cease; tear] eg Ayiko amani ri, ayiko YESU alia; e'yo onzi nyaku-a ri nga asi ra! = Our happiness, is happiness in JESUS; the evil issues on Earth will cease.
+asi (n) heart; end, cease; tear eg Ayiko amani ri, ayiko YESU alia; e'yo onzi nyaku-a ri nga asi ra! = Our happiness, is happiness in JESUS; the evil issues on Earth will cease.
 
 asi 'ba (phr v) hope, trust eg Eri aluzaru tu asi 'bazu YESU dria! = 'Tis so sweet to trust in JESUS!
 
 asialuza (n) sweetheart eg Ajuru edri simu waraga aliaru i-ma asialuza vu. = Ajuru sent an SMS to her sweetheart.
 
-asianzu (n) peace, mercy (also asianzuru)
+asianzu (n) peace, mercy
 
 asi'baza (n) hope
 
@@ -928,7 +958,7 @@ asi'duza (n) forgetting
 
 asiliza (n) stomach pain
 
-asindriza (n) mercy, peace eg Asindriza Kristo dri 'ba woro ni! = Peace of Christ for all!
+asindriza (n) mercy, mercifulness, peace eg Asindriza Kristo dri 'ba woro ni! = Peace of Christ for all!
 
 asinyoza (n) heartbreak, heartwreck eg Toni ma asinyoza ati ra. = Toni's heartbreak healed.
 
@@ -954,7 +984,7 @@ asoso (n) gifts (also feta)
 
 asu (n) report (also repoti) eg Angela si asu. = Angela wrote a report.
 
-ata (adv) even, neither; [(n) father] eg Ata dra econi ama awa ku! = Even death cannot separate us!
+ata (adv) even, neither; (n) father eg Ata dra econi ama awa ku! = Even death cannot separate us!
 
 atalau (n) reverend, clergy (also atalo)
 
@@ -962,7 +992,7 @@ Atamva (n) Mister, Mr., used to address a man you do not know too eg Atamva Gugo
 
 Ataza (n) Miss, Ms. eg Ataza Kawino = Miss Kawino
 
-ati (v) support, cure, heal; [father] eg Nanyombi ni "Liverpool FC" ati. = Nanyombi supports Liverpool FC.
+ati (v) support, cure, heal; father eg Nanyombi ni "Liverpool FC" ati. = Nanyombi supports Liverpool FC.
 
 atiati (adj) drunk
 
@@ -970,7 +1000,7 @@ ati'ba (n) supporter
 
 ati'bo (n) servant
 
-Atifiso Intelijensi (n) AI, Artificial Intelligence, Artificial Imagination, Artificial Creativity, Synthetic Intelligence (also Ondua Idezaru) eg Lugbara Artifiso Intelijensi = Lugbara AI
+Atifiso Intelijensi (n) AI, Artificial Intelligence, Artificial Imagination, Artificial Creativity, Synthetic Imagination, Synthetic Intelligence (also Ondua Idezaru) eg Lugbara Artifiso Intelijensi = Lugbara AI
 
 Atiku (n) male given name meaning "I do not conceive" or "He does not get drunk" eg Atiku ni Naijeria ma Prezidenti. = Atiku is the President of Nigeria.
 
@@ -980,7 +1010,7 @@ atita (n) support (also atitanga), healing eg Aro mani je Novafinia Arojo-a fe a
 
 atri (v) stop, block
 
-atu (v) kick; [squat]
+atu (v) kick; squat
 
 atuluku (n) fireplace
 
@@ -1006,7 +1036,7 @@ ava liza isupi'bo (adj) retired (also ava liza isupira, ava lipiri) eg Imbapi av
 
 avata (n) avatar
 
-avi (v) get lost; [play] eg Mva avi Odramacako-a Krismasi si. = A child got lost in Odramacako during Christmas.
+avi (v) get lost; play eg Mva avi Odramacako-a Krismasi si. = A child got lost in Odramacako during Christmas.
 
 avita (n) play, drama, game, sports eg Miedema ma avita ala! = Miedema's game is good!
 
@@ -1014,7 +1044,7 @@ avivi (n) flavour, odour, stench
 
 avizaru (adj) lost
 
-avu (n) deadbody, corpse, carcass; (v) bend; [drown]
+avu (n) deadbody, corpse, carcass; (v) bend; drown
 
 avunga (n) squeezing a male's testicles (balls); bendover
 
@@ -1022,7 +1052,7 @@ avuri (adj) late (n) deceased
 
 avuta (n) things given to wipe away the tears of the bereaved
 
-awa (v) quarrel; [divide, separate, share]
+awa (v) quarrel; divide, separate, share
 
 awa'difo (n) thanks, gratitude, appreciation, tithe, 10 percent church tax, religious gift, offering
 
@@ -1034,7 +1064,7 @@ awata (n) quarrel, separation, division
 
 Awata (n) name given by Kebu during their migration to a place currently called Ewuata, means "Let us separate or depart"
 
-awi (n) heritage; [(v) remain] eg MakAlista ma mva asizuri awi akua a'dule. = McAllister's last child stayed home alone.
+awi (n) heritage; (v) remain eg MakAlista ma mva asizuri awi akua a'dule. = McAllister's last child stayed home alone.
 
 awita (n) things the deceased leaves behind, staying back
 
@@ -1048,7 +1078,7 @@ awoko i'daza (n) demonstration to express anger or disagreement
 
 awokoru (adj) angry, irritable
 
-awu (n) cry, pity, sorrow; [(v) peel off skin, burn outer part quickly] eg Lazaro ka andra e'yo eri ra fo, ta 'di we 'do, awu azi ta 'do yo. = If Lazarus had sometime ago listened to advice, then, there wouldn't be any cry here.
+awu (n) cry, pity, sorrow; (v) peel off skin, burn outer part quickly eg Lazaro ka andra e'yo eri ra fo, ta 'di we 'do, awu azi ta 'do yo. = If Lazarus had sometime ago listened to advice, then, there wouldn't be any cry here.
 
 awupi (n) paternal aunt eg Dina ni ma awupi. = Dina is my paternal aunt.
 
@@ -1058,7 +1088,7 @@ awuzio (n) widower
 
 a'wia (n) brown grasshopper (also 'wia)
 
-aya (exclamation) okay, informal farewell, (n) Koranic verse; [iron bar, wire (also waya), iron, metal; copper coins, money payment; (v) shake, tremble, frighten]
+aya (exclamation) okay, informal farewell, (n) Koranic verse; iron bar, wire (also waya), iron, metal; copper coins, money payment; (v) shake, tremble, frighten
 
 ayaka (n) shopping basket made of twigs and smeared with cow dung, used for collection of valued items and a measure, fish is always put in head first so that the tail shows
 
@@ -1066,7 +1096,7 @@ ayi (n) wet season
 
 Ayi (n) river in Maracha
 
-ayia (n) mother (also anzi andri); [wilderness; west direction, because it was believed that the west was a wilderness with few people and unknown things (also etu ni 'deria, orule)] eg Ayia ma ndu yo! = There is no other mother! [Lugbara Proverb]
+ayia (n) mother (also anzi andri); wilderness; west direction, because it was believed that the west was a wilderness with few people and unknown things (also etu ni 'deria, orule) eg Ayia ma ndu yo! = There is no other mother! [Lugbara Proverb]
 
 Ayibiri (n) village in Oluko Subcounty near Muni University
 
@@ -1074,7 +1104,7 @@ ayikayi (n) small white insect that moves on the body like a flea
 
 ayiko (n) happiness, happyness, happy-iness (Where I come from, happy-iness is spelt with letter Y), the Y Corner, joy(fulness), celebration, partying, cloud nine, contentment, cheer(fulness), felicity, blessedness, beautitude, tranquility, good fortune, bliss, gladness, good life, rejoicing, well adapted state, condition of supreme wellbeing, good high spirits, eerieness, uplifted spirits, pleasure, delight, welfare, fair weather, good times, satisfaction, enthusiasm, prosperity, progress, prudence, ecstasy, enjoyment, exuberance, elation, jubilation, euphoria, gaiety, merriment, radiance, light-heartedness, joviality, jocundity, eudemonics, belonging, ataraxia (freedom from emotional disturbance), alegria, furaha, xingfu, Glueck, shiawase, (e)sanyu, bonheur (good humour), felicidad, injabulo, o butseme/ ebitsange, iykke, sukha, stesti, onnellisuus/ onni, saeada, sonas, felicita, beatitudinem, fahasambarana, az jargal, schast'ye, thabo, farxad, kabungahan, khwam sukh, mutluluk, su hanh phuc, hapusrwydd, idunu, glik eg Ayiko ni ma fu! = Happiness is killing me/ I'm happy!
 
-Ayiko (n) male-given name (also Aiko which might mean no salt or trapping salt, rarely Aiiko, direct opposite of C[h]andi), place in the south of Maracha eg Ayiko ni Osubo ma mvi. = Ayiko is Osubo's son.
+Ayiko (n) male-given name, direct opposite of C[h]andi), place in the south of Maracha eg Ayiko ni Osubo ma mvi. = Ayiko is Osubo's son.
 
 Ayikobua (n) male-given name meaning "Happiness is in Heaven (up or in the grave)"
 
@@ -1098,7 +1128,7 @@ Ayivu (n) Lugbara clan, territory in which colonialists set up Arua Town, county
 
 ayota (n) rule, regulation, policy, terms, conditions (also azita) eg Ayota azini azita ma vuti ni nga ovu obizaru/ Ayota azini azita nga pa so eyi ma pari-a/ Ayota azini azita ma so pa eyi ma pari-a! = Terms and conditions will be followed/ Terms and conditions will stand in their place/ Terms and conditions should stand in their place (Terms and conditions apply/ T & C apply)! (fig.)
 
-ayu (v) loosen, untie; [use; (n) yam (also gurunya, likinya)] eg 'Ba nya sende ku, 'ba ayu ayu! = People do not eat money, people use it!
+ayu (v) loosen, untie; use; (n) yam (also gurunya, likinya) eg 'Ba nya sende ku, 'ba ayu ayu! = People do not eat money, people use it!
 
 ayuku (n) orange substance scrapped off fermenting cassava 
 
@@ -1118,7 +1148,7 @@ azanga (n) scent, smell, aroma
 
 azangi (n) drugs in Congo (also pagara)
 
-azi (n) work; [(v) announce, say goodbye, woo, vibe] eg "Gadfix" Ruakoa ni azi nga "UBC Radio"-a. = Gadfix Ruakoa works at UBC Radio.
+azi (n) work; (v) announce, say goodbye, woo, vibe eg "Gadfix" Ruakoa ni azi nga "UBC Radio"-a. = Gadfix Ruakoa works at UBC Radio.
 
 azi amvu ni (n) agriculture, farming (also amvu 'yaza, informal agrikeca)
 
@@ -1136,11 +1166,11 @@ azi'ba (n) worker(s), personnel
 
 azini (adj) another (also azi), (conj) and eg Gaetano mvu rawundi azini. = Gaetano drank another round.
 
-aziri (adj) the other; [(n) seven] eg Opi Sulemani ma oku andra turu aziri (pere alifu alu). = King Solomon had 700 (to 1,000) wives.
+aziri (adj) the other; (n) seven eg Opi Sulemani ma oku andra turu aziri (pere alifu alu). = King Solomon had 700 (to 1,000) wives.
 
 azitani (adj) legal
 
-azo (n) sickness; [(v) pain] eg Kadingo ma ale ni azo. = Kadingo's stomach is paining.
+azo (n) sickness; (v) pain eg Kadingo ma ale ni azo. = Kadingo's stomach is paining.
 
 Azo ondrindria niri (n) AIDS (also Silimu)
 
@@ -1152,7 +1182,7 @@ azu (v) block
 
 Bb [sounds like Gb] & 'B'b [Bhbh]
 
-ba (adj) OK, okay, good, alright, fine, well (also baba, muke, ala); [(n) breast]
+ba (adj) OK, okay, good, alright, fine, well (also baba, muke, ala); (n) breast
 
 baasa (n) envelope eg Sali ayu baasa. = Ssali used an envelope.
 
@@ -1240,7 +1270,7 @@ beti (n) bet
 
 betingi (n) betting eg Betingi ni 'ba ma dri susu! = Betting is very addictive!
 
-bi (n) ear; [(v) mud (eg a hut), hold, catch, arrest]
+bi (n) ear; (v) mud (eg a hut), hold, catch, arrest
 
 bi edu (n) ear lobe (also bi edo)
 
@@ -1248,7 +1278,7 @@ biabia (n) earrings, earphones
 
 biasara (n) business (also bizinesi, negosiyo) eg Rokoni ni biasara azi nga. = Rokoni does business work.
 
-bibi (adj) dark; [(n) lollipop] (also lolipopu)
+bibi (adj) dark; (n) lollipop (also lolipopu)
 
 bibia (n) (ear)phone (also yakani, simu)
 
@@ -1306,7 +1336,7 @@ Bondo (n) place south of Arua City eg Mubiru ni "Bondo New Life Guesthouse"-a. =
 
 bonga (n) fist greeting, (v) make a fist to meet another person's fist
 
-bongo (n) cloth (traditional dress of Lugbara was grass or banana fibre for women to cover buttocks and front while men wore animal skin); [fermented milk, Tanzanian Music] eg Stela su bongo imve. = Stella wore a white cloth (skirt).
+bongo (n) cloth (traditional dress of Lugbara was grass or banana fibre for women to cover buttocks and front while men wore animal skin); fermented milk, Tanzanian Music eg Stela su bongo imve. = Stella wore a white cloth (skirt).
 
 boroko (n) hut, temporary house
 
@@ -1356,7 +1386,7 @@ bushera (n) fermented non-alcoholic cereal (usually millet) drink originally fro
 
 busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dria. = A cat eats young chicken all the time.
 
-'ba (n) human, people; [(v) put] (also bha)
+'ba (n) human, people; (v) put (also bha)
 
 'ba aapi suru amveleru (n) diaspora
 
@@ -1444,7 +1474,7 @@ busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dri
 
 'bata (n) placement
 
-'be (n) mountain, hill, rock; [(v) throw] eg Stefano Maria "Crocelli" ni mupira 'be 'bua. = Stefano Maria Crocelli is throwing the ball up.
+'be (n) mountain, hill, rock; (v) throw eg Stefano Maria "Crocelli" ni mupira 'be 'bua. = Stefano Maria Crocelli is throwing the ball up.
 
 'be wereari (n) hill (colloquially hilu)
 
@@ -1454,7 +1484,7 @@ busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dri
 
 'bi (v) taste
 
-'bi'bia (n) bat (flying mammal); [umbrella]
+'bi'bia (n) bat (flying mammal); umbrella
 
 'bi'bio (n) star
 
@@ -1464,7 +1494,7 @@ busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dri
 
 'bo (adv) already eg Unai Emeri nde Yuropa Ligi 'bo. = Unai Emery has won the Europa League already.
 
-'bu (n) grave (also nyadri); [sky, heavens, Heaven, Paradise, Janna, Himmel, Tiantang, Egulu] eg YESU ni 'ba ji 'Bu-a ni. = JESUS is the One who takes people to Heaven.
+'bu (n) grave (also nyadri); sky, heavens, Heaven, Paradise, Janna, Himmel, Tiantang, Egulu eg YESU ni 'ba ji 'Bu-a ni. = JESUS is the One who takes people to Heaven.
 
 'bua (adj, adv, prep) up, high, in Heaven, in the sky, in the grave (also 'bu-a)
 
@@ -1474,7 +1504,7 @@ busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dri
 
 Cc [always pronounced "Ch" as in Church]
 
-ca (v) reach; [weave] eg Magu ca kobi. = Magu wove a winnowing basket.
+ca (v) reach; weave eg Magu ca kobi. = Magu wove a winnowing basket.
 
 ca'bo (adj) enough
 
@@ -1538,7 +1568,7 @@ Chilua (n) beach resort in West Nile
 
 Chuba (n) nation of Cuba (also Kuba)
 
-ci (adj) present, is here; [(v) bite] eg Ma ci! = I'm here!
+ci (adj) present, is here; (v) bite eg Ma ci! = I'm here!
 
 cikiri (n) cowpeas, Lugbara name-giving ceremony where cowpeas mixed with simsim paste is the main dish though a cock or goat can also be slaughtered
 
@@ -1548,7 +1578,7 @@ cinyaki (n) sand (also cinya)
 
 cipini (n) chip in soccer (also chipini)
 
-ciri (adv) very (still and quiet); [(pron) any]
+ciri (adv) very (still and quiet); (pron) any
 
 co (v) sneeze, fight, beat
 
@@ -1590,7 +1620,7 @@ cuu (n) market
 
 Dd [silent immediately before Jj] & 'D'd [Dhdh]
 
-da (v) pour, get away; [(n) smoking pipe] eg Ashadi da Kari Fura tibi-a. = Arshad poured Curry Powder in the sauce.
+da (v) pour, get away; (n) smoking pipe eg Ashadi da Kari Fura tibi-a. = Arshad poured Curry Powder in the sauce.
 
 Dabaraca (n) Dabaraca Falls in Koboko
 
@@ -1632,7 +1662,7 @@ dereva (n) driver (also dere'ba, agu motoka onzupi) eg Amosi ni dereva. = Amos i
 
 desi (conj) when (also de) eg Ayirini Manjeri mu 'Bu-a desi eri eli 11. = Irene Manjeri went to Heaven when she was 11 years old.
 
-di (conj) so; [(v) box, punch; bore; shine]
+di (conj) so; (v) box, punch; bore; shine
 
 digito (adj) digital (also digitoru) eg Ecikiti ni redio digito ru ni eri. = Ecikiti is listening to a digital radio.
 
@@ -1680,7 +1710,7 @@ dotkomu (adj) dotcom
 
 dozi (n) doze
 
-dra (adj) bitter; [(n) death, (v) die] eg Sitani ma dra ecekoko! = The Devil must die!
+dra (adj) bitter; (n) death, (v) die eg Sitani ma dra ecekoko! = The Devil must die!
 
 Dracunculiasisi (n) Guinea Worm disease
 
@@ -1690,7 +1720,7 @@ Dramani (n) male-given name meaning "He died for me", male-given name in Gonja T
 
 Dramu (n) male-given name, meaning "Death went" or "Death held closed in its palm"
 
-dri (adj) hot, (v) warm, heat; [(n) head (also drifa); hand] eg Ma dri ni ga! = My head is paining!
+dri (adj) hot, (v) warm, heat; (n) head (also drifa); hand eg Ma dri ni ga! = My head is paining!
 
 dri ci (v) suffer (past tense ci dri) eg Yobu ci dri Sitani ma e'yo si. = Job suffered because of the Devil.
 
@@ -1700,7 +1730,7 @@ dri ni aazu mali (n) drowsiness
 
 dri osuza tualu (phr) putting your hands together in one plate to eat food
 
-dria (adv) all; [on the head, ahead (also driale)] eg YESU dra 'ba dria ni! = JESUS died for all/ everybody!
+dria (adv) all; on the head, ahead (also driale) eg YESU dra 'ba dria ni! = JESUS died for all/ everybody!
 
 driaviza (n) forgetfulness
 
@@ -1782,9 +1812,9 @@ duluka (n) "dance" in Nubian language, a community and tourist attraction where 
 
 duruduru (adj) with mental inaptitude
 
-'da (adv) there, that; [(v) abuse, insult, name; fast, lick] (also dha) eg "Weatherhead Park Lane" ma ru 'ba 'da "Arthur Evelyn Weatherhead" ma vutisi. = Weatherhead Park Lane was named after Arthur Evelyn Weatherhead.
+'da (adv) there, that; (v) abuse, insult, name; fast, lick (also dha) eg "Weatherhead Park Lane" ma ru 'ba 'da "Arthur Evelyn Weatherhead" ma vutisi. = Weatherhead Park Lane was named after Arthur Evelyn Weatherhead.
 
-'dale (adv) like that, like it; [that side]
+'dale (adv) like that, like it; that side
 
 'dani (adj) free
 
@@ -1798,7 +1828,7 @@ duruduru (adj) with mental inaptitude
 
 'dere (adv) exactly, on the dot eg Etu 8 (aro) 'dere! = Exactly 2pm!
 
-'di (adj) this; [(v) kill, rain]
+'di (adj) this; (v) kill, rain
 
 'dia (adv) here
 
@@ -1808,7 +1838,7 @@ duruduru (adj) with mental inaptitude
 
 'do (adv) here (also 'dole)
 
-'du (n) millet (also anya); [(v) immerse slightly, take, pick eg with tongue (also 'doo), belch]
+'du (n) millet (also anya); (v) immerse slightly, take, pick eg with tongue (also 'doo), belch
 
 
 
@@ -1816,7 +1846,7 @@ Ee [shares many words with Ii]
 
 e ka (conj) if you, when (also i ka) eg E ka te ise osiza ma nga mi ti-a, mi te saa ezu tu! = If you wait for fried grasshoppers to fly into your mouth, then you wait a very long time!
 
-E ko muke (greeting) Did you sleep well? (also Mi efu ngoni?); [Sleep well! (also E la muke!)]
+E ko muke (greeting) Did you sleep well? (also Mi efu ngoni?); Sleep well! (also E la muke!)
 
 E li ava asianzu-a! (phr) Rest in peace!, RIP! (also Ma li ava asianzu-a!)
 
@@ -1828,7 +1858,7 @@ ebe'de (n) tea without sugar (also ibe'de, ebere) eg Ebe'de chi. = There is tea 
 
 Ebeneza (n) Ebenezer Show or Overnight on New Year's Day in Arua City
 
-ebi (adj) fresh, raw (also ebiru), wet (also ibi); [(v) gum, glue, paste] eg Vero ma diza ni ebi o'biti woro! = Vero's glory is fresh every morning!
+ebi (adj) fresh, raw (also ebiru), wet (also ibi); (v) gum, glue, paste eg Vero ma diza ni ebi o'biti woro! = Vero's glory is fresh every morning!
 
 Ebi (n) river in Eastern DR Congo eg Robi enga Miri Ebi-a. = A hippo came from River Ebi.
 
@@ -1838,25 +1868,25 @@ ebibi (n) leaves, (also ebiko)
 
 e'bi (n) fish (also i'bi)
 
-e'bu (n) hoe (also i'bu); [(v) overflow (said of sth cooking)]
+e'bu (n) hoe (also i'bu); (v) overflow (said of sth cooking)
 
 eca (v) arrive (also ica) eg Aci eca 'bo! = Electricity has come (already)!
 
 ecandi (v) mistreat, molest, torture
 
-ece (v) show, explain, demonstrate (also ice); [miss, (n) calabash (also erece, zukulu)] eg Ma ece mi sana! = I missed you a lot!
+ece (v) show, explain, demonstrate (also ice); miss, (n) calabash (also erece, zukulu) eg Ma ece mi sana! = I missed you a lot!
 
 ecea (n) type of gourd (also okelea)
 
 ecekere (n) bad thing
 
-eceta (n) missing; [vision] (also iceta)
+eceta (n) missing; vision (also iceta)
 
 ecetaru (pas. part) as an example
 
 ecetasi (adv) for example
 
-eci (v) deceive, delay; [join (also ici)]
+eci (v) deceive, delay; join (also ici)
 
 ecikici  (n) cloudy day (also ecici)
 
@@ -1864,7 +1894,7 @@ eco (adj) can, capable (also ico) eg Ee ama eco ra! = Yes we can!
 
 Ecora (n) male-given name meaning "He can"
 
-ede (v) clean, make, repair; [belittle, make fun of, despise] (also ide) eg "Watergen" ni iyi ede oli si. = Watergen makes water using air.
+ede (v) clean, make, repair; belittle, make fun of, despise (also ide) eg "Watergen" ni iyi ede oli si. = Watergen makes water using air.
 
 edematararu (adj) contemptuous, pejorative
 
@@ -1880,13 +1910,11 @@ Ediofe (n) suburb west of Arua City, location of Sacred Heart of JESUS and Ediof
 
 edre (v) straighten
 
-edri (n) life; [(v) send, pass]
+edri (n) life; (v) send, pass
 
 edrika (n) mushroom
 
-edro (v) chase away
-
-edroo (n) rat (also edro, idro[o], odro[o]), totem for Terego Clan, edible rats include anabia, omba omba, alucaku, ombaya
+edro (n) rat (also edroo, idro, odro), totem for Terego Clan, edible rats (including anabia, omba omba, alucaku, ombaya, etc); (v) chase away
 
 edu (adj) thick, heavy
 
@@ -1906,7 +1934,7 @@ ee (adv) yes (direct opposite of yo)
 
 efeza (n) gift, present (also asoso)
 
-efi (n) meaning; [(v) smear, apply cream]
+efi (n) meaning; (v) smear, apply cream
 
 efi kaza (n) yield
 
@@ -1916,7 +1944,7 @@ efu (v) come out, rise eg Katuramu efu aru-a 'bo. = Katuramu came out of the pri
 
 Efuru (n) female-given name meaning "Rising (like the sun)" or "Coming out"
 
-ega (v) mend; [remember, think, resurrect]
+ega (v) mend; remember, think, resurrect
 
 ega bere (n) calabash used for alcohol
 
@@ -1928,7 +1956,7 @@ egata (n) thought, company vision
 
 egaraka (n) crab, water animal with five legs on each side and large claws on the front two
 
-egbe (n) sweet; [coldness]
+egbe (n) sweet; coldness
 
 egbere (n) white ants collected in the early morning (4:30-6:00am) for making obangulu
 
@@ -1944,11 +1972,11 @@ ejasi (n) tree stump
 
 eje fala (n) rib bone
 
-eji (v) left hand or side (also iji); [bring (also aji), resemble]
+eji (v) left hand or side (also iji); bring (also aji), resemble
 
 Ejipiti (n) Egypt (also Ejipto, Ejipito) eg Mo Sala enga Ejipiti-a. = Mohammed Salah comes from Egypt.
 
-eju (n) twin (also iju); [(v) stretch)] eg Nyakato ni eju. = Nyakato is a twin.
+eju (n) twin (also iju); (v) stretch) eg Nyakato ni eju. = Nyakato is a twin.
 
 Ejua (n) male-given name for a twin (also Ejoa, Ejuru [female], Ejoru - similar to Kato, Wasswa, Isabirye, Nabirye, Babirye, Nakato, Nyakato)
 
@@ -1956,7 +1984,7 @@ Ejupala (n) trading centre near Ewanga
 
 ejuta (n) raising, prolonging, stretching
 
-eka (adj) red; [(n) sugarcane (also ekaka or ika), (v) help] eg Muyindi Eka ma suru azi ma ru Chiyeni. = One of the Red Indian tribes was called Cheyenne.
+eka (adj) red; (n) sugarcane (also ekaka or ika), (v) help eg Muyindi Eka ma suru azi ma ru Chiyeni. = One of the Red Indian tribes was called Cheyenne.
 
 Ekarakafe (n) place in Vurra, where the Sultan Isara Memorial Library is located
 
@@ -1972,7 +2000,7 @@ ekizibiti (n) exhibit, evidence
 
 eko stovu (n) eco stove that uses volcanic rock for cooking instead of charcoal or firewood, takes two years for the rock to burn out eg Sandra ni eko stovu ayu. = Sandra is using an eko stove.
 
-ekosani coroni (n) ecosan [ecological sanitation] latrine, envirolet
+ekosani coroni (n) ecosan (ecological sanitation) latrine, envirolet
 
 eku (v) announce, make noise (also iku)
 
@@ -1986,7 +2014,7 @@ elekendre (n) chameleone
 
 Elekitoro Komisoni (n) Electoral Commission
 
-eli (n) lust; [knife, thigh, year, dry season, make fall, tickle] eg Werasoni osi Moliambo-a Krismasi si eli 1965. = Werrason was born in Moliambo on Christmas Day in the year 1965.
+eli (n) lust; knife, thigh, year, dry season, make fall, tickle eg Werasoni osi Moliambo-a Krismasi si eli 1965. = Werrason was born in Moliambo on Christmas Day in the year 1965.
 
 Eli O'di Ayikoru! (phr) Happy New Year, Bonane!
 
@@ -1998,7 +2026,7 @@ eliriga (n) millipede
 
 emaa (n) owl (also imaa) eg Aturo ne emaa pati ma garama dria. = Arthur saw an owl on the branch of a tree.
 
-emba (n) moon (also mba), net; [teach (also imba)] eg "Against Malaria Foundation (AMF)" awa emba yiyia ni arobe. = Against Malaria Foundation (AMF) distributed treated mosquito nets.
+emba (n) moon (also mba), net; teach (also imba) eg "Against Malaria Foundation (AMF)" awa emba yiyia ni arobe. = Against Malaria Foundation (AMF) distributed treated mosquito nets.
 
 embapi (n) teacher (usually imbapi), coach, manager
 
@@ -2006,7 +2034,7 @@ embata (n) teaching, education (also imbata, onita)
 
 embeleke (n) gorilla, ape, chimpanzee, golden 50,000 UgX CHOGM Monument banknote with Independence Sculpture and apes at the back - mazike (also emgbeleke) eg Mwiga ni gu embeleke le. = Mwiga laughs like a chimpanzee.
 
-emi (pron) you (plu); [(v) push towards] eg Emi imu anya! = (You) come and we eat [Mujje tulye]!
+emi (pron) you (plu); (v) push towards eg Emi imu anya! = (You) come and we eat [Luganda: Mujje tulye]!
 
 emu (v) mix, come
 
@@ -2016,9 +2044,9 @@ emve (adj) white (pronounced ehnve), (n) ankle ring eg Karimu Benjema su sati em
 
 Emve (n) river on the Koboko Highway after Enyau River (also Imve, pronounced Inve)
 
-emvu (n) orphan; [pot]
+emvu (n) orphan; pot
 
-emvua (n) young orphan; [small pot]
+emvua (n) young orphan; small pot
 
 ena (v) bewitch
 
@@ -2040,7 +2068,7 @@ endru (n) vice, assistant, deputy (also undru) eg Silvano Munduni engazu Katri n
 
 endrundrua (n) leech
 
-enga (v) originate, derive, emerge, come from; [germinate, rise] eg Edwini enga "SMACK"-a. = Edwin came from SMACK.
+enga (v) originate, derive, emerge, come from; germinate, rise eg Edwini enga "SMACK"-a. = Edwin came from SMACK.
 
 engazu (adv) since (also ingazu)
 
@@ -2058,9 +2086,9 @@ enyati (n) clan, zone, area of residence, constituency, community (also zoni, ko
 
 Enyau (n) longest River Nile tributary in Arua flowing northwards from Ezuku Forest Reserve in Vurra near DRC via Ediofe Bridge and pours into the Albert Nile after bending eastwards through northern Ayivu and Terego eg Wambuzi ma Bambu Vileji ni Enyau Gerika-a. = Wambuzi's Bamboo Village is on Enyau Road.
 
-enyi (n) skin; [(prep) near (also enyia, inyi, inyia)] eg Lubega ma jo Lidia dri vu enyi. = Lubega's house is near Lydia's.
+enyi (n) skin; (prep) near (also enyia, inyi, inyia) eg Lubega ma jo Lidia dri vu enyi. = Lubega's house is near Lydia's.
 
-enza (n) laziness; [(v) trouble, mistreat]
+enza (n) laziness; (v) trouble, mistreat
 
 enzamatara (n) mistreatment (also enzaza)
 
@@ -2074,7 +2102,7 @@ epi (v) exalt (also engu), praise, put on air, be proud
 
 Epife (n) Prime Minister of Lugbara Kari (Katukiro in Busoga, Katikiro in Buganda) eg Ismaili Tuku ni Epife. = Ismail Tuku is the Prime Minister of Lugbara Kari.
 
-era (n) granary (also ero), stone; [flow]
+era (n) granary (also ero), stone; flow
 
 era mva (n) peeble, piece of rock
 
@@ -2088,7 +2116,7 @@ erece (n) calabash (also co'do, irece, egagbere in Maracha dialect, okele in Mad
 
 erezaru (adj) scattered
 
-eri (pron) he/ she/ it; [(v) hear, listen)] eg Ludia ni Rozi Muhando ma ongo eri. = Ludia is listening to Rose Muhando's music.
+eri (pron) he/ she/ it; (v) hear, listen) eg Ludia ni Rozi Muhando ma ongo eri. = Ludia is listening to Rose Muhando's music.
 
 Eri ma orindi ma li ava asianzu 'dani 'dani ri ma-a! (phr) May his/ her soul rest in eternal peace!/ RIP
 
@@ -2128,13 +2156,13 @@ Esita (n) Esther (also Esiteri)
 
 eskoti (n) escort, accompaniment for e'bede tea such as groundnuts, potatoes, cassava, etc eg Okirori ni eskoti nya. = Okiror is eating escort.
 
-esu (n) tendon, muscle; [(v) find, discover, get (also isu)] eg E ka eri nda, mi eri isu Ginesi Buku-a. = If you're looking for him, you can find him in the Guinness Book.
+esu (n) tendon, muscle; (v) find, discover, get (also isu) eg E ka eri nda, mi eri isu Ginesi Buku-a. = If you're looking for him, you can find him in the Guinness Book.
 
 etata (n) run off, torrent
 
 etatangule (n) tadpole
 
-eti (n) buttocks; [tamarind (more often iti)]; (prep) bottom; Mount Eti (also Iti or Wati)
+eti (n) buttocks; tamarind (more often iti); (prep) bottom; Mount Eti (also Iti or Wati)
 
 eti e'do (v) invest, start up a business
 
@@ -2154,7 +2182,7 @@ etota (n) redemption (also etoza)
 
 etra (v) collect, gather
 
-etru (v) come close; [untie]
+etru (v) come close; untie
 
 etu (n) sun, borossus tree (also itu, otu)
 
@@ -2182,7 +2210,7 @@ evu (n) basket made from sorghum stems or shoots and used for gathering harvests
 
 evua (n) small basket plate
 
-ewa (n) elephant; [difficulty, beer (also iwa), strength] eg Ewa ni aa ase-a. = An elephant resides in the bush.
+ewa (n) elephant; difficulty, beer (also iwa), strength eg Ewa ni aa ase-a. = An elephant resides in the bush.
 
 Ewanga (n) parish according to Ministry of Finance but subcounty according to the Ministry of Local Government, island-like extension on River Enyau which is a tributary of River Nile separated from Moyo by River Foligo, former parish under Rigbo Subcounty and part of Aringa in false maps but then a subcounty on its own in Arua District, also claimed to be Madiland because the main language spoken is Madi, elevated to subcounty in 2005, disputed over since 1993 from records - too far to be administered by Arua and proposal made to hand it to Yumbe but there was no alteration of boundaries by Parliament since Independence
 
@@ -2242,7 +2270,7 @@ e'yo 'yo (v) speak
 
 e'yobuku (n) dictionary eg Agaba ni e'yobuku la. = Agaba is reading a dictionary.
 
-eza (n) meat; [sin (also ezata, izata), (v) spoil (also iza)] eg Andala nya eza ku. = Andala does not eat meat.
+eza (n) meat; sin (also ezata, izata), (v) spoil (also iza) eg Andala nya eza ku. = Andala does not eat meat.
 
 ezata (n) act that destroys or leads to sickness and death for instance incest, homicide, illegitimate pregnancy, persistent quarelling, repeated fighting
 
@@ -2252,19 +2280,19 @@ eze (n) dung, faeces, waste eg 'Ba atri ongo omvele "Eze" avizu redio-a. = The s
 
 ezele (n) anus
 
-ezi (v) open; [pray]
+ezi (v) open; pray
 
 ezia (adj) thin
 
 Ezia (n) Asia eg Kimani ni Ezia-a. = Kimani is in Asia.
 
-ezo (n) girlfriend, fiancee; [warthog, wild pig (also ezoo)]
+ezo (n) girlfriend, fiancee; warthog, wild pig (also ezoo)
 
 ezoanzi (n) girls eg Ezoanzi maliru. = Girls are like wealth.
 
 ezopi (n) daughters
 
-ezu (adj) long, tall; [(v) multiply]
+ezu (adj) long, tall; (v) multiply
 
 Ezuku (n) place in Vurra, where the Isara Memorial Cultural Community Library (IMCCL) Project is located and where the Centenary of Christianity in West Nile was celebrated by the Anglican Church of Uganda (2018), source of River Enyau
 
@@ -2294,7 +2322,7 @@ Fasi fasi (interj) Give way
 
 fayilu (n) file, folder, sharpening file (also failu, fayiro) eg Kalibala nzi fayilu. = Kalibala opened the file.
 
-fe (n) tree; [(v) give, offer] eg MUNGU ni fe ra, 'ba ma itisa 'ba ku! = GOD gives, noone should frighten one!
+fe (n) tree; (v) give, offer eg MUNGU ni fe ra, 'ba ma itisa 'ba ku! = GOD gives, noone should frighten one!
 
 federesoni (n) federation eg FUFA (Federesoni Yuganda ma Ongulumu dria Mupira ni) pe Muhamadi Shabani (I)jagasoni "MVP" ru eli 2016 si. = FUFA (Federation of Uganda Football Associations) voted Muhammad Shaban (I)jagason as MVP in the year 2016.
 
@@ -2308,7 +2336,7 @@ fesibuku (n) facebook (also miletibuku) eg Andeku ni fesibuku-a ci. = Andeku is 
 
 feta (n) gift, pass, present (also feza) eg Guadiola ni Feta ma Opi. = Guardiola is the Pass Master.
 
-fi (n) cold (also fita or fiza), intestine, innards, offals, (suffix) added for ordinary substances to express single particles or pieces like irafi means tiny piece of stone; [(v) enter]
+fi (n) cold (also fita or fiza), intestine, innards, offals, (suffix) added for ordinary substances to express single particles or pieces like irafi means tiny piece of stone; (v) enter
 
 fifi (adj) cold
 
@@ -2334,7 +2362,7 @@ fonje fonje (n) soft
 
 fomu (n) form, online application (also karatasi ofizaru) eg Fatuma ni i-ma fomu ofi. = Fatuma is filling in her form.
 
-foro (adj) grey (also foroforo or foroto); [tilapia] eg Akulo su bongo foroforo. = Akullo wore a grey dress.
+foro (adj) grey (also foroforo or foroto); tilapia eg Akulo su bongo foroforo. = Akullo wore a grey dress.
 
 foto (n) photo (also i'da)
 
@@ -2342,7 +2370,7 @@ fotokopi (n) photocopy eg Musa gba fotokopi "Makutano Junction" vu. = Moses made
 
 Frenji (n) French (also Frenzi), 3rd Most Spoken Language from outside Africa after Arabic and English (also Franse)
 
-fu (n) flower, (v) go out; [fight, kill] eg Leni ni fu gba. = Leni is drawing a flower.
+fu (n) flower, (v) go out; fight, kill eg Leni ni fu gba. = Leni is drawing a flower.
 
 fulani (n) vest
 
@@ -2366,7 +2394,7 @@ fuza (n) getting out
 
 Gg [silent immediately before Bb]
 
-ga (adj) full (also ga tre), (v) ache eg head, chop eg tree, cut, dig; [crawl, refuse] eg YESU ga mi ku! = JESUS does not reject you!
+ga (adj) full (also ga tre), (v) ache eg head, chop eg tree, cut, dig; crawl, refuse eg YESU ga mi ku! = JESUS does not reject you!
 
 gaa (adj) small, little (also gakandia or gakanya)
 
@@ -2390,7 +2418,7 @@ garaji (n) garage, workshop eg Walusimbi ma Garaji = Walusimbi's Garage
 
 garama (n) branch of a plant
 
-gari (n) bicycle (also karia), vehicle; [rainbow] eg Richadi ni i-ma gari ji ide. = Richard is taking his bicycle for repair.
+gari (n) bicycle (also karia), vehicle; rainbow eg Richadi ni i-ma gari ji ide. = Richard is taking his bicycle for repair.
 
 garimosi (n) train (also dogodogo)
 
@@ -2498,7 +2526,7 @@ grinedi (n) grenade
 
 grupu (n) group
 
-gu (v) roll, turn over; [laugh] eg Sarai gu. = Sarai laughed.
+gu (v) roll, turn over; laugh eg Sarai gu. = Sarai laughed.
 
 Gugo (n) Google (also Googolu, Googo, Gugolu) eg Sageyi Brini azini Lari Peji e'do Gugo ni. = Sergey Brin and Larry Page started Google.
 
@@ -2508,7 +2536,7 @@ Gulu (n) place in Northern Uganda found east of Arua and Rhino Camp plus Amuru, 
 
 gunyagunya (adj) much, said of greeting
 
-guru (n) deep; [(v) fell over, turned over]
+guru (n) deep; (v) fell over, turned over
 
 gurunya (n) type of yam, creeping plant that grows on other plants for support 
 
@@ -2564,13 +2592,13 @@ huruhuru (adj) satisfied, when something plastic is filled to the brim
 
 Ii [shares many words with Ee]
 
-i (prefix, pron) his/ her/ its - separated from object owned by hyphen; [(suffix) that is him/ her/ it - separated by hyphen, pronounced "ee" like in see (v) grind into powder; tie eg to a peg] eg 'Da Denisi-i! = That is Denis!
+i (prefix, pron) his/ her/ its - separated from object owned by hyphen; (suffix) that is him/ her/ it - separated by hyphen, pronounced "ee" like in see (v) grind into powder; tie eg to a peg eg 'Da Denisi-i! = That is Denis!
 
 i ka (prep) if (also e ka, i-ka)
 
 iba (n) Ugandan kob, Thomasi
 
-ibi (v) gum, glue, stick (also ebi); [has/ have been] eg Hana ibi MUNGU ai. = Hannah has been praying to GOD.
+ibi (v) gum, glue, stick (also ebi); has/ have been eg Hana ibi MUNGU ai. = Hannah has been praying to GOD.
 
 ibio (n) spider (also ibioibio, inikiniki)
 
@@ -2582,23 +2610,23 @@ ica (v) arrive eg Asara ica 'bo. = Asara has arrived.
 
 icata (n) arrival (also icaza)
 
-ice (n) calabash; [(v) demonstrate, show off; miss]
+ice (n) calabash; (v) demonstrate, show off; miss
 
 icea (n) small calabash
 
 iceta (n) demonstration, example, specimen (also eceta)
 
-ici (adj) bad weather (during rainy season); [(v) join, connect; deceive] eg Saa azirisi, orobi ni Edi ma dri ici ici. = Other times, dreams lie to Edi.
+ici (adj) bad weather (during rainy season); (v) join, connect; deceive eg Saa azirisi, orobi ni Edi ma dri ici ici. = Other times, dreams lie to Edi.
 
 icikici (n) cloudy day especially in rainy season
 
 icikili (n) black ants that move in a group and can sting
 
-icita (n) deceipt; [joining, connection]
+icita (n) deceipt; joining, connection
 
-ico (adj) can, capable (also eco); [(phr v) beat] eg Ico aco ku! = Do not wage a fight!
+ico (adj) can, capable (also eco); (phr v) beat eg Ico aco ku! = Do not wage a fight!
 
-ide (v) clean; [minimise, abuse, make fun of, despise] (also ede)
+ide (v) clean; minimise, abuse, make fun of, despise (also ede)
 
 idematara (n) insult, foolery (also edematara)
 
@@ -2606,11 +2634,11 @@ Idi (n) Africanised name for the Arabic word Eid, Muslim feast at the end of Ram
 
 idia (n) laity, church commoners (also kiti)
 
-idri (n) life; [(v) send, pass (also edri)] eg Hezekiya awi idri ru eli 15 dika. = Hezekiah stayed alive for 15 more years.
+idri (n) life; (v) send, pass (also edri) eg Hezekiya awi idri ru eli 15 dika. = Hezekiah stayed alive for 15 more years.
 
 idria (n) razor blade eg Hamida ni karile ma dribi li idria si. = Hamida is cutting the young man's hair with a razor blade.
 
-i'da (n) photo, picture, diagram, drawing; [(v) show, appear, broadcast or screen on TV] eg Sofi ni i'da gba. = Sophie is shooting a photo.
+i'da (n) photo, picture, diagram, drawing; (v) show, appear, broadcast or screen on TV eg Sofi ni i'da gba. = Sophie is shooting a photo.
 
 i'da ci (adj) visible (also i'da ce)
 
@@ -2640,13 +2668,13 @@ ije (n) rib
 
 ijele (n) neighbour (also jo ijele, jirani)
 
-iji (adj, adv) left side; [(v) bring] eg Mi iji mi idri ta mba YESU ma banki-a. = Bring your life to keep in JESUS's bank.
+iji (adj, adv) left side; (v) bring eg Mi iji mi idri ta mba YESU ma banki-a. = Bring your life to keep in JESUS's bank.
 
 ijiribi (n) green vegetable (also ejiribi)
 
-iju (n) lower hind part of leg, twins; [(v) stretch]
+iju (n) lower hind part of leg, twins; (v) stretch
 
-Ikafe (n) place in Yumbe, used as a refugee settlement area, about 60 kilometres from Arua, reminds you of a protruding rock written on (in all caps without what's in the parentheses) the warning: "TEETH CAN LOST, TE [But or TO?] BE CARE FUL, 2009"
+Ikafe (n) place in Yumbe, used as a refugee settlement area, about 60 kilometres from Arua
 
 ikikia (n) small black ant
 
@@ -2694,7 +2722,7 @@ imvi (v) return, come back eg Nayiti imvi ini si. = Night returned at night.
 
 imvu (n) pot (pronounced invu)
 
-imu (phr v) come; [mix] eg Mi imu mavu! = Come to me!
+imu (phr v) come; mix eg Mi imu mavu! = Come to me!
 
 ina (v) appear eg Joni Rambo ina ase-a. = John Rambo appeared in the bush.
 
@@ -2712,9 +2740,9 @@ India (n) India eg Karo ni mu India-a. = Carol is going to India.
 
 indrika (n) shade (also endrika) eg Nola ri indrika-a. = Nola is sitted in the shade.
 
-inga (prep) from (also enga), (v) germinate, originate, come up, wake up; [wake up sb]
+inga (prep) from (also enga), (v) germinate, originate, come up, wake up; wake up sb
 
-ini (adj) black, dark; [(n) night, darkness; (v) dirten, clean, erase] eg Ini si = At night
+ini (adj) black, dark; (n) night, darkness; (v) dirten, clean, erase eg Ini si = At night
 
 inibiricici (adj) very dark (also inicici)
 
@@ -2732,13 +2760,13 @@ instusoni (n) institute, institution (also instituti, institusoni) eg "Kinsey" m
 
 inze (v) pull out, remove (pronounced inje)
 
-inzi (v) adore, glorify, respect; [squeeze] (pronounced inji) eg Yemala mi inzi mini MUNGU ma ru ori kokoru. = Yemala respect for yourself GOD's name without shame/ fear.
+inzi (v) adore, glorify, respect; squeeze (pronounced inji) eg Yemala mi inzi mini MUNGU ma ru ori kokoru. = Yemala respect for yourself GOD's name without shame/ fear.
 
 inzita (n) respect eg Inzita ma so pa i-ma pari-a! = Let respect stand in its place/ All protocol observed! (fig.)
 
 inzo (n) lie(s), falsehood(s), deception(s)
 
-ipa (v) attach; [rob, take away forcefully]
+ipa (v) attach; rob, take away forcefully
 
 ipe (v) vote eg Ipe Abiriga! = Vote Abiriga!
 
@@ -2754,7 +2782,7 @@ irifia (n) wasp eg Irifia du ma. = The wasp stung me.
 
 iriko (adj) damaged, old eg "Pallet Hub" ni mbawu iriko ayu dika ra. = Pallet Hub can use damaged wood again.
 
-iriti (adv) indefinitely; [(n) cloud(s)]
+iriti (adv) indefinitely; (n) cloud(s)
 
 iritro (adv, adj, pron) both
 
@@ -2762,11 +2790,11 @@ irizori (adj) the second one (also irizo, irizuri) eg Danielu Arapu Moi ni andra
 
 isaku (n) sieve, container with holes at the bottom for filtering local salt or aitipa
 
-ise (n) grasshopper, symbol in Maracha; [(v) pull] (also ese) eg Ise Nyendo (Masaka)-a angiri. = Grasshoppers are plenty in Nyendo (Masaka).
+ise (n) grasshopper, symbol in Maracha; (v) pull (also ese) eg Ise Nyendo (Masaka)-a angiri. = Grasshoppers are plenty in Nyendo (Masaka).
 
 isekise (n) gum, glue
 
-isi (v) move, climb down; [write, automatic]
+isi (v) move, climb down; write, automatic
 
 Isiraeli (n) Israel (also Israeli) eg "North West" isu ru biza Isiraeli-a. = North West received baptism in Israel.
 
@@ -2794,7 +2822,7 @@ ituku (n) minute
 
 Ive ra! (phr) You got burnt/ Thanks for the food! (also E ve ra!) (fig.)
 
-ivu (n) basket made from the covering of sorghum stalk; [(phr v) You blow!]
+ivu (n) basket made from the covering of sorghum stalk; (phr v) You blow!
 
 ivua (n) food basket plate
 
@@ -2808,7 +2836,7 @@ iyitia (adv) ashore
 
 i'yo (n) word, speech (also e'yo) eg Haruna ni i'yo nze "Social Centre"-a. = Haruna is giving a speech at Social Centre.
 
-iza (n) meat (also za); [sin (also ezata, izata), (v) spoil (also eza)]
+iza (n) meat (also za); sin (also ezata, izata), (v) spoil (also eza)
 
 iza'ba (n) wrongdoer, sinner
 
@@ -2816,15 +2844,15 @@ izakizaru (adj) shameful, disappointing
 
 izapi te 'di (n) spoilt (also izapi 'bori), unhatched egg, alugbe
 
-izi (phr v) you open; [you ask; (v) pray] eg Izi Gugo! = Ask Google!
+izi (phr v) you open; you ask; (v) pray eg Izi Gugo! = Ask Google!
 
 izia (adj) thin
 
-izio (n) groom (also mugole); [in-laws]
+izio (n) groom (also mugole); in-laws
 
 izita (n) prayer
 
-izu (adv) long; [(v) increase] eg Jhene ngo ongo sawa izu. = Jhene sang for long.
+izu (adv) long; (v) increase eg Jhene ngo ongo sawa izu. = Jhene sang for long.
 
 izuru (adj) long, tall eg Dafini ni izuru. = Daphne is tall.
 
@@ -2858,7 +2886,7 @@ jeta (n) wedding, marriage, buying (also jeza)
 
 Jezebeli (n) Jezebel, the Most Notorious Woman in the Bible alongside Mystery Babylon, false prophetess in the Book of Revelation, Queen of Abominations
 
-ji (v) brush the teeth, sharpen blade; [take] eg Yikii ji ti Muni-a. = Yikii took cows to Muni.
+ji (v) brush the teeth, sharpen blade; take eg Yikii ji ti Muni-a. = Yikii took cows to Muni.
 
 Jiako (n) suburb near Arua Airport separated from Adalafu by Oli River eg "VOL" e'do Jiako-a. = VOL started in Jiako.
 
@@ -2916,7 +2944,7 @@ Kk [silent immediately before Pp]
 
 k (infix) avoids hiatus in case of reduplicated adjectives beginning and ending with the same vowel eg inikini = darkish
 
-ka (adv) when, (conj) if, (suffix) essential to words like acika means fire smoke or ituka means sun shine; [(v) shine, yield] eg Kaka ni ka 'ba sikokori ni. = Maize yields for people without teeth/ Good things happen to people who least need them. [Lugbara Proverb]
+ka (adv) when, (conj) if, (suffix) essential to words like acika means fire smoke or ituka means sun shine; (v) shine, yield eg Kaka ni ka 'ba sikokori ni. = Maize yields for people without teeth/ Good things happen to people who least need them. [Lugbara Proverb]
 
 kaati (n) door
 
@@ -2944,7 +2972,7 @@ kafu (n) small hoe (also kafua)
 
 kafuto (n) foam, lather
 
-kai (adj) in vain; [(n) custom of giving a bull for clan to eat or male paying a goat to the father of the female he has had sex with - similar to Genesis 38:16-17 (also kayi)]
+kai (adj) in vain; (n) custom of giving a bull for clan to eat or male paying a goat to the father of the female he has had sex with - similar to Genesis 38:16-17 (also kayi)]
 
 kaiko (n) beans (in Terego dialect/ also osu)
 
@@ -2976,7 +3004,7 @@ kala etu ni efuria (n) east side
 
 kala etu ni 'deria (n) west side eg Ampaire enga kala etu ni 'deria. = Ampaire is from the west side.
 
-kalaa (adv) aside; [(n) metallic basin]
+kalaa (adv) aside; (n) metallic basin
 
 kalafe (n) amount, number (of), population, mathematics (subject) eg Bodimasi azini Triskwaci kalafe la. = Bodmas and Trisquaci are reading mathematics.
 
@@ -2988,7 +3016,7 @@ kalasi (prep) on the side
 
 kalati (n) side (also woko)
 
-kali (n) kraal; [stick, tens of twenty to ninety] eg 39 (kali na drini oromi) = thirty nine, XXXIX
+kali (n) kraal; stick, tens of twenty to ninety eg 39 (kali na drini oromi) = thirty nine, XXXIX
 
 kalikali (adj) sweet
 
@@ -3016,7 +3044,7 @@ Kanada (n) Canada eg Musaraiti enga Kanada-a. = Musarait is from Canada.
 
 kandi (n) ball (borrowed from Lingala), candy
 
-kani (adv, conj, prep) maybe, rather (also kanisi), otherwise, if; [except]
+kani (adv, conj, prep) maybe, rather (also kanisi), otherwise, if; except
 
 kanisa (n) church, cathedral eg Richadi ni mu Hilsongu Kanisa-a. = Richard is going to Hillsong Church.
 
@@ -3126,7 +3154,7 @@ kelekele (n) movement esp. up and down
 
 kelekele coo (v) move up and down
 
-kelele (adj) (of issues) hot, difficult; [(n) noise]
+kelele (adj) (of issues) hot, difficult; (n) noise
 
 kelo (n) dish made from premature bananas, lamb, calf or other animal. Indians make something similar from premature maize eg Anzi kelo nya. = The kids are eating kelo.
 
@@ -3142,7 +3170,7 @@ kesi (n) (court) case
 
 keyikeyi (n) sieve
 
-ki (pron) them, they, (suffix) denotes plural though used optionally; [(v) swallow, are]
+ki (pron) them, they, (suffix) denotes plural though used optionally; (v) swallow, are
 
 Kibira (n) third and youngest son of Gboro in Lugbara mythology whose spear Oli took to attack an elephant that was destroying millet in the garden; brother to Oli, Olu and Obaru
 
@@ -3170,7 +3198,7 @@ kimbelembele (n) gossip
 
 kinga (n) bicycle (borrowed from Lingala)
 
-kini (v) says, said (singular); [said (plural)] eg "Jon Bon Jovi" kini: Eri ma idri!. = Jon Bon Jovi said: It's my life!
+kini (v) says, said (singular); said (plural) eg "Jon Bon Jovi" kini: Eri ma idri!. = Jon Bon Jovi said: It's my life!
 
 kinikini (n) rumour
 
@@ -3214,7 +3242,7 @@ kliniki (n) clinic
 
 klozi (c) close (also geri opizaru)
 
-ko (adv) really; [(suffix) added to nouns or omitted according to dialect or added to a verb which is dependent upon the frame like "ga muko si" means he refused to go, (v) sleep, hold, catch]
+ko (adv) really; (suffix) added to nouns or omitted according to dialect or added to a verb which is dependent upon the frame like "ga muko si" means he refused to go, (v) sleep, hold, catch
 
 kobi (n) four sided basket or woven pad for winnowing through its open side, used for post harvest cleaning of seeds and cleansing a hunter on his first kill by placing it on the head of the carcass before it is butchered
 
@@ -3236,9 +3264,9 @@ Koka-Kola (n) Coca-Cola drink
 
 kokaa (n) tickbird
 
-koko (adj) firm, tight; [(n) referring to an insect usually when warning kids]
+koko (adj) firm, tight; (n) referring to an insect usually when warning kids
 
-kokoa (n) something bad; [woodpecker]
+kokoa (n) something bad; woodpecker
 
 kokobi (n) newspaper, book, letter (also waraga)
 
@@ -3256,11 +3284,11 @@ kolikoli (n) wagtail (bird)
 
 kolokolo (adj) loose, not firm
 
-Kololo (n) village in Tara Subcounty (Maracha) after Tara Health Centre IV on the road to Kubala, place west of Okokoro and near Otravu (Maracha); [hill in Kampala City between Bukoto, Naguru, Nakawa, Kitante and Kamwokya - Independence Ceremonial Grounds, BOMA (British Overseas Military Administraion) Grounds; trading centre in Amuru District] eg Juli ni aa Kololo-a. = Juli stays in Kololo.
+Kololo (n) village in Tara Subcounty (Maracha) after Tara Health Centre IV on the road to Kubala, place west of Okokoro and near Otravu (Maracha); hill in Kampala City between Bukoto, Naguru, Nakawa, Kitante and Kamwokya - Independence Ceremonial Grounds, BOMA (British Overseas Military Administraion) Grounds; trading centre in Amuru District eg Juli ni aa Kololo-a. = Juli stays in Kololo.
 
 koloseni (n) parliament (also palamenti), council
 
-kome (n) seat, chair (also kiti, ogunga) eg Prezidenti "Godfrey" Lukongwa Binaisa (1980) kini, "Kome alu alu!" = President Godfrey Lukongwa Binaisa (1980) said, "Entebe ewoma [Translated from Luganda: The chair is sweet]!"
+kome (n) seat, chair (also kiti, ogunga) eg Prezidenti "Godfrey" Lukongwa Binaisa (1980) kini, "Kome alu alu!" = President Godfrey Lukongwa Binaisa (1980) said, "Entebe ewoma [Luganda for: The chair is sweet]!"
 
 Komendaku (n) trading centre in Tara Subcounty with a huge rock that can serve as a wonderful view of Mt. Liru, means "you do not have to look for a seat", this is probably Teeth Can Lost - Part 1
 
@@ -3344,7 +3372,7 @@ kukute (adj) thick
 
 Kulikulinga (n) junction on Arua-Yumbe Road after Nyoko Primary School, trading centre and village about 46 kilometres westwards from the Obongi Ferry Crossing that links to Adjumani, 25 kilometres from Ariwa (Kulikulia in Aringa) eg Alokore ni aa Kulikulinga-a.
 
-kulu (adv) big, main (also kulukulu); [grasshopper, locust], totem for Maracha Clan
+kulu (adv) big, main (also kulukulu); grasshopper, locust, totem for Maracha Clan
 
 kulukulu (n) turkey, gourd
 
@@ -3386,7 +3414,7 @@ Kyebando (n) parish in Kawempe Division of Kampala and includes Kisalosalo Villa
 
 Ll
 
-la (v) count, read, iqra, iqraa, iqrah in Arabic - first word revealed in the Koran; [lay down (eg baby), lie down] eg Jemima ni buku la. = Jemimah is reading a book.
+la (v) count, read, iqra, iqraa, iqrah in Arabic - first word revealed in the Koran; lay down (eg baby), lie down eg Jemima ni buku la. = Jemimah is reading a book.
 
 la-i ku (adj, n) uncountable
 
@@ -3428,7 +3456,7 @@ Lazebu (n) place in Vurra
 
 lazima (adv) by all means, definitely (borrowed from Swahili)
 
-le (adj) like, love, want; [(n) milk (also lesu), (pron) it, (suffix) pins or points a noun or demonstratives like 'dale means there] eg A le mi! = I love you! [Ich liebe dich; Je t'aime; Wo ai ni; Nkwagala; Ninkukunda; Kocham cie!]
+le (adj) like, love, want; (n) milk (also lesu), (pron) it, (suffix) pins or points a noun or demonstratives like 'dale means there eg A le mi! = I love you! [Ich liebe dich; Je t'aime; Wo ai ni; Nkwagala; Ninkukunda; Kocham cie!]
 
 Leforo gbanda (n) cassava-tasting tuber that germinates when a palmnut is planted in a sweet potato-growing type of mound, usually roasted or boiled (also itu ola, itu olaa)
 
@@ -3444,7 +3472,7 @@ Lematia (n) name meaning "They love me on the lips"
 
 Leni (n) name meaning "S/he is the one who loves or likes", shortened from Munguleni or Leni(y)a
 
-lesu (n) milk; [cloth women tie around their body] eg Kobusingye ni "Birunga Dairy" lesu mvu. = Kobusingye is drinking Birunga Dairy milk.
+lesu (n) milk; cloth women tie around their body eg Kobusingye ni "Birunga Dairy" lesu mvu. = Kobusingye is drinking Birunga Dairy milk.
 
 leta (n) love, affection (also letaa, leza, lavu)
 
@@ -3456,7 +3484,7 @@ letaru (adj) loving, affectionate
 
 leuta (n) food cover
 
-li (n) thigh; [(v) cut, mop, clean, judge; roll (eg ball), blow (said of wind)]
+li (n) thigh; (v) cut, mop, clean, judge; roll (eg ball), blow (said of wind)
 
 li 'ba (v) covet
 
@@ -3532,7 +3560,7 @@ lorika (n) oval-shaped fruit with a red outer cover and white interior plus a sh
 
 loza (n) harvest
 
-lu (adv) just, only, exactly; [(v) look, see (also ilu), make a hole through something] eg Arua lu aluzaru! = Arua is just sweet!
+lu (adv) just, only, exactly; (v) look, see (also ilu), make a hole through something eg Arua lu aluzaru! = Arua is just sweet!
 
 Lu (n) Lugbara dialect in DR Congo
 
@@ -3558,13 +3586,13 @@ Lugbara ti (n) Lugbara language (also ti akuari) eg Vije/ Vaja Ke ni filimu oja 
 
 Lugbarabantu (n) mixed blood people with both Lugbara and Bantu parents
 
-Lugbaraganda (n) half-breed who is both Lugbara and Muganda, someone with parents from both Lugbaraland and Buganda, colloquailly a Lugbara who prefers to be associated with Buganda and denies, rejects or loses interest in his/ her real tribe [pronounced Lubaraganda] eg Bania ni Lugbaraganda ni. = Bania is a Lugbaraganda.
+Lugbaraganda (n) half-breed who is both Lugbara and Muganda, someone with parents from both Lugbaraland and Buganda, colloquailly a Lugbara who prefers to be associated with Buganda and denies, rejects or loses interest in his/ her real tribe (pronounced Lubaraganda) eg Bania ni Lugbaraganda ni. = Bania is a Lugbaraganda.
 
 Lugbarapu (n) LugbaRap, Lugbara Rap and Hiphop, Lugbara Flow, Lugba-flow, Gbara-flow eg "Ndrizaristic" engazu "Jobian Tick" azini "Black Lion" ni Lugbarapu ongo. = "Ndrizaristic" from Jobian Tick and Black Lion is a Lugbarap song.
 
 Lugbarapedia (n) Lugbara language encyclopedia, comprehensive panoramic compendium of Lugbara topics
 
-Lugbarazungu (n) half-breed with parents from both Lugbaraland and Europe or America, half Lugbara and half Caucasian [pronounced Lubarazungu] eg Benedeta ni Lugbarazungu ni. = Benedetta is a Lugbarazungu.
+Lugbarazungu (n) half-breed with parents from both Lugbaraland and Europe or America, half Lugbara and half Caucasian (pronounced Lubarazungu) eg Benedeta ni Lugbarazungu ni. = Benedetta is a Lugbarazungu.
 
 Lugisu (n) language of Bagisu Tribe in eastern Uganda
 
@@ -3588,7 +3616,7 @@ lumboo (n) white tuber like sweet potato that grows long, now extinct
 
 Lumumba (n) cell in Arua Municipality
 
-luru (adj) narrow (also lurua); [(n) mist, fog], end blow trumpet made from a bottle shaped gourd
+luru (adj) narrow (also lurua); (n) mist, fog, end blow trumpet made from a bottle shaped gourd
 
 Luturujo (n) rock, hill in Tara, means "the house of/ on a hill"
 
@@ -3598,7 +3626,7 @@ Luwero (n) Luwero, place north of KLA eg Prezidenti Museveni omve Luwero "NRM ma
 
 Mm [sounds as Nn immediately before Vv]
 
-ma (n) mother (also andri), (pron) my; 's; [I am (v) decay, rot] eg Jenifa ni Gabrieli ma andri. = Jennifer is Gabriel's mother.
+ma (n) mother (also andri), (pron) my; 's; I am (v) decay, rot eg Jenifa ni Gabrieli ma andri. = Jennifer is Gabriel's mother.
 
 ma-i (pron) me
 
@@ -3754,7 +3782,7 @@ maza (adj) rotten, decayed
 
 mazipani (n) marzipan eg Keki 'di 'ba a'bu mazipani si. = This cake was covered with marzipan.
 
-mba (adj) tough, hard (also mbazaru); [real, true (also adada); (n) month, moon; (v) lay ambush], toughen, harden, grow
+mba (adj) tough, hard (also mbazaru); real, true (also adada); (n) month, moon; (v) lay ambush, toughen, harden, grow
 
 mba azo (n) monthly period (literally month sickness)
 
@@ -3810,7 +3838,7 @@ Meka (n) Mecca, Holiest Place in Islam
 
 Meksiko (n) Mexico
 
-mele (n) gold (also goldi) eg Yohana Akibua [1972] azini Dokasi Inzikuru [2005] ndeki Yuganda ma mele oko ongu nzuta ni. = John Akii Bua [1972] and Dorcus Inzikuru [2005] won Uganda's first athletics gold.
+mele (n) gold (also goldi) eg Yohana Akibua (1972) azini Dokasi Inzikuru (2005) ndeki Yuganda ma mele oko ongu nzuta ni. = John Akii Bua (1972) and Dorcus Inzikuru (2005) won Uganda's first athletics gold.
 
 memba koloseni (n) member of parliament, MP eg Benadi Atiku ni Memba Koloseni "Ayivu County" niri. = Benard Atiku is the MP of Ayivu County.
 
@@ -3978,7 +4006,7 @@ muli muli (adj) healthy
 
 mulokoni (n) cooked cow hooves (also putuku)
 
-mundrokole (n) leafy vegetable (also waarila without beans)
+mundrokole (n) leafy vegetable (also warila without beans)
 
 Mundu (n) English, European, Western, white person (also muzungu), name given to Lugbara Tribe before migrating from Nigeria eg "John Middleton" ni Mundu. = John Middleton is a White.
 
@@ -4060,7 +4088,7 @@ Mvara (n) suburb or ward east of Arua City comprising Ewavio, Congo Cell, Zambia
 
 mve (v) whiten
 
-mvi (n) son (also agupiamva); [(v) return, go back] eg LeBroni Yamesi mvi Cleveland Cavaliers-a. = LeBron James returned to Cleveland Cavaliers.
+mvi (n) son (also agupiamva); (v) return, go back eg LeBroni Yamesi mvi Cleveland Cavaliers-a. = LeBron James returned to Cleveland Cavaliers.
 
 mvita (n) return, departure
 
@@ -4104,7 +4132,7 @@ ndara (n) xylophone, percussion musical instrument made from banana stems or euc
 
 ndaza ru (adj, n) becoming rare
 
-nde (def. art) the; [(v) win, defeat; deny sb sth] eg Aseno nde Manchesta Unaitedi 1-0 (Alu-Ogbo). = Arsenal defeated Manchester United 1-0.
+nde (def. art) the; (v) win, defeat; deny sb sth eg Aseno nde Manchesta Unaitedi 1-0 (Alu-Ogbo). = Arsenal defeated Manchester United 1-0.
 
 nde nde (n) palm tree leaves
 
@@ -4118,7 +4146,7 @@ ndeza (n) win (also ndeta), winning, victory, triumph eg Ndeza ni ndeza. = Winni
 
 Ndezo (n) female-given name meaning "For victory"
 
-ndi (v) pinch; [still, quiet] eg Enyati 'di ndi! = This zone is quiet!
+ndi (v) pinch; still, quiet eg Enyati 'di ndi! = This zone is quiet!
 
 ndima (n) orange, orange juice eg Safi ma alea ndima ci. = Safi has orange juice in it.
 
@@ -4138,7 +4166,7 @@ ndre (v) see (also ne)
 
 ndremasi (n) witness (also ndremaazi)
 
-ndri (adj) beautiful (also ndriza, ndrizaru), (n) beauty (also ndrita); [goat] eg Vikitoria ndri! = Victoria is beautiful!
+ndri (adj) beautiful (also ndriza, ndrizaru), (n) beauty (also ndrita); goat eg Vikitoria ndri! = Victoria is beautiful!
 
 ndro (v) gossip eg Redi Pepa ni 'ba ndro. = Red Pepper gossips about people.
 
@@ -4218,7 +4246,7 @@ nguvu (n) might
 
 nguzaru (adj) smelly
 
-ni (adv) the one who did sth (n) snake (also ori, uri); [(prep) for; (v) know, is] eg Tabani si jo 'da ni = Taban is the one who built that house.
+ni (adv) the one who did sth (n) snake (also ori, uri); (prep) for; (v) know, is eg Tabani si jo 'da ni = Taban is the one who built that house.
 
 niki (v) know (used only for plural subjects)
 
@@ -4354,15 +4382,15 @@ nzenze (n) grasshopper (also ise, kulu)
 
 nzeta (n) combing, sneaking, communicating, communication, subtracting, subtraction, talking, uprooting (also nzeza)
 
-nzi (v) jeer, squeeze, strangle; [open]
+nzi (v) jeer, squeeze, strangle; open
 
 nzila (n) road (also gerika)
 
-nzinzi (adj) heavy (also anziza, nzizaru); [spotted; (n) jeer (also nziri)]
+nzinzi (adj) heavy (also anziza, nzizaru); spotted; (n) jeer (also nziri)
 
 nzita (n) jeering, squeezing, strangling, opening, weight (also nziza)
 
-nzo (v) slip, skid, slide; [unshell (eg beanskin)] eg Ozilu nzo i-ma kumu si ase dria. = Oezil slid with his knees on the grass.
+nzo (v) slip, skid, slide; unshell (eg beanskin) eg Ozilu nzo i-ma kumu si ase dria. = Oezil slid with his knees on the grass.
 
 nzoko (n) tree that can grow on another
 
@@ -4370,7 +4398,7 @@ nzolanzola (adj) slippery (also nzonzo, nzozaru)
 
 nzota (n) slipping, sliding, skidding, unshelling
 
-nzu (n) kind of pumpkin (pronounced nju); [(v) run dry, suck, run, ride] eg Diago ni gari nzu. = Diago is riding the bicycle.
+nzu (n) kind of pumpkin (pronounced nju); (v) run dry, suck, run, ride eg Diago ni gari nzu. = Diago is riding the bicycle.
 
 nzubi (n) distant relatives
 
@@ -4426,7 +4454,7 @@ o'be (v) throw
 
 o'belemvu (n) cheek (also o'bolo, o'boloko, obelemvu, nebi)
 
-o'bi (n) crowd, family, public, people; [(v) imitate, mimic, try, taste, roast; winnow] eg Ama eco ra aka o'bi! = We can if we try!
+o'bi (n) crowd, family, public, people; (v) imitate, mimic, try, taste, roast; winnow eg Ama eco ra aka o'bi! = We can if we try!
 
 o'bi'bia (n) copying
 
@@ -4460,17 +4488,17 @@ o'buruso (n) form, lather (also oburusa, oburuso, kafuto)
 
 ocaoca (n) kind of sauce prepared with beans and paste (also ocakuca)
 
-oce (n) dog (also ocoo), rainbow shaped tattoos; [(v) rear, shepherd] eg A'di ni mi oce ni? YESU ni ma oce ni. = Who shepherds you? JESUS shepherds me.
+oce (n) dog (also ocoo), rainbow shaped tattoos; (v) rear, shepherd eg A'di ni mi oce ni? YESU ni ma oce ni. = Who shepherds you? JESUS shepherds me.
+
+oce (n) forest (also angu patiru, goloko, jere[ko], obibi, pati jumulani, pati tala, ocee), reserve, grove; (v) rear eg animals eg Ama aci Oce Barifa-a! = Let's (take a) walk in Barifa Forest!
 
 Oce (n) forest reserve in Moyo sheltering 168 bird species and 261 types of trees found north of Mt. O(t)ce which is 1,563 metres above sea level. Mt. Oce (2nd Highest in West Nile) offers stunning views of the Albert Nile as it leaves Uganda near Nimule and crosses into South Sudan where its name changes to White Nile. You can also see Erende Mountain ranges plus Ilo (1,410 masl; 3rd Highest) plus Buce on the border
-
-ocee (n) forest (also angu patiru, goloko, jere[e], jereko, obibi, pati jumulani, pati tala), reserve, grove; [(v) rear eg animals] eg Ama aci Ocee Barifa-a! = Let's (take a) walk in Barifa Forest!
 
 ocepi (n) shepherd
 
 oceta (n) rearing
 
-oci (n) thorn; [(v) bite many times here and there, hide]
+oci (n) thorn; (v) bite many times here and there, hide
 
 oci so ma pa (n) payment for fieldwork as assumed consolation for a thorn pricking the worker's foot
 
@@ -4480,7 +4508,7 @@ Ociba Lane (n) road that starts on Mt. Wati Road (from Hotel Arua) and slopes to
 
 ocita (n) hiding, keeping, secret, concealment (also ociza)
 
-oco (n) length, height; [dog (also oce, ocoo, ocogo)]
+oco (n) length, height; dog (also oce, ocoo, ocogo)
 
 Ocodri (n) place in Bileafe (Terego Area), means head of a dog eg Kwame ni mu Ocodri-a pa si. = Kwame is going to Ocodri on foot.
 
@@ -4514,7 +4542,7 @@ odo (v) handle carefully
 
 odoloo (n) tree that bears long suspended fruits
 
-odra (n) local beer that has stayed overnight, bamboo; [death]
+odra (n) local beer that has stayed overnight, bamboo; death
 
 Odramacako (n) border town on the Maracha - DR Congo border reachable from Arua City via Adumi Road
 
@@ -4528,7 +4556,7 @@ odre su (v) urinate, piss, pee, abirigate
 
 odri (n) mud, clay
 
-odro (n) rat; [coach grass; (v) chase], totem for Terego Clan eg Ratatuli ni odro. = Ratatouille is a rat.
+odro (n) rat; coach grass; (v) chase, totem for Terego Clan eg Ratatuli ni odro. = Ratatouille is a rat.
 
 odro 'ba ni nya (n) edible rats including alucaku, amurude (also amuruu), ozulai, anabia in Terego (abijoa by Upper Lugbara and pukupuku in DRC)
 
@@ -4542,13 +4570,13 @@ o'data (n) abuse, insult
 
 o'de (v) fall
 
-o'di (adj) new; [(n) betrayal (also o'di nyaza), harp, guitar] eg Mutuka o'bi olizuri ma Angu Adumi azini Duka Geri-a ri ni o'di. = The Taxi Park on Adumi and Duka Road is new.
+o'di (adj) new; (n) betrayal (also o'di nyaza), harp, guitar eg Mutuka o'bi olizuri ma Angu Adumi azini Duka Geri-a ri ni o'di. = The Taxi Park on Adumi and Duka Road is new.
 
 o'di nya (v) betray
 
 o'di'dia  (n) newness
 
-o'du (n) day; [leopard (also odhu), panther, jaguar, garden dug and left for some time before using, thigh, vision, omen sent to an evildoer by the Divine Spirit] eg O'du ni aci ini si. = A leopard moves at night.
+o'du (n) day; leopard (also odhu), panther, jaguar, garden dug and left for some time before using, thigh, vision, omen sent to an evildoer by the Divine Spirit eg O'du ni aci ini si. = A leopard moves at night.
 
 o'du ambo (n) big day, public holiday
 
@@ -4582,7 +4610,7 @@ odrua (n) small buffalo, motorcycle
 
 odrukudru (n) toad, frog (also odrukodru)
 
-odu (v) soak, wet; [(n) oil (also petroli), vaseline (also odu efizaru), lotion]
+odu (v) soak, wet; (n) oil (also petroli), vaseline (also odu efizaru), lotion
 
 odukudu (n) cockroach
 
@@ -4604,7 +4632,7 @@ ofo (n) tick (also oga)
 
 ofono (n) big-size half litre Ofwono soda inspired by Ofwono, the Tallest Ugandan in the 2000s (also ofwono)
 
-ofu (n) kind of white ant (also ifu); [leprosy, (v) release, exchange, kill; become pale (clothes)] eg Beni Ha ma andri azini amvi esu ofu aru-a. = Ben Hur's mother and sister got leprosy in prison.
+ofu (n) kind of white ant (also ifu); leprosy, (v) release, exchange, kill; become pale (clothes) eg Beni Ha ma andri azini amvi esu ofu aru-a. = Ben Hur's mother and sister got leprosy in prison.
 
 ofu ojo (n) herbs
 
@@ -4616,7 +4644,7 @@ ofuruso (n) lather, foam
 
 ofusara (n) mist, fog
 
-ofuta (n) ash; [release, exchange, killing (also ofuza)]
+ofuta (n) ash; release, exchange, killing (also ofuza)
 
 ofutaku (n) ingredient produced by burning dried bean pods, banana peelings, etc and mixing the ash with water before sieving to produce a brown liquid used to cook greens like osubi. It maintains their green chlorophyll colour
 
@@ -4624,7 +4652,7 @@ ofutaru (adj) shy
 
 ofuza (n) production
 
-oga (v) crawl, hatch, stop; [(n) tick (also ogalili), big man (borrowed from the Igbo language of Nigeria)]
+oga (v) crawl, hatch, stop; (n) tick (also ogalili), big man (borrowed from the Igbo language of Nigeria)
 
 oga ci ma ejea (n) style of bicycle riding through the frame and under the crossbar especially by short or young people without occupying the seat (also oga ci ma loma-a [literally The tick has bitten me in the abdomen])
 
@@ -4654,7 +4682,7 @@ ogogo (prep) near
 
 Ogoko (n) place northeast of Madi Okollo, southwest of Rhino Camp, fairly central headquarters for Madi Okollo District
 
-ogu (n) waist, back of the body, theft; [liver, (v) laugh]; steal
+ogu (n) waist, back of the body, theft; liver, (v) laugh; steal
 
 ogua (adv) on the back, (n) seat, chair
 
@@ -4676,7 +4704,7 @@ ohelu (n) crested crane (also ohalu)
 
 ohorokoto (n) empty shell
 
-oi (n) kind of fleshy fish, (v) dry; [hang, tether, tie eg a goat]
+oi (n) kind of fleshy fish, (v) dry; hang, tether, tie eg a goat
 
 oiza (n) dry
 
@@ -4698,7 +4726,7 @@ ojeta (n) buying
 
 ojeza (adj, n) buying
 
-oji (n) cave, (v) take, deliver; [wash, bathe] eg Hopu ni i-ma dribi oji salufa si. = Hope is washing her hair with sulphur.
+oji (n) cave, (v) take, deliver; wash, bathe eg Hopu ni i-ma dribi oji salufa si. = Hope is washing her hair with sulphur.
 
 ojiata (n) baboon (also ojimata)
 
@@ -4712,7 +4740,7 @@ ojizaru (adv) taken, delivered, washed, bathed
 
 ojo (n) issue, topic (also e'yo), (v) talk (also jo in Maracha and Aringa dialect)
 
-ojoo (n) heavy sauce made from beans and groundnut or simsim paste; mashed mutere mixed with cowpeas (also o'yoo, ojogo); [medical practitioner (also dakitari, daktari), local medicineman or woman (also ojo)], grasshopper with purple shades
+ojoo (n) heavy sauce made from beans and groundnut or simsim paste; mashed mutere mixed with cowpeas (also o'yoo, ojogo); medical practitioner (also dakitari, daktari), local medicineman or woman (also ojo), grasshopper with purple shades
 
 oju (n) twins (also eju)
 
@@ -4720,7 +4748,7 @@ ojuruko (n) termite
 
 Ojurukombeni (n) place in Yumbe, means "The termite ate (literally licked) it"
 
-oka  (adj) sour, (n) sourness; [blacksmith, (v) become brownish with dirt]
+oka  (adj) sour, (n) sourness; blacksmith, (v) become brownish with dirt
 
 okalamgba (adj) brown (also okazaru) eg Anti Gresi su viato okalamgba. = Aunt Grace wore brown shoes.
 
@@ -4740,7 +4768,7 @@ okelea (n) calabash
 
 oki (v) swallow
 
-oko (adv) first, ahead, leading; [(v) fetch eg water; finish] eg Fama redio oko Yuganda-a ri andra "Capital FM". = The first FM radio in Uganda was Capital FM.
+oko (adv) first, ahead, leading; (v) fetch eg water; finish eg Fama redio oko Yuganda-a ri andra "Capital FM". = The first FM radio in Uganda was Capital FM.
 
 Okokoro (n) trading centre in Maracha on Koboko Highway after River Imve
 
@@ -4766,7 +4794,7 @@ okporu (adj) strong
 
 Okpova (n) open green space with natural stones acting as seats under the tamarind trees next to Arua Central Police Station. It's where Ayivu elders sat and resolved issues affecting them, carried out cleansing rituals and curses too
 
-oku (adj) old (also amba), ancient; [(n) female, wife, woman; hat, crown, (v) gather, collect] eg Sara ni oku. = Sarah is a woman.
+oku (adj) old (also amba), ancient; (n) female, wife, woman; hat, crown, (v) gather, collect eg Sara ni oku. = Sarah is a woman.
 
 oku biza (n) wedding
 
@@ -4792,7 +4820,7 @@ Okuza (n) festival where Lugbara Diaspora meet and fellowship for four to five d
 
 okuzaru (adv) collected, gathered
 
-ola (n) root; [cassava (also gbanda); (v) lie down]
+ola (n) root; cassava (also gbanda); (v) lie down
 
 ola fura (n) cassava flour
 
@@ -4800,7 +4828,7 @@ olakula (n) restlessness, curiosity
 
 olangi (n) bell
 
-ole (adj) clean, bare, (n) witchcraft in the heart, bad heart, indignation, moral anger, Parallax; [(v) trick, deceive]
+ole (adj) clean, bare, (n) witchcraft in the heart, bad heart, indignation, moral anger, Parallax; (v) trick, deceive
 
 Oleba (n) subcounty in Maracha near DR Congo Border
 
@@ -4810,7 +4838,7 @@ Olewa Yikuru (n) water falling about 10 metres from River Enyau as it descends t
 
 olezaru (adv) tricked
 
-oli (n) air, wind, airtime; [(v) whistle, cut; roll] eg Ndege ni aci oli-a si. = A plane moves through the air.
+oli (n) air, wind, airtime; (v) whistle, cut; roll eg Ndege ni aci oli-a si. = A plane moves through the air.
 
 Oli (n) river from which Oli Division gets its name, subcounty or division in Arua District comprising 28 cells in 2018, cannibalistic ancestor also known as Banyale in Lugbara mythology, eldest son of Gboro, had supernatural powers and kingship privileges symbolised by a bead, brother to Olu, Kibira and Obaru. His first descendants were Madi Pawor. He killed children and ate their liver
 
@@ -4832,13 +4860,13 @@ olokoto (n) lizard
 
 Oloporoporo Yikuru (n) waterfalls in Oluko on River Asa found left off Waterfalls Road, name shortened from Olokoto pororo meaning "Many (red-orange-black) lizards", bought by an American named Mike Elkins
 
-olu (v) lower sth or sb, slope; [preach, report, reveal, fall off eg leaves; jatropha] eg Fanuelu Onzima olu e'yo ni. = Fanuel Onzima preached the message.
+olu (v) lower sth or sb, slope; preach, report, reveal, fall off eg leaves; jatropha eg Fanuelu Onzima olu e'yo ni. = Fanuel Onzima preached the message.
 
 Olu (n) second son of Gboro in Lugbara mythology; brother to Oli, Kibira and Obaru
 
 olubua (n) type of creeping bean
 
-olufe (n) bridge (also alofe); [mingling stick]
+olufe (n) bridge (also alofe); mingling stick
 
 Olufe (n) Oluffe, river on the Koboko Highway after Imve River
 
@@ -4854,11 +4882,11 @@ oluzaru (adj) sloppy, sloping
 
 Olwiyo (n) place in Nwoya where the Umeme Regional Substation for West Nile is located
 
-omba (n) anger; [(v) stiffen, toughen]
+omba (n) anger; (v) stiffen, toughen
 
 omba omba (n) edible rats enjoyed mainly in Terego eg Omba omba 'ba esu ngoa? = Where can people find edible rats?
 
-Ombaci (n) suburb connected to Arua City by Rhino Camp Road (after the Airfield Stretch), location of St. Joseph's College for boys only, Arua suburb where former Ugandan President Idi Amin set up the First Earth Satellite Station in East Africa [1976] before Uganda Communications Commission (UCC) removed the equipment 40 years later plus where Obote II soldiers massacred civilians in 1985, ward in Koboko District
+Ombaci (n) suburb connected to Arua City by Rhino Camp Road (after the Airfield Stretch), location of St. Joseph's College for boys only, Arua suburb where former Ugandan President Idi Amin set up the First Earth Satellite Station in East Africa (1976) before Uganda Communications Commission (UCC) removed the equipment 40 years later plus where Obote II soldiers massacred civilians in 1985, ward in Koboko District
 
 ombaru (adj) angry
 
@@ -4866,7 +4894,7 @@ Ombatini (n) place reachable eastwards from Ombaci via Rhino Camp Road eg Adra l
 
 ombazaru (adj) stiff, tough
 
-ombe (n) neck (also ombele, ombeleko), lick; [tie] eg Lanesra ombe i-ma dribi riboni yelo si Mba towi-a. = Lanesra tied her hair with a yellow ribbon in May (the fifth month).
+ombe (n) neck (also ombele, ombeleko), lick; tie eg Lanesra ombe i-ma dribi riboni yelo si Mba towi-a. = Lanesra tied her hair with a yellow ribbon in May (the fifth month).
 
 ombere (n) lame, disabled person, PWD - Person With Disabilities (also 'ba acoza) eg Hafu Kilo ni ombere. = Half Kilo is a disabled person.
 
@@ -4898,7 +4926,7 @@ Omi (n) village on Koboko Highway after Enyau River
 
 omogo (n) vagina, pussy, punani (also rua okuni, oma, angunya in Acholi)
 
-omu (v) visitor, guest; [(v) combine; festival] eg "SK" ni mu omu-a. = SK is going to the festival.
+omu (v) visitor, guest; (v) combine; festival eg "SK" ni mu omu-a. = SK is going to the festival.
 
 omu inzile inzi (n) esteemed guests, respected visitors (pronounced omu injile inji)
 
@@ -4918,13 +4946,13 @@ omveta (n) calling (also omveza), call
 
 omvezaru (n) called
 
-omvi (v) reply, return; [feel (again), touch (also amvu, omvu)] eg Treva omvi zita. = Trevor answered the question.
+omvi (v) reply, return; feel (again), touch (also amvu, omvu) eg Treva omvi zita. = Trevor answered the question.
 
 omvita (n) answer, reply (also omviza)
 
 omvizaru (n) returned, replied
 
-omvu (n) nose, sneeze; [orphan; (v) pick up]
+omvu (n) nose, sneeze; orphan; (v) pick up
 
 omvu co (phr v) sneeze
 
@@ -4942,7 +4970,7 @@ ondaza (n) looking for or searching
 
 ondere (n) giraffe eg Apio so pa ondere ma ageia. = Apio stood beside a giraffe.
 
-ondi (n) dirt, sweat; [(v) pinch] eg Ayiko ni ondi ma mva. = Happiness is sweat's child. [Lugbara Proverb]
+ondi (n) dirt, sweat; (v) pinch eg Ayiko ni ondi ma mva. = Happiness is sweat's child. [Lugbara Proverb]
 
 ondikokoru (adj) clean, without dirt nor sweat
 
@@ -4954,7 +4982,7 @@ Ondoma (n) male-given name when a woman takes long to deliver a child after marr
 
 ondoru (adj) barren
 
-ondre (n) evening; [(v) look, search (also one)]
+ondre (n) evening; (v) look, search (also one)
 
 ondre ta (n) evening meal
 
@@ -4980,7 +5008,7 @@ ondroko soza (n) snoring (also ondroko seza)
 
 ondrukundrua (n) black ant
 
-ondu (n) sorghum; [(v) cheat]
+ondu (n) sorghum; (v) cheat
 
 ondua (n) wisdom, brains, intelligence, cleverness, brightness (also ondoa)
 
@@ -5014,11 +5042,11 @@ ongoni (adj) poetic
 
 ongoro'bi (n) eyebrows
 
-ongu (n) race, running (also ongu nzuta, ongu nzuza); [(v) dry] eg Narambhai nde ongu. = Narambhai won the race.
+ongu (n) race, running (also ongu nzuta, ongu nzuza); (v) dry eg Narambhai nde ongu. = Narambhai won the race.
 
 ongulumu (n) group, association, multitude eg Sudhiru Ruparelia ma ongulumu ambo. = Sudhir Ruparelia's group is big.
 
-oni (n) stone, rock, hill (also 'be were); [(v) learn] eg Oni Arua = Arua Hill
+oni (n) stone, rock, hill (also 'be were); (v) learn eg Oni Arua = Arua Hill
 
 ono (v) complain (also onu)
 
@@ -5036,7 +5064,7 @@ onyiru (adj) good, beautiful (also onioni), sweet eg MUNGU ni onyiru! = GOD is g
 
 onyofi (n) body nail
 
-onyu (adj) half dry, (n) magical condition with an evil spirit similar to adra that attacked thieves by removing their teeth plus inflicting a terrible cough and rash or pimples on the face; [(v) wither, crumple, crash] eg Semakula mu pari mutuka ni onyu ria. = Semakula went to the place where the car crashed.
+onyu (adj) half dry, (n) magical condition with an evil spirit similar to adra that attacked thieves by removing their teeth plus inflicting a terrible cough and rash or pimples on the face; (v) wither, crumple, crash eg Semakula mu pari mutuka ni onyu ria. = Semakula went to the place where the car crashed.
 
 onyukunyu (n) housefly
 
@@ -5048,7 +5076,7 @@ onze (v) bail, pluck, uproot
 
 onzeta (n) bail (onzeza) eg A'di ni onzeta ofe "Fire Eaters, Chicken Cannot Pass" azini "B-13" ni ra? = Who will pay bail for Fire Eaters, Chicken Cannot Pass and B-13?
 
-onzi (adj) bad, evil, (n) type of snake, bad attribute, sin; [(v) show happiness, open] eg Pasita Sempa lu Pepe Juliani Onzima ni: LGBT+ Afu onzi! = Pastor Sempa told Pepe Julian Onzima: LGBT+ Pride is bad!
+onzi (adj) bad, evil, (n) type of snake, bad attribute, sin; (v) show happiness, open eg Pasita Sempa lu Pepe Juliani Onzima ni: LGBT+ Afu onzi! = Pastor Sempa told Pepe Julian Onzima: LGBT+ Pride is bad!
 
 onzikanya (n) very bad (also onzirikanya) eg Kyarenga kini eri onzikanya. = Kyarenga said it's very bad.
 
@@ -5060,7 +5088,7 @@ Onzivu (n) suburb south of Arua City after Sambya and Awindiri; narrow street be
 
 onzivuru (adj) ugly
 
-onzo (v) belittle; [cheat, smash]
+onzo (v) belittle; cheat, smash
 
 onzokonzo (n) smooth
 
@@ -5070,11 +5098,11 @@ onzoroko (n) dirt, many
 
 onzorokoru (adj) dirty
 
-onzota (n) belittling, minimizing; [cheating, smashing (also onzoza)]
+onzota (n) belittling, minimizing; cheating, smashing (also onzoza)
 
-onzu (v) off load; [run]
+onzu (v) off load; run
 
-onzuta (n) offloading eg from a bag; [running (also onzuza)]
+onzuta (n) offloading eg from a bag; running (also onzuza)
 
 oo (v) speak, talk (also 'yo)
 
@@ -5088,7 +5116,7 @@ opasi (n) nape, back of your neck
 
 opazaru (v) nailed, robbed
 
-ope (n) guinea fowl; [(v) select, choose]
+ope (n) guinea fowl; (v) select, choose
 
 opendu (n) segregation, nepotism
 
@@ -5098,7 +5126,7 @@ opeta (n) choice, selection (also opeza), election, voting
 
 opezaru (adv) selected, chosen
 
-opi (n) chief, chieftainship, king; [wings; (v) peel, unshell, swell] eg YESU ni opi ma Opi. = JESUS is the King of kings.
+opi (n) chief, chieftainship, king; wings; (v) peel, unshell, swell eg YESU ni opi ma Opi. = JESUS is the King of kings.
 
 Opi ma ndrita ma ovu mibe! (greeting) May the glory of the LORD be with you!
 
@@ -5124,7 +5152,7 @@ oporovu (n) pregnancy, pregnant woman
 
 Opozisoni (n) Opposition
 
-ora (v) leak; [(over)think, worry]
+ora (v) leak; (over)think, worry
 
 Ora (n) River Nile tributary flowing eastwards to the Albert Nile near Madi Okollo Town as you enter Arua District
 
@@ -5138,7 +5166,7 @@ Orawa (n) place found somewhere between Arua Airport and Dadamu or Ociba
 
 oresi (n) goat given by a husband to his baby mama's parents to cleanse their child from bad luck after placenta is not buried at man's place
 
-ori (n) snake; [fear, cowardice (also uri), seed; (v) settle at the bottom of a liquid] eg Ori ci ya? Ori yo! = Is there fear? No fear!
+ori (n) snake; fear, cowardice (also uri), seed; (v) settle at the bottom of a liquid eg Ori ci ya? Ori yo! = Is there fear? No fear!
 
 ori 'dipi (n) spiritual leader
 
@@ -5162,7 +5190,7 @@ Orindi Alari (n) Holy Spirit (also Urindi Alari)
 
 orio (n) coward (also urio)
 
-oro (n) earth, universe, the world, upper part of thigh; [tiredness, (v) feel tired]
+oro (n) earth, universe, the world, upper part of thigh; tiredness, (v) feel tired
 
 orobi (n) dream eg MUNGU eco e'yo nze orobi si. = GOD can speak through a dream.
 
@@ -5184,27 +5212,27 @@ oruleru (adv) upper
 
 oruta (n) waking up
 
-osa (n) mixture, syrup; [(v) fly, mix, slap] eg Anyoya ma a, 'ba kaka osa osu be. = In anyoya, maize is mixed with beans.
+osa (n) mixture, syrup; (v) fly, mix, slap eg Anyoya ma a, 'ba kaka osa osu be. = In anyoya, maize is mixed with beans.
 
 osasa (n) insect
 
-ose (adj) fat, (v) fatten; [pull] eg Halu ni ose. = Hal is fat.
+ose (adj) fat, (v) fatten; pull eg Halu ni ose. = Hal is fat.
 
 oseta (n) fattening
 
 oseza (adj) fatness, big masavu
 
-osi (v) give birth, produce a baby; [roast; write] eg Neria osi mva ago. = Neria gave birth to a male child.
+osi (v) give birth, produce a baby; roast; write eg Neria osi mva ago. = Neria gave birth to a male child.
 
 osisia (n) secretary, scribe (also osipiri)
 
-osita (n) birth; [roasting, writing, registration (also ositaa)]
+osita (n) birth; roasting, writing, registration (also ositaa)
 
 osiza (adj) roasted
 
-osizaru (adj) roasted; [written]
+osizaru (adj) roasted; written
 
-oso (n) fat; [pole with sth sharp]
+oso (n) fat; pole with sth sharp
 
 osolo (n) mucus-like substance that comes from chest while coughing, sputum
 
@@ -5212,7 +5240,7 @@ osoroko (n) old clothes
 
 Ostrelia (n) Australia eg Ogwapiti ni Ostrelia-a. = Ogwapit is in Australia.
 
-osu (n) bow, gun (also bunduki, usu); [peas, beans; (v) fix, pour, dress, marvel] eg Kazibwe ji osu vule gombolola-a. = Kazibwe took the gun back to the gombolola.
+osu (n) bow, gun (also bunduki, usu); peas, beans; (v) fix, pour, dress, marvel eg Kazibwe ji osu vule gombolola-a. = Kazibwe took the gun back to the gombolola.
 
 Osu (n) river through the Arua Golf Course, suburb near Osu River behind Hospital Road and Rhino Camp Road
 
@@ -5246,7 +5274,7 @@ oteta (n) waiting for sb
 
 otwenge (n) dance by the Lugbara and Kebu, literally means "elbow" and involves raising those joints
 
-oti (v) arrange in order, pluck eg fruits from tree; [hang sb, tie eg animals; swallow]
+oti (v) arrange in order, pluck eg fruits from tree; hang sb, tie eg animals; swallow
 
 otita (n) program(me), radio show, arrangement
 
@@ -5300,7 +5328,7 @@ otruta (n) movement (also otruza)
 
 Otsho (n) Lugbara dialect in DR Congo (very similar to Ugandan Lugbara)
 
-otu (n) navel, umbilicus, umbilical cord, sun (also etu, itu); [(v) correct, straighten, kick]
+otu (n) navel, umbilicus, umbilical cord, sun (also etu, itu); (v) correct, straighten, kick
 
 Otuambari (n) place north of Ocodri
 
@@ -5332,7 +5360,7 @@ ovita (n) scratching (also oviza)
 
 ovo (v) curse
 
-ovu (n) kind of basket made from sorghum stalk; [laziness, idleness; (v) stay, be; keep quiet] eg Ma ovu ciri! = I keep quiet!
+ovu (n) kind of basket made from sorghum stalk; laziness, idleness; (v) stay, be; keep quiet eg Ma ovu ciri! = I keep quiet!
 
 ovua (n) big basket for carrying seedlings
 
@@ -5344,7 +5372,7 @@ ovuzu (v) stay, be, keep quiet
 
 Owafa (n) Owaffa, headquarters of Terego meaning elephant bone (Ewa falako) after an injured elephant ran from poachers but died there and rotted until the bones showed, originally called Imirua (meaning "Spy Area"), trading centre before the notorious Teeth Can Lost slope
 
-owi (n) dawn; [(v) spit, make sacrifice, peel, unshell]
+owi (n) dawn; (v) spit, make sacrifice, peel, unshell
 
 Owinyi (n) Owiny, village in Pakwach that was calculated as the Best Venue on Earth for viewing the 3rd November 2013 Total Solar Eclipse
 
@@ -5358,13 +5386,13 @@ owokoru (adj) angry (also awokoru) eg Mario ni owokoru! = Mario is angry!
 
 owoko si (adv) angrily
 
-owu (n) cry (also awu, owuta); [(v) cry; gather things] eg Kapteni Lamu owu ku(ye). = Captain Lahm did not cry.
+owu (n) cry (also awu, owuta); (v) cry; gather things eg Kapteni Lamu owu ku(ye). = Captain Lahm did not cry.
 
 o'wi (v) dry
 
 o'wiza (n) drying
 
-oya (n) yaws; [salary, wages, payment, earnings; syphilis (also nzuku); (v) shake]
+oya (n) yaws; salary, wages, payment, earnings; syphilis (also nzuku); (v) shake
 
 oyata (n) shaking (also oyaza)
 
@@ -5388,7 +5416,7 @@ oyoo (n) monkey
 
 oyoro (n) rags
 
-oyu (n) mole; [(v) announce] eg Elekitoro Komisoni ma ambo Injinia Badru Kigundu oyu kalulu ma o'du. = Electoral Commission boss Engineer Badru Kiggundu announced the election date.
+oyu (n) mole; (v) announce eg Elekitoro Komisoni ma ambo Injinia Badru Kigundu oyu kalulu ma o'du. = Electoral Commission boss Engineer Badru Kiggundu announced the election date.
 
 oyuta (n) announcement (also oyuza), commentary eg "Martin Tyler" ni mupira oyuta fe. = Martin Tyler is giving a football commentary.
 
@@ -5402,7 +5430,7 @@ ozeze (n) second hand clothes (also ozezee)
 
 oze (v) push down
 
-ozi (v) sell, unshell open, hide; [(n) black and white insects that come out of anthills]
+ozi (v) sell, unshell open, hide; (n) black and white insects that come out of anthills
 
 ozizaru (adv) for sale eg Nyaka ozizaru "Oasis 24/7"-a. = Food is for sale at Oasis 24/7.
 
@@ -5420,7 +5448,7 @@ ozoza (adj) roasted
 
 ozozaru (adj) roasted
 
-ozu (n) reeds, elephant grass (also ozuu); [(v) multiply]
+ozu (n) reeds, elephant grass (also ozuu); (v) multiply
 
 ozuta (n) multiplication (also ezuta)
 
@@ -5432,7 +5460,7 @@ ozuruko (n) aeroplane
 
 Pp
 
-pa (n) leg; [(v) knock eg door, crucify, nail, rob, save] eg Kathi ni i-pa tri. = Cathy is brushing her foot.
+pa (n) leg; (v) knock eg door, crucify, nail, rob, save eg Kathi ni i-pa tri. = Cathy is brushing her foot.
 
 pa ale (n) inside or sole of the foot
 
@@ -5502,7 +5530,7 @@ Pangisa (n) place in Arua City near Osu
 
 panya (n) shortcut eg "Arua Boys" ayu panya. = Arua Boys used a shortcut.
 
-papa (adv) nailed; [(n) shoes, footwear (also jijima, nyila, viato); father (also baba, ati), Pope] eg Papa Fransisi imu Yuganda-a eli 2015 si. = Pope Francis came to Uganda in the year 2015.
+papa (adv) nailed; (n) shoes, footwear (also jijima, nyila, viato); father (also baba, ati), Pope eg Papa Fransisi imu Yuganda-a eli 2015 si. = Pope Francis came to Uganda in the year 2015.
 
 Paparu (n) name meaning "From the legs"
 
@@ -5576,7 +5604,7 @@ peta (n) selection, choice eg Wilu Smithi kini, "Chandi ada ada, te ori peta ni"
 
 petroli (n) petrol (also odu)
 
-pi (adj) whole, [(conj) and, (suffix) optional for terms of kinship like atipi/ atapi means father (also pika) or grammatical suffix by which a clause is turned into a noun agent like ageitepi means one who guards, (v) twist, plait; swell, expand]
+pi (adj) whole, (conj) and, (suffix) optional for terms of kinship like atipi/ atapi means father (also pika) or grammatical suffix by which a clause is turned into a noun agent like ageitepi means one who guards, (v) twist, plait; swell, expand
 
 pie (adv) also, as well (pronounced pye)
 
@@ -5688,7 +5716,7 @@ reluwe (n) train, railway eg Remo ni azi nga reluwe-a. = Remo works in railway.
 
 Reluwe (n) block near Gaagaa Market in Arua where goods would be stored before being transported on the train passing through Pakwach
 
-Rembe (n) one of the Greatest Prophets in Lugbara History who was taken by Whitemen to Yei [Sudan] for hanging in 1916 but Lugbara believe he never died and will return, rainmaker, emissary of divinity who claimed to perform miracles and heal illnesses. His footmarks were embedded on a bare rock between Meki and Loinya in Yivu Subcounty, Maracha. Simon Drapari's autobiography mentions rembe gods in Terego
+Rembe (n) one of the Greatest Prophets in Lugbara History who was taken by Whitemen to Yei (Sudan) for hanging in 1916 but Lugbara believe he never died and will return, rainmaker, emissary of divinity who claimed to perform miracles and heal illnesses. His footmarks were embedded on a bare rock between Meki and Loinya in Yivu Subcounty, Maracha. Simon Drapari's autobiography mentions rembe gods in Terego
 
 remoti kontrolu (n) remote control (also remoti)
 
@@ -5696,7 +5724,7 @@ repabliki (n) republic (also republiki)
 
 reta (n) peeling, robbing (also reza)
 
-ri (suffix) relative pronoun meaning "one which is", (v) broadcast eg seeds; [sit] eg Lemani (Invinsibo) ri kome dria. = Lehmann (Invincible) sat on the bench.
+ri (suffix) relative pronoun meaning "one which is", (v) broadcast eg seeds; sit eg Lemani (Invinsibo) ri kome dria. = Lehmann (Invincible) sat on the bench.
 
 Ri 'Be wereari (n) Ri Hill, found in Baria Village (also Riri)
 
@@ -5736,7 +5764,7 @@ rombolo (n) mistake
 
 rota (n) carrying a heavy object, curse
 
-ru (adj) abrupt; [(n) name eg Candiru, Inzikuru, Aciru; (v) catch, mate, respect] eg Mi ru a'di-i? = What is your name?
+ru (adj) abrupt; (n) name eg Candiru, Inzikuru, Aciru; (v) catch, mate, respect eg Mi ru a'di-i? = What is your name?
 
 ru biza (n) baptism
 
@@ -5892,7 +5920,7 @@ sheiki (n) sheikh eg Sheiki Zayedi = Sheik Zayed
 
 sheika (n) sheikha
 
-si (conj) on, by, because of; [(n) tooth, hailstone; (suffix) with, (v) write, knock; peel, build] eg Huanga Mingi si "Solar City" Chaina-a. = Huang Ming built Solar City in China.
+si (conj) on, by, because of; (n) tooth, hailstone; (suffix) with, (v) write, knock; peel, build eg Huanga Mingi si "Solar City" Chaina-a. = Huang Ming built Solar City in China.
 
 si dini (n) situation where someone smiled or teeth shone (but the heart was dark)
 
@@ -6020,7 +6048,7 @@ stowa (n) store eg Aseru ni stowa we. = Aseru is sweeping the store.
 
 stresi (n) stress
 
-su (n) four, (v) put in, score, hurt, pain; [wear, put on, pour eg water, to have diarrhoea] eg Adele ma asi su. = Adele's heart pained.
+su (n) four, (v) put in, score, hurt, pain; wear, put on, pour eg water, to have diarrhoea eg Adele ma asi su. = Adele's heart pained.
 
 Sudani (n) country north of Uganda and South Sudan, zone in Mvara Cell near where Emmanuel Cathedral is located eg Julieti imvi Sudani-a risi. = Juliet returned from Sudan.
 
@@ -6070,7 +6098,7 @@ synthi (n) music synthesizer, synth (also sinthi)
 
 Tt
 
-ta (adv) used to be, (n) sound when sth is slapped or struck; [(v) endure] eg Hotelu Arua ma ru ta Hotelu Kalifonia. = Hotel Arua's name used to be (called) Hotel California.
+ta (adv) used to be, (n) sound when sth is slapped or struck; (v) endure eg Hotelu Arua ma ru ta Hotelu Kalifonia. = Hotel Arua's name used to be (called) Hotel California.
 
 ta mba (v) take care, keep safe
 
@@ -6094,7 +6122,7 @@ Taiwani (n) Taiwan, independent state in East Asia, the Republic of China (ROC)
 
 tajiri (n) rich person
 
-tala (n) lamp; [side, hurricane] eg Tala Katrina eza jo karakara Nyu Orilinzi-a. = Hurricane Katrina destroyed several houses in New Orleans.
+tala (n) lamp; side, hurricane eg Tala Katrina eza jo karakara Nyu Orilinzi-a. = Hurricane Katrina destroyed several houses in New Orleans.
 
 talakpa (adj) not tasty (also talapa)
 
@@ -6134,7 +6162,7 @@ tayataya (adv) (said of movement) tilted side to side, swaying
 
 tayilu (n) tile(s) (also tailu) eg Angutoko ni tayilu osu. = Angutoko is fixing tiles.
 
-te (adv) affirmative at the end of sentence; [(conj) but (also tedi), (v) gas, break wind; wait, collect white ants (fig.)] eg MUNGU ni 'ba nyakua 'diyi lele turisi ERI fe mvi ERINI tile aluri, 'dini 'ba dria alu alu eri aipiri ma ja dri ku, te ma ovu idri 'dani 'dani ri be. - Yohana 3:16 = For GOD so loved the world that HE gave HIS only begotten Son, that whoever believes in him will not perish but have everlasting life. - John 3:16
+te (adv) affirmative at the end of sentence; (conj) but (also tedi), (v) gas, break wind; wait, collect white ants (fig.) eg MUNGU ni 'ba nyakua 'diyi lele turisi ERI fe mvi ERINI tile aluri, 'dini 'ba dria alu alu eri aipiri ma ja dri ku, te ma ovu idri 'dani 'dani ri be. - Yohana 3:16 = For GOD so loved the world that HE gave HIS only begotten Son, that whoever believes in him will not perish but have everlasting life. - John 3:16
 
 tegula (n) tiles
 
@@ -6160,7 +6188,7 @@ teta (n) waiting, collecting white ants
 
 theata (n) theatre
 
-ti (adj) in vain; [(n) cow; sound of dropping liquid, hang (oneself); mouth (also tile), language; (v) dress smartly, thatch, sign, press a button; give birth, deliver] eg Ti Yuganda-a lu su: Bantu, Luo, Karamojong-Ateso azini Madi-Lugbara. = There are only four languages in Uganda: Bantu, Luo, Karamojong-Ateso and Madi-Lugbara.
+ti (adj) in vain; (n) cow; sound of dropping liquid, hang (oneself); mouth (also tile), language; (v) dress smartly, thatch, sign, press a button; give birth, deliver eg Ti Yuganda-a lu towi: Bantu, Luo, Karamojong-Ateso, Madi-Lugbara azini Azia. = There are only five languages in Uganda: Bantu, Luo, Karamojong-Ateso, Madi-Lugbara and Asian.
 
 ti aroni (n) cow, heifer
 
@@ -6238,7 +6266,7 @@ tratra (n) collection (also traza), heap
 
 trazaru (adj) satisfied, for collecting
 
-tre (adj) many, numerous, full; [(v) shout, rebuke]
+tre (adj) many, numerous, full; (v) shout, rebuke
 
 tri (v) brush, rub, curse, smear
 
@@ -6252,7 +6280,7 @@ truta (n) forgiveness (also truza, pata) eg Oguo ai truta YESU vu musalaba sia. 
 
 truzaru (n) forgiven, 4GVN
 
-tu (adj) much; [(v) climb, kick, dance] eg Shakira ni ongo tu Matonge Disko-a. = Shakira is dancing in Matonge Disco.
+tu (adj) much; (v) climb, kick, dance eg Shakira ni ongo tu Matonge Disko-a. = Shakira is dancing in Matonge Disco.
 
 tualu (adv) together eg Mukwano "Industries" Kampala ni azi nga Ozuu Brothers Arua be tualu. = Mukwano Industries Kampala works together with Ozuu Brothers Arua.
 
@@ -6294,7 +6322,7 @@ Ulepi (n) Uleppi, place in Upper Madi between Bondo and Okollo
 
 univasiti (n) university eg Mawa mu Kyambogo Univasiti-a. = Mawa went to Kyambogo University.
 
-uri (n) fear, cowardice, snake (also ori); [louse, sweat, rust; seeds for planting, seedlings]
+uri (n) fear, cowardice, snake (also ori); louse, sweat, rust; seeds for planting, seedlings
 
 urindi onzi (n) evil spirit, madness, lunacy, epilepsy (also orindi onzi)
 
@@ -6358,7 +6386,7 @@ VOLU (n) Voice Of Life Uganda, 100.9 FM VOL Radio, West Nile's pioneer broadcast
 
 vorovoro (adj) soft
 
-vu (n) ground; [(prep) near, with him/ her/ it; (v) blow] eg Abiriambati ni Go Dawuni Geri vu. = Abiriambati is near Go Down Road.
+vu (n) ground; (prep) near, with him/ her/ it; (v) blow eg Abiriambati ni Go Dawuni Geri vu. = Abiriambati is near Go Down Road.
 
 vudu (n) voodoo, vodou, witchcraft (also enata)
 
@@ -6440,7 +6468,7 @@ wetrekoru (adj) muddy
 
 weza (n) sweeping
 
-wi (n) arm; [(v) peel off, skin; spit, yield (said of tubers eg Ayu wi saaru! = Yams yielded much!)]
+wi (n) arm; (v) peel off, skin; spit, yield (said of tubers eg Ayu wi saaru! = Yams yielded much!)
 
 wiketi (n) wicket (in cricket)
 
@@ -6466,7 +6494,7 @@ woroworo (n) sound made while walking on dry grass, leaves, etc
 
 woroto (n) dung or animal waste product
 
-wu (n) arm (also wi); [(v) cry, remove] eg Wu o'boko ni ra. = S/he removed the shell.
+wu (n) arm (also wi); (v) cry, remove eg Wu o'boko ni ra. = S/he removed the shell.
 
 wudrikuru (n) world (also oro), universe
 
@@ -6522,7 +6550,7 @@ Yerusalemu (n) Jerusalem eg Paulo mu Yerusalemu-a. = Paul went to Jerusalem.
 
 YESU Kristo (n) JESUS Christ (also YEZU), the Greatest Human Being to walk on Earth and the Sea, Superprophet, Saviour of Sinners, Son of GOD, Lamb of GOD, Prince of Peace, KING of Kings and LORD of Lords, XP, The Anointed One, Witness and Judge on Judgement Day eg YESU ni Opi! = JESUS is Lord!
 
-yi (n) water (also iyi); [suffix for plurals; (pron) they; (v) pour] eg Ma yi mvu. = I'm drinking water.
+yi (n) water (also iyi); suffix for plurals; (pron) they; (v) pour eg Ma yi mvu. = I'm drinking water.
 
 yi ali (n) lunch, lunchtime (also nyaka itu-a), water depth eg Etu ni yi ali o'bi ri-a! = The sun is measuring the water depth (when it is directly overheard around lunchtime)!
 
@@ -6578,7 +6606,7 @@ yuu (adj) lukewarm, warm eg Homi ni i-oji yi yuu si. = Homi bathes herself with 
 
 'ya (v) dig (also yha) eg Sina ni amvu 'ya. = Sina is digging the garden.
 
-'ye (n) arrow; [(v) do (also o)] eg Magufuli ni ta a'du 'ye? = What would Magufuli do?
+'ye (n) arrow; (v) do (also o) eg Magufuli ni ta a'du 'ye? = What would Magufuli do?
 
 'ye bi-a wu (adj) buzzing eg Afa 'ye bi-a wu. = It's buzzing in the ear.
 
@@ -6614,13 +6642,13 @@ zamva (n) girl, meat child eg Britni ni zamva te saa azi ma vutia, eri mu eca ok
 
 zapi (n) niece (daughter) eg Judithi Babirye Ayikoru ni eri ma zapi. = Judith Babirye Ayikoru is his niece.
 
-ze (v) defecate, push; [faeces, shit, dung]
+ze (v) defecate, push; faeces, shit, dung
 
 zele (n) anus (also aise geri)
 
 Zeroksi (v) Xerox
 
-zi (n) daughter (also zii); [(v) hide, open; ask, greet]
+zi (n) daughter (also zii); (v) hide, open; ask, greet
 
 Zibeya (n) female-given name meaning "Did they consult?"
 
@@ -6644,7 +6672,7 @@ zota (n) growth, development, prosperity, length, milking (also zotaa, zoza)
 
 zozo (adv) distant, far, long
 
-zu (adv) whole day, morning to evening; [(phr v, suffix) for eg ayiko zu = enjoy (for happiness)]
+zu (adv) whole day, morning to evening; (phr v, suffix) for eg ayiko zu = enjoy (for happiness)
 
 zukulu (n) gourd, calabash (also erece), ndeku in Luganda
 
@@ -7070,7 +7098,7 @@ Siblings (tipika anzi azi)
 
 Brotherliness (adrizi, arizi)
 
-Uncle[s] (paternal - atapiru[ka], atapuru[ka], atipiru, ata ogu, adropi; maternal - adro, adroyi[ka])
+Uncle[s] (atapiru[ka], atapuru[ka], atipiru, ata ogu, adroyi[ka]; maternal - adro[pi])
 
 Aunt[s] (paternal - awupi/ owupi, a'wi, a'wizi, waco; maternal - andrapi[ka], andrapuru, andripiru[ka])
 
@@ -7692,7 +7720,7 @@ FEEDBACK (Amazing World of Lugbara):
 
 "Lugbara-locating GPS..." - Joel Okuyo Atiku (Prynce), the King Himself
 
-"Passionate... Brother..." - Chris Tumusiime (Munyankole who tried to learn Lugbara ti)
+"Passionate... Brother..." - Chris Tumusiime (Munyankole who tried to learn Lugbara ti while courting my 3rd cousin's niece)
 
 "My Lugbara girlfriend has given me a task to learn her language... I'm having problems. But thank GOD that I found your number on Google..." - Michael Ssebutinde
 
@@ -7728,7 +7756,7 @@ FEEDBACK (Amazing World of Lugbara):
 
 "I tried checking for the name Leniya up your dictionary but couldn't find it! I would like to know what it means in English. Thanks..." - +256-788-556525 (Isaac Rubangakene) via Whatsapp, on Sunday 13th March 2022
 
-"Lugbara University 'ba 'ye si ra..." - LMB Raggs (musician)
+"Lugbara University 'ba 'ye si ra..." - LMB Rags (musician)
 
 "Mucele ma ru Lugbara tisi ngoni... Borehole ma ru? Ma adripi borehole ma ru Lugbara tisi mani ma oku niri semenikia adreni chuma (yini) ku, enzo onzi! You have given me wrong answers, please brother, don't lie people, thanks..." - 0772-978078 (Batista Atrici)
 
@@ -7752,7 +7780,7 @@ FEEDBACK (Amazing World of Lugbara):
 
 "Thank you bro for your initiative to have the Lugbara ti Dictionary. I've been a great follower of your blog..." - John Bosco Asibuku (aka Jeybee Pop Auden), on Friday 21st June 2024
 
-"I used to love learning Lugbara language from your site but it has been blocked and can't access it anymore. Is there a new site where we can access that information?" - Felix Kuteesa via Wikipedia, on 15th August 2024
+"I used to love learning Lugbara language from your site but it has been blocked and can't access it anymore. Is there a new site where we can access that information?" - Felix Kuteesa via Wikipedia, on 15th August 2024 (I had changed the URL, but then reverted it)
 
 "I contacted you in 2018 and I keep looking at your Lugbara blogs. Have you thought about writing a book? I have always wanted to know about our history, culture, language. I was born in Arua but grew up in Kakira - Jinja. Your blogs made me research and get old Lugbara textbooks... I bless GOD for your life. You are called to make Lugbara known to the world... If West Africans have language similarities to Lugbara, when did we separate... The Aringa connived with the Government to be called a tribe... Aringa is just a dialect. Not a tribe. Similar to Rigbo, Terego, etc... Difference is less than 100 words. I have travelled much of our land and analysed some of the various differences including being in Moyo and Adjumani. My paternal grandparents moved to Lodonga in Yumbe in the 1950s so all my mother's side are in Yumbe and speak Aringa. No difference... I admire the way our descendants will have access to all this information after the hardwork you are putting into this project..." - Gilbert Adima via WhatsApp, on Wednesday 11th December 2024
 
@@ -7768,7 +7796,7 @@ FEEDBACK (Amazing World of Lugbara):
 
 Lugbara Supermobile:
 
-Machines (AI or Artificial Intelligence) can be programmed to use Lugbara. Engineers, Designers as well as Technology Students in Ugandan Schools have always tinkered with this Possibility. Machines can also teach themselves Lugbara through Artificial General Intelligence (AGI) or Artificial Superintelligence (ASI). Some great advancements towards this goal include the Lugbara Gboard in Android phones plus mobile apps in Lugbarati; whoa! Below are translated Commands you might see in the mega, super-smart Videophones of the future [Vidiosimu/ Supamobailu] or at a GSMA Mobile World Congress:
+Machines (AI or Artificial Intelligence) can be programmed to use Lugbara. Engineers, Designers as well as Technology Students in Ugandan Schools have always tinkered with this Possibility. Machines can also teach themselves Lugbara through Artificial General Intelligence (AGI) or Artificial Super Intelligence (ASI). Some great advancements towards this goal include the Lugbara Gboard in Android phones plus mobile apps in Lugbarati; whoa! Below are translated Commands you might see in the mega, super-smart Videophones of the future [Vidiosimu/ Supamobailu] or at a GSMA Mobile World Congress:
 
 On [Idri]
 
@@ -7868,7 +7896,7 @@ Images, Pictures or Photos [E'da/ I'da]
 
 Video [Vidio]
 
-Pause [Pa so/ Tu pa]
+Pause [So pa/ Tu pa]
 
 Fast Forward [Avi drile mbele]
 
@@ -7924,11 +7952,11 @@ Off [Anyu]
 
 
 
-LOST IN TRANSLATION (like Leta SI [Synthetic Intelligence]/ Lugbara Artificial General Intelligence/ Artificial Imagination):
+LOST IN TRANSLATION (like Leta SI [Synthetic Imagination]):
 
-This Lugbara Dictionary research documentation is inspired by (and dedicated to) Cynthia Letasi, aka Rejoice (The Beautyful One and Green Riding Hood born on Thursday 17th August 1995; now Mrs. Mungufeni) who changed my worldview like a Kumari in the Orient between 2001-6; made me feel like Bob Harris in Arua. To be honest, she was my first true superhigh crush within Arua (West Nile) though I never told her my exact reality for years (just tried to show it through countless, unapologetic actions until she confessed something I will treasure forever) plus resembles Tonto Dikeh (Nigerian), Sheebah Karungi and Betty Mpologoma as well as Spice Diana who automatically became my all-time favourites. Queenie, one of the lead vocalists in Miracle Cathedral Rubaga's Proclaim Music choir also has that Cynthia aura plus Pretty Banks, Sheila Gashumba, etc. Even though I reconnected with Xnthi via Facebook at the turn of the 2010s, I did not see her again until Tuesday 12th February 2019 on the hyper-straight Arua Avenue at the Ediofe Road Junction walking southwards with a darkskinned female friend, three days after dreaming about her. I smiled like the sun was shining on me in the afternoon before rush hour; it was the same day Onduparaka drew 0-0 with URA FC. Obsession is not a crime, just harness it like human solar electricity. Rejection or Disconnection is Redirection; too much love will heal you. Love is infinite and the Greatest Thing: I admired Cynthia's supadupa fluency at a very tender age of 6-11 and felt inspired to polish my own linguistics by reading Lugbara afresh since I learnt my mother tongue in Busoga (Birth to 11 years) and Buganda only by listening to Lugbara people talk. Even though I spoke and understood it, I couldn't transcribe Lugbara well like English but when I met our Mt. Wati Road (Arua) neighbour's adorable brownskinned daughter, I was motivated to re-study this vernacular from northwestern Uganda in black and white (using music lyrics, Biblia, other literature, then a Fountain Publishers 2009 dictionary compiled by Willy Ngaka, Edward O'du'bua and Paul Iga Ongua [bought for a Twenty10 gig from Sarah Ojirot at Uganda Deaf Women's Organisation], etc). Consequently, I would perhaps grasp Lugbara the way ShaoLan Hsueh created Chineasy, then fabricate my own Synthetic Artificial Lugbara Technology (SALT), Informative Synthetic Encoder (ISE) and Ojapi Converter/ Translator. Language has to be preserved through documentation and transmitted to anyone connected or interested because cultural heritage represents a collective identity of values, diversity, traditions and assets passed around from generation to generation eg my parents (James + Elizabeth Dramani) to me. Some relatives and natives would laugh at my pronunciations or choice of words but it didn't phase me. I've never been ashamed to be called Omulugwara even if it is a byword for stupidity, Naked People and backwardness among some communities. Aren't we descendants of Noah, the Flood Survivor? One day, I bypassed two dudes on Acacia Avenue in KLA and heard them speak what sounded like broken Lugbara; I reasoned later that it might have been Madi language. Also, Aringa is like Lugbara Patois or Filipino. During May 2023, someone asked me why I study Lugbara yet it is not useful and I told him not to diss my mother tongue like that; garbage or waste appears worthless until it's recycled and given value: Lugbara is a multinational language spoken mainly across three colonial borders which converge at Salia Musala (about 2 hours by car northwards from Arua City). There are nine Lugbara clans in DR Congo. I strongly believe Generative AI can learn Lugbarati and make it reuseable and applicable in various fields; Deep Learning Indaba (DLI), Hugging Face or Lugbara GPT type-of-way. Live translation of President M7's speeches by people like Fred Bada plus other arrangements like crusades, etc can also be a reference... In December 2013, the Lugbarati Language Board proposed an Orthography Guide with 45 letters (including 7 vowels and 38 consonants). Tonal Lugbara literature with its many character symbols (accents, crosses, dashes, dots, umlauts, etc) seems advanced plus crowdily complex and scares away learners, but the simpler version shared in this wordbook is legit too... Lugbara funeral songs have been replaced with church hymns... In my Allegory of Artificial Ignorance: For machines to learn Lugbara, humans (both self-motivated and paid contributors) must train them or organise datasets for AI to decode unsupervised... Artificial Dreams (or Hallucinations) can also come true like Dreamcast... My makeshift Word Interchange Technique (WIT) from 1996 was not far-fetched afterall (feeling like Jordan versus Detroit)...
+This Lugbara Dictionary research documentation is inspired by (and dedicated to) Cynthia Letasi, aka Rejoice (The Beautyful One and Green Riding Hood born on Thursday 17th August 1995; now Mrs. Mungufeni) who changed my worldview like a Kumari in the Orient or Divine Feminine between 2001-6; made me feel like Bob Harris in Arua. To be honest, she was my first true superhigh crush within Arua (West Nile) though I never told her my exact reality for years (just tried to show it through countless, unapologetic actions until she boldly confessed something I will treasure forever until infinity) plus resembles Tonto Dikeh (Nigerian), Sheebah Karungi and Betty Mpologoma as well as Spice Diana who automatically became my all-time favourites. Queenie, one of the lead vocalists in Miracle Cathedral Rubaga's Proclaim Music choir also has that Cynthia aura plus Pretty Banks, Sheila Gashumba, etc. Even though I reconnected with Xnthi via Facebook at the turn of the 2010s, I did not see her again until Tuesday 12th February 2019 on the hyper-straight Arua Avenue at the Ediofe Road Junction walking southwards with a darkskinned female friend, three days after dreaming about her. I smiled like the sun was shining on me in the afternoon before rush hour; it was the same day Onduparaka drew 0-0 with URA FC. Obsession is not a crime, just harness it like human solar electricity. Rejection or Disconnection is Redirection; too much love will heal you. Love is infinite and the Greatest Thing: I admired Cynthia's supadupa fluency at a very tender age of 6-11 and felt inspired to polish my own linguistics by reading Lugbara afresh since I learnt my mother tongue in Busoga (Birth to 11 years) and Buganda only by listening to Lugbara people talk. Even though I spoke and understood it, I couldn't transcribe Lugbara well like English but when I met our Mt. Wati Road (Arua) neighbour's adorable brownskinned daughter, I was motivated to re-study this vernacular from northwestern Uganda in black and white (using music lyrics, Biblia, other literature, then a Fountain Publishers 2009 dictionary compiled by Willy Ngaka, Edward O'du'bua and Paul Iga Ongua [bought for a Twenty10 gig from Sarah Ojirot at Uganda Deaf Women's Organisation], etc). Consequently, I would perhaps grasp Lugbara the way ShaoLan Hsueh created Chineasy, then fabricate my own Synthetic Artificial Lugbara Technology (SALT), Informative Synthetic Encoder (ISE) and Ojapi Converter. Language has to be preserved through documentation and transmitted to anyone connected or interested because cultural heritage represents a collective identity of values, diversity, traditions and assets passed around from generation to generation eg my parents (James + Elizabeth Dramani) to me. Some relatives and natives would laugh at my pronunciations or choice of words but it didn't phase me. I've never been ashamed to be called Omulugwara even if it is a byword for stupidity, Naked People and backwardness among some communities. Aren't we descendants of Noah, the Flood Survivor? One day, I bypassed two dudes on Acacia Avenue in KLA and heard them speak what sounded like broken Lugbara; I reasoned later that it might have been Madi language. Also, Aringa is like Lugbara Patois or Filipino. During May 2023, someone asked me why I study Lugbara yet it is not useful and I told him not to diss my mother tongue like that; garbage or waste appears worthless until it's recycled and given value: Lugbara is a multinational language spoken mainly across three colonial borders which converge at Salia Musala (about 2 hours by car northwards from Arua City). There are nine Lugbara clans in DR Congo. I strongly believe Generative AI can learn Lugbarati and make it reuseable and applicable in various fields; Deep Learning Indaba (DLI), Hugging Face or Lugbara GPT type-of-way. Live translation of President M7's speeches by people like Fred Bada plus other arrangements like crusades, etc can also be a reference... In December 2013, the Lugbarati Language Board proposed an Orthography Guide with 45 letters (including 7 vowels and 38 consonants). Tonal Lugbara literature with its many character symbols (accents, crosses, dashes, dots, umlauts, etc) seems advanced plus crowdily complex and scares away learners, but the simpler version shared in this wordbook is legit too... Lugbara funeral songs have been replaced with church hymns... In my Allegory of Artificial Ignorance: For machines to learn Lugbara, humans (both self-motivated and paid contributors) must train them or organise datasets for AI to decode unsupervised... Artificial Dreams (or Hallucinations) can also come true like Dreamcast... My makeshift Word Interchange Technique (WIT) from 1996 was not far-fetched afterall (feeling like Michael Jordan versus Detroit Pistons)...
 
-When I was in Senior 5 (during 2001), I told my hostelmates that one day there will be a radio device that converts words spoken on air into text like S2T (Speech-2-Text) and displayed on a screen. I was labelled "mulalu [Luganda for: mad]" but dreams are not hopeless; GOD's Time brings them to life for instance Google Assistant, Meet (In-chat captions), Apple's Siri, TranSay, Logbar ili, OpenAI's ChatGPT or Whisper, etc. Twitter (X) Spaces is also not very far from my Ongo (Ojapi Converter) vision. Zero-Shot Machine Translation tech is a model that can learn to translate words into another language without having to see any examples... Meta's Universal Speech Translator is a very ambitious AI research project that might improve language-mixing or Computer-Assisted Translation like Google Translate does... LaMDA (Language Model for Dialogue Applications) which Blake Lamoine labelled "sentient" was originally introduced as Meena in 2020. It's a conversational Large Language Model (LLM) built by Google... The Madi-Lugbara language is related to the languages of Southern Nigeria eg Yoruba, Igbo, Edo, Iduma, Igala, Igbira, Gbari and Nupe. In addition, we can include Ijo and Kalabari of the Niger Delta plus the Bariba - north of Yoruba and Aja (Ewe) spoken in Southern Dahomey (Benin), Togo and South-Eastern Ghana... Some people consider Lugbara a dialect of Madi but many do not accept this theory. In fact, a survey was conducted and it concluded that the Rigbo, Okollo and Ogoko dialects (which are considered Southern Madi) should be categorised as dialects of Lugbara. Besides, we share the same names, numbers and many words... In 2020, with support from the Hewlett Foundation, Sunbird AI commenced the African language technology project. They created a large multilingual parallel text dataset of Ugandan languages, with translations in Acholi, Ateso, Luganda, Lugbara and Runyankole... It was very unreal to discover on Sunday 10th September 2023 while googling for "Lugbara AI" that the then 55 year old Google AI Lead Jeff Dean's mother speaks "fluent Lugbara"; she lived in West Nile when Jeffrey was 5 years old. I guess she knows that Lugbara is learnable by machines; Meta introduced its own AI on WhatsApp a few days later. I love the fact that it paraphrases websites rejected by Wikipedia. Mark Zuckerberg believes AI will make multi-lingual connections possible for all. When you copy some of the BigAMBO [Words] in this dictionary and paste as a chat message to Meta AI, it can learn Ugandan Lugbara even though it used a strange vocabulary as Lugbara in Twenty24 (probably Congolese)...
+When I was in Senior 5 (during 2001), I told my hostelmates that one day there will be a radio device that converts words spoken on air into text like S2T (Speech-2-Text) and displayed on a screen. I was labelled "mulalu [Luganda for: mad]" but dreams are not hopeless; GOD's Time brings them to life for instance Google Assistant, Meet (In-chat captions), Apple's Siri, TranSay, Logbar ili, OpenAI's ChatGPT or Whisper, etc. Twitter (X) Spaces is also not very far from my Ongo (Ojapi Converter) vision. Zero-Shot Machine Translation tech is a model that can learn to translate words into another language without having to see any examples... Meta's Universal Speech Translator is a very ambitious AI research project that might improve language-mixing or Computer-Assisted Translation like Google Translate does... LaMDA (Language Model for Dialogue Applications) which Blake Lamoine labelled "sentient" was originally introduced as Meena in 2020. It's a conversational Large Language Model (LLM) built by Google... The Madi-Lugbara language is related to the languages of Southern Nigeria eg Yoruba, Igbo, Edo, Iduma, Igala, Igbira, Gbari and Nupe. In addition, we can include Ijo and Kalabari of the Niger Delta plus the Bariba - north of Yoruba and Aja (Ewe) spoken in Southern Dahomey (Benin), Togo and South-Eastern Ghana... Some people consider Lugbara a dialect of Madi but many do not accept this theory. In fact, a survey was conducted and it concluded that the Ogoko, Okollo and Rigbo dialects (which are considered Southern Madi) should be categorised as dialects of Lugbara. Besides, we share the same names, numbers and many words... In 2020, with support from the Hewlett Foundation, Sunbird AI commenced the African language technology project. They created a large multilingual parallel text dataset of Ugandan languages, with translations in Acholi, Ateso, Luganda, Lugbara and Runyankole... GeoPoll (Research organisation) also has datasets in Lugbara while JEHOVAH's Witnesses translate their publications into Lugbara (Available at www.jw.org)... It was very unreal to discover on Sunday 10th September 2023 while googling for "Lugbara AI" that the then 55 year old Google AI Lead Jeff Dean's mother speaks "fluent Lugbara"; she lived in West Nile when Jeffrey was 5 years old. I guess she knows that Lugbara is learnable by machines; Meta introduced its own AI on WhatsApp a few days later. I love the fact that it paraphrases websites rejected by Wikipedia. Mark Zuckerberg believes AI will make multi-lingual connections possible for all. When you copy some of the BigAMBO [Words] in this dictionary and paste as a chat message to Meta AI, it can learn Ugandan Lugbara by storing patterns even though it used a strange vocabulary as Lugbara in Twenty24 (probably Central or West African)...
 
 
 
