@@ -1054,6 +1054,8 @@ Awa'difo (interj) Thank you (also Awania used in Moyo), Sankyu, 39, TQ, Ty, Grac
 
 awa'difo feza (n) thanksgiving (also inzita awa'difo fezuri), worship (also MUNGU inzita)
 
+awalanja (n) small metal basin
+
 awata (n) quarrel, separation, division
 
 Awata (n) name given by Kebu during their migration to a place currently called Ewuata, means "Let us separate or depart"
@@ -1079,6 +1081,8 @@ awupi (n) paternal aunt eg Dina ni ma awupi. = Dina is my paternal aunt.
 awuzi (n) widow
 
 awuzio (n) widower
+
+a'wi(ru) (adj) dry
 
 a'wia (n) brown grasshopper (also 'wia)
 
@@ -1246,6 +1250,8 @@ bati (n) corrugated iron or metallic sheet (borrowed from Indian Baati ironsheet
 batri (n) battery eg Timoteo ni batri ozi. = Timothy is selling batteries.
 
 batisimu (n) baptism (also ru biza)
+
+bau iniri (n) blackboard
 
 Bayo (n) male-given name, similar to Bakoko
 
@@ -1469,7 +1475,7 @@ busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dri
 
 'be (n) mountain, hill, rock; (v) throw eg Stefano Maria "Crocelli" ni mupira 'be 'bua. = Stefano Maria Crocelli is throwing the ball up.
 
-'be wereari (n) hill (colloquially hilu)
+'be wereari (n) hill (colloquially hilu, 'be wereri)
 
 'be ambo(ri) (n) mountain
 
@@ -3170,6 +3176,8 @@ Kijomoro (n) place in Maracha less than half an hour by car north of Arua City
 
 kikwasi (n) safety pin
 
+kilasi (n) class(room), pedigree, grade, level
+
 kilijuku (n) dark green plant usually used to demarcate plot boundaries (also kalajuku)
 
 kilili (adj) right (also kililiru) eg geri kililiru = the right way
@@ -3217,8 +3225,6 @@ kitio (n) spade
 kitipara (n) locally crafted stool with spiral body and three wooden legs standing diagonally, other times flat body and four legs, probably made in Paraa hence "Seat of Paraa"
 
 klabu (n) club, dancehall (also kirabu, kilabu) eg Mustafa mu klabu-a Amini be. = Mustafa went to the club with Amin.
-
-klasi (n) class, pedigree, level
 
 Klasiko (n) El Clasico, classic battle in Sports: Arua Hill v Onduparaka (Arua City Classic), Onduparaka v Paidha (West Nile Derby), Boca Juniors v River Plate, Der Klassiker (in Germany between Bayern Munich and Dortmund), Le Classique (in France featuring PSG v Marseille), clash (Express FC v KCCA; AC Milan v Inter Milan) eg Baselona ni mu Klasiko avi Realu Madridi be drusi. = Barcelona is going to play El Clasico with Real Madrid tomorrow.
 
@@ -3319,6 +3325,8 @@ koti (n) coat
 koyi koyi (n) riddle, quiz (also koi koi, ozizu, e'yo eti ondazu) eg Samsoni le koyi koyi ambamba. = Samson likes riddles very much.
 
 koyo (n) type of calabash
+
+kozu (n) game of catching a thrown ball
 
 kpekpereko (n) old papyrus mat
 
@@ -3798,7 +3806,7 @@ Mbindru (n) natural crater near Banyale's grave with waters nearby that natives 
 
 mbiri (adj) many, a lot
 
-mbo (adj) open (also mgbo)
+mbo (adj) open (also mgbo, mgboru)
 
 mboloru (adj) clear
 
@@ -4026,6 +4034,8 @@ mupira (n) football (also soka), ball, rubber, condom, tyre eg Davidi Obua avi m
 
 mupira pari (n) football field, pitch, stadium eg "Arua Prisons" ni avi Ministri Alataniri be "Saferside" Mupira pari-a. = Arua Prisons is playing with Ministry of Health at Saferside Football Pitch.
 
+mupira wereri (n) small ball
+
 mure (n) traditional dance of the Ma'di people
 
 murukulu (n) okra with groundnut paste
@@ -4186,6 +4196,8 @@ Ngbungbu (n) waterfalls in Zombo under the custody of Lendu, Kebu and Alur
 ngenge (n) tilapia fish
 
 ngenjia (n)  small silver fish (also mukene)
+
+ngilingili (n) bell eg Paulosoni ni ngilingili co. = Paulson is beating the bell.
 
 Ngilingili (n) short one, Pygmies or dwarfs of Ituri Forest
 
@@ -5615,7 +5627,7 @@ plani (n) plan, strategy (also otuta)
 
 pleti (n) plate (also saani)
 
-po (v) hide, knock
+po (v) hide, knock (also kpo)
 
 pokopoko (n) yapping, loose talk
 
@@ -5959,15 +5971,13 @@ siri (n) secret eg Enoka lu siri. = Enoch told a secret.
 
 siso (n) jaw
 
+sita (n) writing
+
 Sitani (n) Satan, the Devil, adversary, accuser of the Brethren, Lucifer, Angel of Light, Morning Star (also Setani)
 
 siti (n) city (also aku ambo) eg Miguna Miguna ni mu Nairobi Siti-a. = Miguna Miguna is going to Nairobi City.
 
 sizoni (n) season (also wangi, mange) eg Danielu Kawesa nde "Coca-Cola Rated Next", Sizoni Alu. =  Daniel Kawesa won Coca-Cola Rated Next, Season One.
-
-skulu (n) school (also sukulu)
-
-skulu fizi (n) school fees
 
 slo mo (n)  slow motion (also acita e'yere)
 
@@ -6029,7 +6039,7 @@ su (n) four, (v) put in, score, hurt, pain; wear, put on, pour eg water, to have
 
 Sudani (n) country north of Uganda and South Sudan, zone in Mvara Cell near where Emmanuel Cathedral is located eg Julieti imvi Sudani-a risi. = Juliet returned from Sudan.
 
-sufaria (n) saucepan
+sufaria (n) saucepan (also sufuria, sopiria)
 
 suhuru (n) suhoor, iftar, Muslim breakfast before sunrise during Ramadan (also futuru)
 
@@ -6038,6 +6048,8 @@ sukari (n) sugar eg Sukari 'di enga Lobe-a. = This sugar is from Lobe.
 sukari azo (n) diabetes
 
 sukulu (n) school (also skulu) eg Sukulu pe ma mile ni, mi iza mi sawa aku-a ku! = School attracted my eye, do not waste your time at home!
+
+sukulu fizi (n) school fees
 
 sukuma wiki (n) spinach eg Popayi ni sukuma wiki nya okpo isuzu. = Popeye eats spinach to get power.
 
@@ -6053,7 +6065,7 @@ suru ma kala andraleru (n) downcountry
 
 suru ma kala oruleru (n) upcountry
 
-suruali (n) shorts
+suruali (n) shorts (also pa ali, pali)
 
 sururu (n) mattock, pick axe, metal tool with two pointed ends (one sharper) for digging hard soil and attached to a long handle
 
@@ -6226,7 +6238,7 @@ Torikili (n) Torkili, highest hill and point in Lugbaraland, found in Logiri (Vu
 
 toro (n) beehive (also turu)
 
-torozi (n) pair of trousers (also suruali, pa ali, pali)
+torozi (n) pair of trousers
 
 tota (n) accusation, report (also toza)
 
@@ -6423,7 +6435,7 @@ wariru (adj) round, circular
 
 wasi wasi (n) worry, care, alarm, concern, skepticism
 
-Wati (n) one of the highest mountains in West Nile (5th) but Highest in Lugbaraland, 1,250 metres above sea level, found in Erea Parish of Aii-vu Subcounty (Terego) near Cilio and Abiria (also Mt. Wati, Mt. Eti, Iti), origin of the Lugbara Tribe
+Wati (n) one of the Top 5 Highest Mountains in West Nile but Highest in Lugbaraland, 1,250 metres above sea level, found in Erea Parish of Aii-vu Subcounty (Terego) near Cilio and Abiria (also Mt. Wati, Mt. Eti, Iti), origin of the Lugbara Tribe
 
 waya (n) wire eg Itungo ni waya ozi. = Itungo sells wires.
 
@@ -7650,7 +7662,7 @@ Vurra = Oboloko [Fox]/ Ago [Pumpkin]
 
 
 FEEDBACK (Amazing World of Lugbara):
-"1st year (Volume 1): 1,700;
+"1st year (Volume 1): 1,700 visits;
 
 2nd year (Volume 2): 4,400;
 
@@ -7664,9 +7676,11 @@ FEEDBACK (Amazing World of Lugbara):
 
 7th year (Volume 7): 36,060;
 
-8th year (Volume 8): 38,356 visits;
+8th year (Volume 8): 38,356;
 
-9th year (Volume 9): Published on Amazon Kindle..." - Google Analytics
+9th year (Volume 9): Published on Amazon Kindle, Lulu, Hugging Face and GitHub;
+
+10th year (Volume 10): Returned to old URL..." - Google Analytics
 
 "Pentium processor..." - Daniel Kyazze, one of my Favourite Yearmates at UCU Mukono
 
@@ -7700,7 +7714,9 @@ FEEDBACK (Amazing World of Lugbara):
 
 "Happy New Year Aiko Lugbara translator, I read through ur versions and am happy, more especially when you wrote how people pronounce computer..." - +256-770-899476 (Albert Abindu), on 02/01/2020 at 13:52
 
-"My inspiration..." - Peace Yikiru (Lugbara researcher in Gulu)
+"The Best Cartoonist I have ever seen... Not even the sky can limit you... I'm your Biggest Fan..." - R. Nakanwagi Nsamba (in Seeta, Mukono; woman with a very amazing acumen for smart fashion)
+
+"My inspiration..." - Peace Yikiru (Lugbara researcher who contacted me from Gulu)
 
 "I got this contact on Google while trying to search for the meaning of some words in Lugbara, someone wrote for me these words (Igyere nyaa nyii); I need some help... Namesake..." - Sanyu, in 2022
 
@@ -7744,7 +7760,7 @@ FEEDBACK (Amazing World of Lugbara):
 
 "(I')m conducting a research study on the vocabulary comparison between Teregoti and Ayivuti. My challenge is that... I didn't grow up in the community that could enable me learn my language. And so I got your contact from some PDF on Google while I was searching for history about the Lugbara... I appreciate your work so much..." - Agnes Ceniru, pursuing a Bachelor's Degree in English and Literature (Saturday 4th October 2025)
 
-"That's good work brother you have done it for us all..." - Mildred Maneno, maternal cousin (Tuesday 7th October 2025)
+"That's good work, brother, you have done it for us all..." - Mildred Maneno, maternal cousin (Tuesday 7th October 2025)
 
 
 
