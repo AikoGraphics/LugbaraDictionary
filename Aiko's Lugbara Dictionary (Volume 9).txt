@@ -60,11 +60,11 @@ mv (letter M becomes N) as in converse, for example omve (pronounced onve)
 
 oa as in soar, for example Boroa
 
-oo as in hold, for example ocoo (also oco), rarely oo as in food, for example 'doo [(also 'du, dhu) pick eg sugar using tongue]
+oo as in hold, for example ocoo (also oco), not oo as in mood
 
 u as in food, for example o'du
 
-uu as in chew, for example cuu (can also be just cu or chu)
+uu as in chew, for example cuu (pronounced chu)
 
 z (letter Z becomes J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
@@ -1131,7 +1131,7 @@ a'yaru (adj) envious, jealous
 
 A'yaru (n) female-given name 
 
-a'yoroo (n) squirrel (also a'yaro, ayharo)
+a'yoro (n) squirrel (also a'yaro, ayharo, ayhoro)
 
 azakoma (n) help
 
@@ -1605,7 +1605,7 @@ Curu (n) place east of Kulekule, west of Pamvara and Rhino Camp
 
 curu'do (adv) nowadays
 
-cuu (n) market
+cuu (n) market (also cu, chu)
 
 
 Dd [silent immediately before Jj] & 'D'd [Dhdh]
@@ -1695,7 +1695,7 @@ donati (n) donut, doughnut, mandazi eg Isaka le donati je. = Isaac wants to buy 
 
 dori (n) hunting expedition
 
-dotkomu (adj) dotcom
+dotikomu (adj) dotcom
 
 dozi (n) doze
 
@@ -1749,7 +1749,7 @@ driceza o'bi ma egatasi (n) democracy
 
 drieji (n) left hand or side (also drileji, dri iji) eg Agatha ni drieji ayu. = Agatha uses the left hand.
 
-drifa (n) head eg Rodrygo Goesi su golo drifa si. = Rodrygo Goes scored a goal with his head.
+drifa (n) head eg Rodrigo Goesi su golo drifa si. = Rodrygo Goes scored a goal with his head.
 
 drigaza (n) headache
 
@@ -2071,7 +2071,7 @@ enyata (n) poison eg 'Ba azi fe Sera ni enyata. = Someone gave Sera poison.
 
 enyati (n) clan, zone, area of residence, constituency, community (also zoni, komuniti)
 
-Enyau (n) longest River Nile tributary in Arua flowing northwards from Ezuku Forest Reserve in Vurra near DRC via Ediofe Bridge and pours into the Albert Nile after bending eastwards through northern Ayivu and Terego eg Wambuzi ma Bambu Vileji ni Enyau Gerika-a. = Wambuzi's Bamboo Village is on Enyau Road.
+Enyau (n) longest River Nile tributary in Arua flowing northwards from Ezuku Forest Reserve in Vurra near DRC via Ediofe Bridge and pours into the Albert Nile after bending eastwards through northern Ayivu and Terego (also Anyau, Inyau) eg Wambuzi ma Bambu Vileji ni Enyau Gerika-a. = Wambuzi's Bamboo Village is on Enyau Road.
 
 enyi (n) skin; (prep) near (also enyia, inyi, inyia) eg Lubega ma jo Lidia dri vu enyi. = Lubega's house is near Lydia's.
 
@@ -2161,9 +2161,7 @@ etiriko (n) snail
 
 etirili (n) cricket (also etiringili)
 
-eto (v) rescue eg YESU, mi eto ma! = JESUS, (you) rescue me!
-
-etoo (n) hare, rabbit (also otoo)
+eto (n) hare, rabbit (also oto); (v) rescue eg YESU, mi eto ma! = JESUS, (you) rescue me!
 
 etota (n) redemption (also etoza)
 
@@ -3373,7 +3371,7 @@ kurunukua (n) small
 
 kuta (n) cone-shaped wooven food warmer or cover
 
-kuu (adj) famous, (v) sound (out) eg YESU ma ru kuu! = JESUS's name is famous!
+kuu (adj) famous (also ku), (v) sound (out) eg YESU ma ru kuu! = JESUS's name is famous!
 
 kuye (adv) did not eg Ethani azini Kizi apa Bujabuja Mani si kuye. = Ethan and Kizzy did not flee because of the Bujabuja Man (Boogieman).
 
@@ -4497,7 +4495,7 @@ oda (v) pour
 
 Oda Geri (n) Oda Road, off Weatherhead Park Lane connecting to Wadriff Road near River Osu Bridge Mosque, Anyafio Model School and ABN Clinic found here
 
-Oda(a) Klozi (n) Oda(a) Close, off Weatherhead Park Lane next to Hunter's Nest heading to Desert Breeze Hotel
+Oda Klozi (n) Oda Close, off Weatherhead Park Lane next to Hunter's Nest heading to Desert Breeze Hotel
 
 ode (adj) young
 
@@ -5939,6 +5937,8 @@ singiri (n) rigidity, refusal to change
 
 siniga (n) flu, colds, influenza
 
+sinthi (n) music synthesizer, synth
+
 siosio (n) grasshopper with a big head
 
 siperu (n) gaptoothed
@@ -6058,8 +6058,6 @@ suzi (n) shoe(s)
 swici (n) switch eg Martini ikpa swici. = Martin pressed the switch.
 
 Swideni (n) Sweden eg Yofasi ni Swideni-a. = Yofasi is in Sweden.
-
-synthi (n) music synthesizer, synth (also sinthi)
 
 
 Tt
@@ -6746,8 +6744,8 @@ Te suru pi, okpo pie, diza pie dria MINI 'dani 'dani [For the Kingdom, power, an
 Amena [Amen]!
 
 
-Buku Biblia Ala-a [Books in the Holy Bible]:
-Buku Okuri [Old Testament]
+BUKU BIBLIA ALA-A [BOOKS IN THE BIBLE]
+Buku Okuri [Old Testament]:
 
 E'doza (Buku Musa ni sile aluri) = Genesis
 
@@ -6820,7 +6818,7 @@ Zekaria = Zechariah
 Malaki = Malachi
 
 
-Buku O'diri [New Testament]
+Buku O'diri [New Testament]:
 Matayo = Matthew
 
 Mariko = Mark
