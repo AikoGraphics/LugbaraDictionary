@@ -1,7 +1,5 @@
 GOD is great; first and foremost!
 
-
-
 TABLE OF CONTENTS (MENU):
 Pronunciation Guide
 
@@ -38,7 +36,6 @@ Idioms
 Lost in Translation (Dreamcast)
 
 
-
 Pronunciation Guide [Lugbara Phonology]:
 Created painstakingly with gritty nerves on the 3rd Agofe's 90th birthday (Saturday 26th November 2016) and reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet. I'm only human and apologise in advance for any mistakes. So, corrections and suggestions are most welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS! Every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Inn), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoU), Va, Wa, Wha, Ya, Yha, Za. The original Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg ai can mean salt (high tone); accept, pray (mid tone); ask (low tone) while ti can mean cow; to drip; mouth, language; to produce and so on. However, new words keep being added to the existing language eg komputa = computer; simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V though nga [will, shall] is added after the Subject to mark the difference eg YESU ni (nga) 'ba onzi pa [JESUS (will) save sinners]...
 
@@ -71,14 +68,12 @@ uu as in chew, for example cuu (can also be just cu or chu)
 z (letter Z becomes J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
 
-
 Marks for Simple Tones:
 ´ High tone eg tí [cow];
 
 - Mid tone eg tī [strangle] (Mid tone is the most common tone in Lugbarati);
 
 ` Low tone eg tì [give birth]...
-
 
 
 Word Classes include:
@@ -97,7 +92,6 @@ Word Classes include:
 7. Wura (Adj[ective])
 
 8. 'Yeta (V[erb])
-
  
 
 VOCABULARY (VOLUME):
@@ -1177,7 +1171,6 @@ azoru (adj) sick, ill, diseased, in pain, painful eg Rukundo eca azoru. = Rukund
 azu (v) block
 
 
-
 Bb [sounds like Gb] & 'B'b [Bhbh]
 ba (adj) OK, okay, good, alright, fine, well (also baba, muke, ala); (n) breast
 
@@ -1500,7 +1493,6 @@ busu (n) cat, pussycat (also busua, bura, mbusua) eg Busu ni au nyiri nya sa dri
 'bua tu (v) advanced, elevated (literally very high) eg Saa 'di 'bua tu! = This moment is elevated.
 
 
-
 Cc [always pronounced "Ch" as in Church]
 ca (v) reach; weave eg Magu ca kobi. = Magu wove a winnowing basket.
 
@@ -1613,7 +1605,6 @@ Curu (n) place east of Kulekule, west of Pamvara and Rhino Camp
 curu'do (adv) nowadays
 
 cuu (n) market
-
 
 
 Dd [silent immediately before Jj] & 'D'd [Dhdh]
@@ -1836,7 +1827,6 @@ duruduru (adj) with mental inaptitude
 'do (adv) here (also 'dole)
 
 'du (n) millet (also anya); (v) immerse slightly, take, pick eg with tongue (also 'doo), belch
-
 
 
 Ee [shares many words with Ii]
@@ -2295,7 +2285,6 @@ Ezuku (n) place in Vurra, where the Isara Memorial Cultural Community Library (I
 ezuta (n) multiplication (also sometimes ezutaa)
 
 
-
 Ff
 fa (v) cut, scrape
 
@@ -2384,7 +2373,6 @@ furufuru (n) lung eg Furufuru si 'ba ava se. = Lungs are for breathing.
 futa (n) fight
 
 fuza (n) getting out
-
 
 
 Gg [silent immediately before Bb]
@@ -2539,7 +2527,6 @@ guta (n) laughter eg Hahaha, ata mba kirikiri! Wa, hahaha, eh, hahaha!
 gutiya (n) sack eg Dintile je gutiya "Ndedra Stores"-a. =  Dintle bought a sack at Ndedra Stores.
 
 
-
 Hh
 hajati (n) hajjati, a female who has made a pilgrimage to Mecca
 
@@ -2580,7 +2567,6 @@ hoteli (n) hotel eg "Desert Breeze" ni hoteli mini ico esu "Arua Golf Course" ma
 Humsa (n) Lugbara splinter tribe that moved from Chad through Nuba Mountains into Western Ethiopia and call water yi plus fire aci in addition to other words just like the Lugbara of Uganda
 
 huruhuru (adj) satisfied, when something plastic is filled to the brim
-
 
 
 Ii [shares many words with Ee]
@@ -2851,7 +2837,6 @@ izuru (adj) long, tall eg Dafini ni izuru. = Daphne is tall.
 izuza (n) addition, multiplication (also ezuza)
 
 
-
 Jj
 ja (v) cure, heal, get lost, turn eg Ramzi ma pa ja 'bo. = Ramsey's leg healed already.
 
@@ -2928,7 +2913,6 @@ juru (n) foreigner, alien, stranger
 jurua (n) bag
 
 juyisi (n) juice eg Yivoni ni juyisi mvu tampeko si. = Yvonne is drinking juice in a tumpeco cup.
-
 
 
 Kk [silent immediately before Pp]
@@ -3403,7 +3387,6 @@ Kyabazinga (n) king of the Basoga (Mwenemu, Isebantu [Father of the people], hus
 Kyebando (n) parish in Kawempe Division of Kampala and includes Kisalosalo Village, school in Arua off Nebbi Highway
 
 
-
 Ll
 la (v) count, read, iqra, iqraa, iqrah in Arabic - first word revealed in the Koran; lay down (eg baby), lie down eg Jemima ni buku la. = Jemimah is reading a book.
 
@@ -3612,7 +3595,6 @@ luru (adj) narrow (also lurua); (n) mist, fog, end blow trumpet made from a bott
 Luturujo (n) rock, hill in Tara, means "the house of/ on a hill"
 
 Luwero (n) Luwero, place north of KLA eg Prezidenti Museveni omve Luwero "NRM ma e'doza". = President Museveni called Luwero "the beginning of NRM".
-
 
 
 Mm [sounds as Nn immediately before Vv]
@@ -4091,7 +4073,6 @@ mvu (v) drink eg Aleksi ni Pepsi mvu. = Alex is drinking Pepsi.
 mvuzaru (adj, n) drinkable
 
 
-
 Nn
 na (n) three
 
@@ -4398,7 +4379,6 @@ nzubi (n) distant relatives
 Nzuku (n) Gonorrhea, Syphilis (also Oya)
 
 nzuta (n) run, running, athletics, sucking, drying (also nzuza) eg Akibua ma ru ku nzuta si. = Akiibua's name became popular because of athletics.
-
 
 
 Oo [shares some words with Uu]
@@ -5449,7 +5429,6 @@ ozuku (n) porcupine
 ozuruko (n) aeroplane
 
 
-
 Pp
 pa (n) leg; (v) knock eg door, crucify, nail, rob, save eg Kathi ni i-pa tri. = Cathy is brushing her foot.
 
@@ -5660,7 +5639,6 @@ puru (adj) quick, fast
 putuku (n) cooked leg or hoof of a cow (also mulokoni) eg Salimu nya putuku. = Salim ate the cowhoof.
 
 
-
 Rr
 ra (v) flow eg liquid, (adv, n) throughout the night, affirmative at the end of a sentence
 
@@ -5795,7 +5773,6 @@ Rwenzori (n) Rwenzori Area (pronounced Rwenjori), highest block mountain in Afri
 Rwothu (n) king of Alur
 
 Rwotu (n) king of Acholi
-
 
 
 Ss
@@ -6084,7 +6061,6 @@ Swideni (n) Sweden eg Yofasi ni Swideni-a. = Yofasi is in Sweden.
 synthi (n) music synthesizer, synth (also sinthi)
 
 
-
 Tt
 ta (adv) used to be, (n) sound when sth is slapped or struck; (v) endure eg Hotelu Arua ma ru ta Hotelu Kalifonia. = Hotel Arua's name used to be (called) Hotel California.
 
@@ -6293,7 +6269,6 @@ tutuni (adv) mainly, mostly
 tuzu drile (adv) and above - said of ages (also muzu drile) eg Fabregasi avi Aseno timu okori ni desi eri eli 18 tuzu drile. = Fabregas played for Arsenal's first team when he was 18 years and above.
 
 
-
 Uu [shares some words with Oo]
 ubalako (n) fox (also obalako, oboloko)
 
@@ -6322,7 +6297,6 @@ uruleru (prep) upward, upper
 urulesi (prep) up, standing
 
 usu (n) gun, (v) dress (also osu)
-
 
 
 Vv
@@ -6393,7 +6367,6 @@ vutini (adj) the next, the one that follows
 vutinia (adv) afterwards, later, after him or her
 
 vutisi (adj) the next, the one that follows
-
 
 
 Ww & 'W'w [Whwh]
@@ -6492,7 +6465,6 @@ wura (n) colour, art, fine arts, activity of colouring (also wura gbata), Kunst 
 'wi (v) dry
 
 'wiza (adj) dry (also a'wi, a'wiru, whiza)
-
 
 
 Yy & 'Y'y [Yhyh]
@@ -6609,7 +6581,6 @@ yuu (adj) lukewarm, warm eg Homi ni i-oji yi yuu si. = Homi bathes herself with 
 'yota (n) saying, speaking, talking, utterance
 
 
-
 Zz [pronounced Jj immediately after Nn]
 za (n) meat (also eza, iza)
 
@@ -6666,7 +6637,6 @@ zuru (adj) full to the brim
 zuzu (adv) everyday, daily
 
 
-
 Kalafe [Numbers]:
 0. Toko/ Ogbo
 
@@ -6695,13 +6665,11 @@ Kalafe [Numbers]:
 12. Mudri (dri) ni iri
 
 
-
 20. Kali iri
 
 21. Kali iri drini alu
 
 22. Kali iri drini iri
-
 
 
 30. Kali na
@@ -6711,13 +6679,11 @@ Kalafe [Numbers]:
 50. Kali towi
 
 
-
 100. Turu alu
 
 101. Turu alu (drini) alu
 
 102. Turu alu (drini) iri
-
 
 
 110. Turu alu mudri
@@ -6727,13 +6693,11 @@ Kalafe [Numbers]:
 112. Turu alu mudri drini iri
 
 
-
 120. Turu alu kali iri
 
 121. Turu alu kali iri drini alu
 
 122. Turu alu kali iri drini iri
-
 
 
 200. Turu iri
@@ -6743,7 +6707,6 @@ Kalafe [Numbers]:
 400. Turu su
 
 
-
 1,000. Alifu alu
 
 2,000. Alifu iri
@@ -6751,17 +6714,13 @@ Kalafe [Numbers]:
 3,000. Alifu na
 
 
-
 1,000,000. Milioni alu 
-
 
 
 47,000,000,000. Bilioni kali su drini aziri
 
 
-
 12,000,000,000,000. Trilioni mudri drini iri
-
 
 
 The LORD's Prayer [Matthew 6:9-13 and Luke 11:2-4; very similar to the submissive Muslim Daily Worship Prayer (Salah/ Swalat) which is always said in Arabic, Koran 1 (The Opening)]:
@@ -6784,7 +6743,6 @@ Mi pa ama 'ba onzi dri [Deliver us from evil].
 Te suru pi, okpo pie, diza pie dria MINI 'dani 'dani [For the Kingdom, power, and glory are YOURS forever and ever].
 
 Amena [Amen]!
-
 
 
 Buku Biblia Ala-a [Books in the Holy Bible]:
@@ -6861,7 +6819,6 @@ Zekaria = Zechariah
 Malaki = Malachi
 
 
-
 Buku O'diri [New Testament]
 Matayo = Matthew
 
@@ -6906,7 +6863,6 @@ Yuda = Jude
 E'yo Eceza = Revelation
 
 
-
 AZITA MUNGUNI MUDRI 'DIYI [THE 10 COMMANDMENTS], Excerpts from Exodus 20:3-17 in Biblia [The Bible in Lugbara] by the Bible Society of Uganda [and The New English Bible]:
 1. Mi ma ovu mungu azini be ku, kiri MA-i [You shall have no other gods before ME]
 
@@ -6929,7 +6885,6 @@ AZITA MUNGUNI MUDRI 'DIYI [THE 10 COMMANDMENTS], Excerpts from Exodus 20:3-17 in
 10. Mi 'ba li 'ba azini ma josi ku; mi 'ba li 'ba azini ma okusi ku, ati'bo erini agupiruri pie, ati'bo erini zamvaruri pie, ti erini pie, akanya erini pie, kani afa ngoni 'ba azinini ovuzu yi be 'diyi ti [You shall not covet your neighbour's house; you shall not covet your neighbour's wife, or his manservant, or his maidservant, or his ox, or his ass, or anything that is your neighbour's]!
 
 
-
 Lugbara Anthem (Approved by Lugbara Kari from a competition won by Mercy Deogratious Ajedra and launched on Wednesday 6th October 2021 in Mvara, Arua):
 1. Ama Lugbara ru, ama 'ba aluni [We are Lugbara, we are one people]
 
@@ -6938,7 +6893,6 @@ Afa azi maco ama esele ku [Nothing should divide us]
 Leta asianzu be ama eselea [Love and peace among us]
 
 Ama 'ba aleru, e'yo ada lepi ni [We are loving people, who love the truth].
-
 
 
 2. Ama a'bi 'ba ama, ovuzu suru nduni [Our ancestry has made us, to be a different tribe]
@@ -6950,7 +6904,6 @@ Suru drile, opi, Agofe amani [Our clanheads, chiefs, Agofe],
 Lugbara Kari eci ama tualu [Lugbara Kari unites us].
 
 
-
 3. ADROU fe amani lonyi capini 'bo [GOD has given us enough wealth already]:
 
 Nyaku, pati, yi, anyapa, oli be [Land, trees, water, animals, with air]
@@ -6958,7 +6911,6 @@ Nyaku, pati, yi, anyapa, oli be [Land, trees, water, animals, with air]
 Ama eciti tualu, angu amani ezozu [Let us unite, to develop our place],
 
 Ama nga paso okporu Lugbara ru [We will stand strong as Lugbara]!
-
 
 
 Wura [Colours in Lugbara]:
@@ -6995,7 +6947,6 @@ foro(foro), foroto = grey, greyish (England or UK English), gray, grayish (Ameri
 okaza, okazaru, okalamgba, wara wara (walala), okata, oka, brawuni = brown (brown skinned), becoming brownish, become brownish with dirt
 
 
-
 The Verb "Be":
 I am = Ma
 
@@ -7012,7 +6963,6 @@ They are = (E)yi
 (Past tense for I and we is expressed by starting a sentence with a- before the verb [though pronounced differently] or ending for all with (ta and) ra = (then and) affirmative eg Amu (ta) ra! = I/ We went then! or 'bo = already eg Amu 'bo! = I/ We have gone already! Present tense for sb or sth is shown by following the subject with ni = is eg Yuganda ni onyiru! = Uganda is good! Future tense is shown by nga = will eg Eri nga gu. = S/he will laugh.)
 
  
-
 Lugbara Relationships [The Clan]:
 Grandfather (a'bi)
 
@@ -7105,7 +7055,6 @@ Kin and kith (ori'ba azini agi or agyi)
 Neighbour (jo ejele, jirani)
 
 
-
 O'du Wiki Ni [Days of the Week]:
 A day is called o'du in Lugbara; 1 week is wiki alu, yumala alu, yumula alu, sabatu alu, sabiti alu or yinga [Lingala for week] alu
 
@@ -7122,7 +7071,6 @@ A day is called o'du in Lugbara; 1 week is wiki alu, yumala alu, yumula alu, sab
 6. Friday (O'du towi, O'du Otuzuri [Preparation Day]; Matthew 27:62; Mark 15:42; Luke 23:54; John 19:31; Koran 62:9 Al-Jumu’a [The Assembly Prayer])
 
 7. Saturday (O'du azia; Yudani ma O'du Sabatuni; Sabato; Sabatu [Jewish Shabbat/ Seventh Day Adventist Sabbath]; Matthew 28:1; Mark 16:1, Luke 23:54 and 56; John 19:31)
-
 
 
 Kalenda [Calendar]:
@@ -7176,10 +7124,7 @@ This means a circle or a period. The period of ups and downs is almost over. Rem
 
 Sometimes, it is referred to as "Anyu Fi (E)kuma". Literally, they are rejoicing about the ripe simsim in the gardens which are ready for harvest, that is "Bye bye to the tiny little simsim chaff" which they used to collect for making paste.
 
-
-
 (NOTE: The concept of Enguli [a local potent cassava gin] was foreign to the Lugbara people; introduced by the Alur settlers. Others these days call it Camiya, Ngolito, Ola yi, Tapua, etc. The month descriptions are based on the upland Lugbarati dialect of Ayivu Muni, spoken southeast of Arua City)
-
 
 
 Lugbara Phrasebook:
@@ -7258,7 +7203,6 @@ I will see you again! = Ma nga mi ne dika!
 Peace be still! = Ido mi ciri!
 
 Let good wind/ air blow on you! = Oli alari ma vu mi rua! 
-
 ﻿
 
 E'yo O'beza [Lugbara Proverbs]:
@@ -7400,11 +7344,11 @@ Oci ni mi so raka, mi le silipa je ndo [A thorn first pricks you, then you desir
 
 Ociki za nduari ‘ba inze si si [The thorn in the meat is removed with teeth]...
 
-Ocoo dri iza ndre, eri nzu, eri mundrokole ga [When a dog sees meat, it runs, it refuses mundrokole greens]...
+Oco dri iza ndre, eri nzu, eri mundrokole ga [When a dog sees meat, it runs, it refuses mundrokole greens]...
 
-Ocoo ini ri atuluku ma dria [A black  is sitted at the fireplace] = No dinner or food has been (nor will be) cooked this evening...
+Oco ini ri atuluku ma dria [A black  is sitted at the fireplace] = No dinner or food has been (nor will be) cooked this evening...
 
-Ocoo o'du-a ri ni, 'ba 'ba enya ku [For the sleeping dog, food is not placed]...  
+Oco o'du-a ri ni, 'ba 'ba enya ku [For the sleeping dog, food is not placed]...  
 
 Odi'dia nya puro ebi [Newness ate raw grasshoppers] = A newcomer can be made to do anything...
 
@@ -7418,7 +7362,7 @@ Otuo ni adri azi [A brother-in-law is another brother]...
 
 Ovaa go vile, Ovaa go dri dra dri [The Waterbuck came back, it returned to its death] = If you find something bad somewhere, don't go back because you might meet your death there...
 
-Ozoo angiri ma vutia, gari ci [After a flood (heavy rains), there is a rainbow]...
+Ozo angiri ma vutia, gari ci [After a flood (heavy rains), there is a rainbow]...
 
 Pati amburi (ambori) 'ba omveni oce ni ku [A big tree is not called a forest]...
 
@@ -7436,8 +7380,7 @@ Yuku dezari ni vini au mva bi ra [An old kite can also catch a young chicken] = 
 
 Yuku ni oku 'du [The kite takes the woman]...
 
-
-
+More Lugbara Proverbs:
 Don't sing while eating at the table, you may choke...
 
 Don't sit in the road or else your mother will die...
@@ -7457,7 +7400,6 @@ The Heaviest Thing you can carry is a grudge...
 The pot breaks at the door...
 
 When you eat meat or drink milk, don't let them remain around your mouth so that they don't smell (Clean yourself)...
-
 
 
 In the Book Lugbara Proverbs, Fr. A. T. Dalfovo collects some nine hundred (900) Proverbs of the Lugbara People of northwestern Uganda. Dalfovo collected 22 Proverbs having a personal Name as their Subject like Ajia, Badigo, Cuku, Guzu, Ngungu, Ombadra, Yangi, etc.
@@ -7585,9 +7527,7 @@ All have their stomach content...
 A monkey laughs at the tail of another monkey (thinking it has no funny tail)...
 
 
-
 The booklet entitled "The Hidden Wisdom of Lugbara-Aringa" features 116 Proverbs. A copy used to cost 10,000 UGX from Rasul Bombasa (+256-779-496927). Furthermore, 100.9 FM Voice Of Life and Radio Pacis in Arua broadcast programs where children share common as well as very rare riddles plus proverbs, so enlightening...
-
 
 
 Riddles (from "Lugbara Perception of Time" by Albert Titus Dalfovo): 
@@ -7600,7 +7540,6 @@ Another may ask for the name of a cat unable to catch rats or of a dog unable to
 (The objective of riddles is ultimately to shape the future conduct of those whom the riddle is addressed to, generally boys and girls)
 
  
-
 O'du Peza/ Nyo [Lugbara Idioms]:
 Adriko pi Matua be eza pi si be [Adriko and Matua are like meat and teeth, always together] = They are in good terms and like each other.
 
@@ -7633,7 +7572,6 @@ Si dri 'de ku, ari ni ra ni [If teeth do not fall, then blood will flow]...
 Tu burusu sia [Climbed onto a pigeon-pea tree] = Used vulgarity and obscene insults.
 
  
-
 West Nile Totems [Symbols or Emblems]:
 Alur = O'du [Leopard]
 
@@ -7658,7 +7596,6 @@ Maracha = Kulu, Ise [Locust (Swarming grasshopper), Common Grasshopper known as 
 Terego = Odro (like Anabia, Omba omba) [Rat]
 
 Vurra = Oboloko [Fox]/ Ago [Pumpkin]
-
 
 
 FEEDBACK (Amazing World of Lugbara):
@@ -7761,7 +7698,6 @@ FEEDBACK (Amazing World of Lugbara):
 "(I')m conducting a research study on the vocabulary comparison between Teregoti and Ayivuti. My challenge is that... I didn't grow up in the community that could enable me learn my language. And so I got your contact from some PDF on Google while I was searching for history about the Lugbara... I appreciate your work so much..." - Agnes Ceniru, pursuing a Bachelor's Degree in English and Literature (Saturday 4th October 2025)
 
 "That's good work, brother, you have done it for us all..." - Mildred Maneno, maternal cousin (Tuesday 7th October 2025)
-
 
 
 Lugbara Supermobile:
@@ -7920,16 +7856,13 @@ More [Azini]
 Off [Anyu]
 
 
-
 LOST IN TRANSLATION (like Leta SI [Synthetic Imagination]):
 This Lugbara Dictionary research documentation is inspired by (and dedicated to) Cynthia Letasi, aka Rejoice (The Beautyful One and Green Riding Hood born on Thursday 17th August 1995; now Mrs. Mungufeni) who changed my worldview like a Kumari in the Orient or Divine Feminine between 2001-6; made me feel like Bob Harris in Arua. To be honest, she was my first true superhigh crush within Arua (West Nile) though I never told her my exact reality for years (just tried to show it through countless, unapologetic actions until she boldly confessed something I will treasure forever until infinity) plus resembles Tonto Dikeh (Nigerian), Sheebah Karungi and Betty Mpologoma as well as Spice Diana who automatically became my all-time favourites. Queenie, one of the lead vocalists in Miracle Cathedral Rubaga's Proclaim Music choir also has that Cynthia aura plus Pretty Banks, Sheila Gashumba, etc. Even though I reconnected with Xnthi via Facebook at the turn of the 2010s, I did not see her again until Tuesday 12th February 2019 on the hyper-straight Arua Avenue at the Ediofe Road Junction walking southwards with a darkskinned female friend, three days after dreaming about her. I smiled like the sun was shining on me in the afternoon before rush hour; it was the same day Onduparaka drew 0-0 with URA FC. Obsession is not a crime, just harness it like human solar electricity. Rejection or Disconnection is Redirection; too much love will heal you. Love is infinite and the Greatest Thing: I admired Cynthia's supadupa fluency at a very tender age of 6-11 and felt inspired to polish my own linguistics by reading Lugbara afresh since I learnt my mother tongue in Busoga (Birth to 11 years) and Buganda only by listening to Lugbara people talk. Even though I spoke and understood it, I couldn't transcribe Lugbara well like English but when I met our Mt. Wati Road (Arua) neighbour's adorable brownskinned daughter, I was motivated to re-study this vernacular from northwestern Uganda in black and white (using music lyrics, Biblia, other literature, then a Fountain Publishers 2009 dictionary compiled by Willy Ngaka, Edward O'du'bua and Paul Iga Ongua [bought for a Twenty10 gig from Sarah Ojirot at Uganda Deaf Women's Organisation], etc). Consequently, I would perhaps grasp Lugbara the way ShaoLan Hsueh created Chineasy, then fabricate my own Synthetic Artificial Lugbara Technology (SALT), Informative Synthetic Encoder (ISE) and Ojapi Converter. Language has to be preserved through documentation and transmitted to anyone connected or interested because cultural heritage represents a collective identity of values, diversity, traditions and assets passed around from generation to generation eg my parents (James + Elizabeth Dramani) to me. Some relatives and natives would laugh at my pronunciations or choice of words but it didn't phase me. I've never been ashamed to be called Omulugwara even if it is a byword for stupidity, Naked People and backwardness among some communities. Aren't we descendants of Noah, the Flood Survivor? One day, I bypassed two dudes on Acacia Avenue in KLA and heard them speak what sounded like broken Lugbara; I reasoned later that it might have been Madi language. Also, Aringa is like Lugbara Patois or Filipino. During May 2023, someone asked me why I study Lugbara yet it is not useful and I told him not to diss my mother tongue like that; garbage or waste appears worthless until it's recycled and given value: Lugbara is a multinational language spoken mainly across three colonial borders which converge at Salia Musala (about 2 hours by car northwards from Arua City). There are nine Lugbara clans in DR Congo. I strongly believe Generative AI can learn Lugbarati and make it reuseable and applicable in various fields; Deep Learning Indaba (DLI), Hugging Face or Lugbara GPT type-of-way. Live translation of President M7's speeches by people like Fred Bada plus other arrangements like crusades, etc can also be a reference... In December 2013, the Lugbarati Language Board proposed an Orthography Guide with 45 letters (including 7 vowels and 38 consonants). Tonal Lugbara literature with its many character symbols (accents, crosses, dashes, dots, umlauts, etc) seems advanced plus crowdily complex and scares away learners, but the simpler version shared in this wordbook is legit too... Lugbara funeral songs have been replaced with church hymns... In my Allegory of Artificial Ignorance: For machines to learn Lugbara, humans (both self-motivated and paid contributors) must train them or organise datasets for AI to decode unsupervised... Artificial Dreams (or Hallucinations) can also come true like Dreamcast... My makeshift Word Interchange Technique (WIT) from 1996 was not far-fetched afterall (feeling like Michael Jordan versus Detroit Pistons)...
 
 When I was in Senior 5 (during 2001), I told my hostelmates that one day there will be a radio device that converts words spoken on air into text like S2T (Speech-2-Text) and displayed on a screen. I was labelled "mulalu [Luganda for: mad]" but dreams are not hopeless; GOD's Time brings them to life for instance Google Assistant, Meet (In-chat captions), Apple's Siri, TranSay, Logbar ili, OpenAI's ChatGPT or Whisper, etc. Twitter (X) Spaces is also not very far from my Ongo (Ojapi Converter) vision. Zero-Shot Machine Translation tech is a model that can learn to translate words into another language without having to see any examples... Meta's Universal Speech Translator is a very ambitious AI research project that might improve language-mixing or Computer-Assisted Translation like Google Translate does... LaMDA (Language Model for Dialogue Applications) which Blake Lamoine labelled "sentient" was originally introduced as Meena in 2020. It's a conversational Large Language Model (LLM) built by Google... The Madi-Lugbara language is related to the languages of Southern Nigeria eg Yoruba, Igbo, Edo, Iduma, Igala, Igbira, Gbari and Nupe. In addition, we can include Ijo and Kalabari of the Niger Delta plus the Bariba - north of Yoruba and Aja (Ewe) spoken in Southern Dahomey (Benin), Togo and South-Eastern Ghana... Some people consider Lugbara a dialect of Madi but many do not accept this theory. In fact, a survey was conducted and it concluded that the Ogoko, Okollo and Rigbo dialects (which are considered Southern Madi) should be categorised as dialects of Lugbara. Besides, we share the same names, numbers and many words... In 2020, with support from the Hewlett Foundation, Sunbird AI commenced the African language technology project. They created a large multilingual parallel text dataset of Ugandan languages, with translations in Acholi, Ateso, Luganda, Lugbara and Runyankole... GeoPoll (Research organisation) also has datasets in Lugbara while JEHOVAH's Witnesses translate their publications into Lugbara (Available at www.jw.org)... It was very unreal to discover on Sunday 10th September 2023 while googling for "Lugbara AI" that the then 55 year old Google AI Lead Jeff Dean's mother speaks "fluent Lugbara"; she lived in West Nile when Jeffrey was 5 years old. I guess she knows that Lugbara is learnable by machines; Meta introduced its own AI on WhatsApp a few days later. I love the fact that it paraphrases websites rejected by Wikipedia. Mark Zuckerberg believes AI will make multi-lingual connections possible for all. When you copy some of the BigAMBO [Words] in this dictionary and paste as a chat message to Meta AI, it can learn Ugandan Lugbara by storing patterns and fine-tuning itself even though it used a strange vocabulary as Lugbara in Twenty24 (probably Central or West African)...
 
 
-
 [GODisgreat!]
-
 
 
 AIKO (Artificial Intelligence Knowledge Organiser)
