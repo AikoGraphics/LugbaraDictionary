@@ -38,9 +38,9 @@ Lost in Translation (Dreamcast)
 
 
 Pronunciation Parameters [Lugbara Phonology]:
-Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) and reinforced plus cleaned every year, Aiko's Lugbara Dictionary is where the Old and New meet. Use Ctrl + F (key combination) to quickly find any words you want! I'm only human and apologise in advance for any mistakes. So, corrections and suggestions are most welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS! 
+Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) and reinforced (or cleaned) every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination). Use Ctrl + F (key combination) to swiftly find any words you want! I'm only human and apologise in advance for any mistakes. So, corrections and suggestions are most welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS! 
 
-Every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Inn), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoU), Va, Wa, Wha, Ya, Yha, Za. The original Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg ai can mean salt (high tone); accept, pray (mid tone); ask (low tone) while ti can mean cow; to drip; mouth, language; to produce and so on. However, new words keep being added to the existing language eg komputa = computer; simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V though nga [will, shall] is added after the Subject to mark the difference eg YESU ni (nga) 'ba onzi pa [JESUS (will) save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups...
+Every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Inn), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoU), Va, Wa, Wha, Ya, Yha, Za. The original Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg ai can mean salt (high tone); accept, pray (mid tone); ask (low tone) while ti can mean cow; to drip; mouth, language; to produce and so on. However, new words keep being added to the existing language eg simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V though nga [will, shall] is added after the Subject to mark the difference eg YESU ni (nga) 'ba onzi pa [JESUS (will) save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups...
 
 Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look redundant eg Vurra, Oluffe, Ofudde, Owaffa, Mekki, etc unless very special and meaningful (What you see is what you get)! Diphthong clusters and other noteworthy phonetics include the following:
 
@@ -62,11 +62,11 @@ mv (letter M becomes N) as in converse, for example omve (pronounced onve)
 
 oa as in soar, for example Boroa
 
-oo as in hold, for example ocoo (also oco), not oo as in mood
+oo (preferably single O) as in hold, for example ocoo (also oco), not oo as in mood
 
 u as in food, for example o'du
 
-uu as in chew, for example cuu (pronounced chu)
+uu (preferably single U) as in chew, for example cuu (pronounced chu)
 
 z (letter Z becomes J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
@@ -5857,6 +5857,8 @@ pata (n) redemption, salvation (also paza)
 
 pati (n) tree, (maize) cone, putty substance for holding glass panes in window frame eg Dramani ni pati ga. = Dramani is cutting a tree.
 
+pati etu o'bizuri (n) sundial eg Ahazi ide pati etu o'bizuri. = Ahaz made a sundial.
+
 pati efi osale (n) ingredients (also pati ifi osale)
 
 pati ifi (n) plant seed eg Pati ifi ci Omia Agribusiness Development Group-a. = There are seeds at Omia Agribusiness Development Group.
@@ -6325,7 +6327,7 @@ spoki (n) spoke
 
 springi (n) spring (also sepringi)
 
-stadia (n) stadium, arena
+stadia (n) stadium, arena eg UG si stadia azi Hoima-a azini Lira-a. = UG built other stadiums in Hoima and Lira.
 
 stanja (n) stanza, song verse
 
@@ -6863,7 +6865,7 @@ yofe (n) broom eg Tedi ni angu we yofe si. = Teddy is sweeping the place with a 
 
 Yole (n) place in Terego, Lugbara subclan with ancestry from Ethiopia
 
-yu (v) warm oneself with fire or sunheat
+yu (adj) lukewarm (also yuu), warm; (v) warm oneself with fire or sunheat eg Homi ni i-oji yi yu si. = Homi bathes herself with warm water.
 
 Yuganda (n) Uganda, the Pearl of Africa
 
@@ -6878,8 +6880,6 @@ Yuropa (n) Europa eg Ademola Lukumani nde Yuropa Ligi eli 2024 si Atalanta ni. =
 yuta (n) mother goes to bathe daughter with hot water after giving birth and sustaining injuries in her private parts
 
 yuthu (n) youth (also yutu, 'ba ode, karile) eg Katalina ni yuthu. = Katalina is a youth.
-
-yuu (adj) lukewarm, warm eg Homi ni i-oji yi yuu si. = Homi bathes herself with warm water.
 
 'ya (v) dig (also yha) eg Sina ni amvu 'ya. = Sina is digging the garden.
 
@@ -7599,7 +7599,7 @@ Drileba aga ondua [Blessing is better than intellect]...
 
 Drinzasi okuku dra jorovu-a [Because of shyness, the tortoise died in its shell]...
 
-E ka ne iriti ki okuria, mi aa ngonde ozoo yi kozu [When you see clouds gathering, prepare to catch rainwater]...
+E ka ne iriti ki okuria, mi aa ngonde ozo yi kozu [When you see clouds gathering, prepare to catch rainwater]...
 
 E ka ndri ki ofi drio ku, iki iriaga(ga)/ obu ci [If you don't lead the goats to their shelter early, they will eat worms (on the grass they chew at dusk)]...  
 
@@ -7613,7 +7613,7 @@ E'yere e'yere, okuku mu re [Slowly slowly, the tortoise went far]...
 
 E'yere nya ni [Slow(ness)/ Patience is the one who ate]...
 
-E'yo amale ku ri si, ozoo ma si fu kalaa [For not having corrected them, the teeth of the warthog have grown out sideway] = Bad inclinations not corrected on time will not be  remedied in future...
+E'yo amale ku ri si, ozo ma si fu kalaa [For not having corrected them, the teeth of the warthog have grown out sideway] = Bad inclinations not corrected on time will not be  remedied in future...
 
 E'yo erikurisi ewa ma si zo ra [Because of not listening, the elephant's trunk grew]...
 
@@ -8019,7 +8019,7 @@ FEEDBACK (Amazing World of Lugbara):
 
 
 Lugbara Supermobile:
-Machines (AI or Artificial Intelligence) can be programmed to use Lugbara. Engineers, Designers as well as Technology Students in Ugandan Schools have always tinkered with this Possibility. Machines can also teach themselves Lugbara through Artificial General Intelligence (AGI) or Artificial Super Intelligence (ASI). Some great advancements towards this goal include the Lugbara Gboard in Android phones plus mobile apps in Lugbarati; whoa! Below are translated Commands you might see in the mega, super-smart Videophones of the future [Vidiosimu/ Supamobailu] or at a GSMA Mobile World Congress:
+Machines (AI or Artificial Intelligence) can be programmed to use Lugbara. Engineers, Designers as well as Technology Students in Ugandan Schools have always tinkered with this Possibility. Machines can also teach themselves Lugbara through Artificial General Intelligence (AGI) or Artificial Super Intelligence (ASI). Some great advancements towards this goal include the Lugbara Gboard (Next letter-prediction or automatic spelling-correction) in Android phones plus mobile apps in Lugbarati; whoa! Below are translated Commands you might see in the mega, super-smart Videophones of the future [Vidiosimu/ Supamobailu] or at a GSMA Mobile World Congress:
 
 On [Idri]
 
