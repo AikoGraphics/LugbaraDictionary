@@ -6677,7 +6677,7 @@ violini (n) violin eg "Miri Ben-Ari" ni violini avi. = Miri Ben-Ari plays violin
 
 vo (v) slash
 
-VOLU (n) Voice Of Life Uganda, 100.9 FM VOL Radio, West Nile's pioneer broadcast station, exclusively church-oriented and Gospel music-playing media eg Alice Drijaru Asedri ma ongo ni avi VOLU-a. = Alice Drijaru Asedri's song is playing on VOL.
+VOLU (n) Voice Of Life Uganda, 100.9 FM VOL Radio, West Nile's pioneer broadcast station, exclusively church-oriented and Gospel music-playing media (also VOLA - Voice Of Life Arua) eg Alice Drijaru Asedri ma ongo ni avi VOLU-a. = Alice Drijaru Asedri's song is playing on VOL.
 
 vorovoro (adj) soft
 
