@@ -7442,10 +7442,10 @@ Prompt: Imagine a dating program from Arua (the Centre of Lugbaraland) where Lug
 
 
 JSON Code:
-{"prompt": "Translate 'mosquito' to Lugbara!", "completion": "yiyia"}
-{"prompt": "What is the Lugbara word for 'salt'?", "completion": "ai"}
-{"prompt": "Translate 'awania' to English!", "completion": "thanks"}
-{"prompt": "What is 'afa' in English?", "completion": "thing"}
+{
+   "prompt": "Translate 'mosquito' to Lugbara!", 
+   "completion": "yiyia"
+}
 
 
 O'du Wiki Ni [Days of the Week]:
