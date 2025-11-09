@@ -7467,11 +7467,11 @@ Desert Dates:
 Prompt: Imagine a dating program from Arua (the Centre of Lugbaraland) where Lugbara and English are the first two main languages used by the show's team (probably sponsored by Desert Breeze Hotel) in the mold of either Hello Mr. Right Kenya or Date My Family Uganda, Abanoonya, Shoot Your Shot Nigeria, Dating: No Filter South Africa, Uyang'thanda Na?, Wanilata, etc. Love runs the world...
 
 
-JSON Code:
-{
-   "prompt": "Translate 'endurance' to Lugbara!", 
-   "completion": "asiteza"
-}
+JSON Lines:
+{"prompt": "How do you say 'I love you' in Lugbara?", "completion": "A le mi!"}
+{"prompt": Say 'You look good' in Lugbara!", "completion": "Mi ina ala!"}
+{"prompt": "Translate 'friend' to Lugbara!", "completion": "agi"}
+{"prompt": "Translate to Lugbara: Where is the Church?", "completion": "Kanisa ngoa?"}
 
 
 O'du Wiki Ni [Days of the Week]:
@@ -7757,7 +7757,7 @@ Mi owu lesu i-adapi'bo risi ku [Do not cry over spilt milk] = You cannot change 
 
 Mundu ni 'ba ere ere [The Whiteman scatters people] = Formal courts split people.
 
-Mva alia ri ni, 'ba edeni/ jeni o'buka ku [For baby in the womb, a babycover is not made/ bought] = Never count your eggs before they hatch!
+Mva alia ri ni, 'ba edeni/ jeni o'buka ku [For a baby in the womb, a babycover is not made/ bought] = Never count your eggs before they hatch!
 
 O'bi'bia si, eto jo ve ra [Because of copying, the hare's house burnt] = Be yourself!
 
@@ -7769,7 +7769,7 @@ Ociki za nduari ‘ba inze si si [The thorn in the meat is removed with teeth]..
 
 Oco dri iza ndre, eri nzu, eri mundrokole ga [When a dog sees meat, it runs, it refuses mundrokole greens]...
 
-Oco ini ri atuluku ma dria [A black  is sitted at the fireplace] = No dinner or food has been (nor will be) cooked this evening.
+Oco ini ri atuluku ma dria [A black dog is sitted on the fireplace] = No dinner or food has been (nor will be) cooked this evening.
 
 Oco o'du-a ri ni, 'ba 'ba enya ku [For the sleeping dog, food is not placed]...  
 
