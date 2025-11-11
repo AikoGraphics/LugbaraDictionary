@@ -40,13 +40,13 @@ Lost in Translation (Dreamcast)
 
 
 Introduction:
-Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) and reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination). It's a Lugbara Language Centre for historical research. Use Ctrl + F (key combination) to swiftly find any words you want! I'm only human and apologise in advance for any mistakes: I've cleaned so many by the way, therefore corrections, validations and suggestions are always welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like Genesis 11)! Every knee shall bow and every tongue including Lugbara confess that: YESU Kristo ni Opi [JESUS Christ is Lord] (Philippians 2:10-11)!
+Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) and reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination). It's a Lugbara Language Museum for historical research: Use Ctrl + F (key combination) or add this dictionary as a file to an AI chatbot to swiftly find any words you want! I'm only human and apologise in advance for any mistakes: I've cleaned so many by the way, therefore corrections and suggestions are always welcome via WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like the Tower of Babel language confusion narrated in Genesis 11 and Galileans filled with the Holy Spirit at Pentecost amazingly speaking other languages in Acts 2:1-13)! Every knee shall bow and every tongue confess that: JESUS Christ is Lord [YESU Kristo ni Opi] (Philippians 2:10-11)!
 
 
 Pronunciation Parameters:
 In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used (meaning only 24 can do on a keyboard), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in India), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in groUnd), Va, Wa, Wha, Ya, Yha, Za. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the ABC to Zed rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound. The original Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg ai can mean salt (high tone); accept, pray (mid tone); ask (low tone) while ti can mean cow; to drip; mouth, language; to produce and so on. However, new words keep being added to the existing language eg simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [ ] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups...
 
-Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look redundant eg Vurra, Oluffe, Ofudde, Owaffa, Mekki, etc unless very special and meaningful (What you see is what you get)! Diphthong clusters and other noteworthy phonetics include the following:
+Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look redundant eg Vurra, Oluffe, Ofudde, Owaffa, Mekki, etc unless very special and meaningful (What you see is what you hear [WYSIWYH])! Diphthong clusters and other noteworthy phonetics include the following:
 
 a as in rat, for example leta-a
 
@@ -1462,6 +1462,8 @@ BTN (n) Bornfree Technologies Network, the pioneer TV station in West Nile since
 
 Bua (n) male-given name meaning "Up" eg Chalisi ma ru aziri Bua. = Charles's other name is Bua.
 
+Buda (n) Buddha
+
 budu budu (adj) foamy, soapy, gigantic eg Arieli ni budu budu. = Ariel is gigantic.
 
 Bukaresti (n) Bucharest, locals call it Bucuresti, Capital City of Romania located in the south eg Joji Haji avi mupira Stau Bukaresti ni. = Gheorghe Hagi played football for Steaua Bucharest.
@@ -1474,7 +1476,7 @@ buloka (n) broker, dealer
 
 bunia (n) fist, boxing sport
 
-buro (n) bureau (also ofisi)
+buro (n) bureau (also ofisi) eg foreksi buro = forex bureau
 
 Burundi (n) Burundi eg Kidumu enga Burundi-a. = Kidum is from Burundi.
 
@@ -2706,6 +2708,8 @@ geti (n) gate eg Nyagua ni geti gba rangi eka si. = Nyagua is painting the gate 
 
 geto (n) ghetto
 
+gifo (n) GIF photo
+
 Giligili (n) suburb west of Arua City after Ediofe
 
 Giriki (n) Greek eg Sembuya ni aa Giriki vu anyia. = Sembuya stays near a Greek.
@@ -2714,7 +2718,7 @@ Girimani (n) Germany, Deutschland, German language or person eg "Mergelsberg" ni
 
 girinaki (adj) unkempt like hair (also girikinya, gurukunya)
 
-giriye (n) certain meal from Koboko
+giriye (n) barbecued goat meal from Koboko
 
 gita (n) guitar eg Bobu avi gita. = Bob played the guitar.
 
@@ -2723,6 +2727,8 @@ glavu (n) glove eg Dokita Avivu su glavu dria. = Doctor Aviv wore gloves on the 
 go (v) return
 
 gobolo (n) louse, lice
+
+godogodo (n) train
 
 go'dogo'do (adj) crooked (also gonigoni)
 
@@ -2762,7 +2768,7 @@ guke (n) trumpet used by boys and men in most of their dance (also guka)
 
 Gulu (n) place in Northern Uganda found east of Arua and Rhino Camp plus Amuru, north of Masindi eg Chobe Safari Loji ni Gulu ma ageia. = Chobe Safari Lodge is near Gulu.
 
-gunyagunya (adj) much (said of greeting) eg A zi mi gunyagunya. = I greet you very much.
+gunyagunya (adj) much (said of greeting), with enthusiasm eg A zi mi gunyagunya. = I greet you very much.
 
 guru (n) deep; (v) fell over, turned over
 
@@ -3794,11 +3800,13 @@ leja leja (n) casual labour
 
 lejo (n) index finger (also lejoa)
 
-Leju (n) Headquarters of Terego District effective 1st July 2020
+Leju (n) headquarters of Terego District effective 1st July 2020
 
 leleo (n) morning star
 
 Lematia (n) name meaning "They love me on the lips" eg Otelulu Vegasi ma ru adari Lematia. = Otelul Vegas's real name is Lematia.
+
+leni (n) lane
 
 Leni (n) name meaning "S/he is the one who loves, likes or wants", shortened from Munguleni, Lenia or Leniya
 
@@ -4842,7 +4850,7 @@ oci so ma pa (n) payment for fieldwork as assumed consolation for a thorn pricki
 
 Ociba (n) suburb and parish near Arua City, north of Anyafio along Mt. Wati Road, rock point of interest or hill in Dadamu Area, place in Yivu Subcounty (Maracha) eg Ma "Premier" ne Ociba Kosti-a. = I watch English Premiership in Ociba Coast.
 
-Ociba Lane (n) road that starts on Mt. Wati Road (from Hotel Arua) and slopes to Oda Road eg "Springview" ni Ociba Geri-a. = Springview is on Ociba Lane.
+Ociba Leni (n) road that starts on Mt. Wati Road (from Hotel Arua) and slopes to Oda Road eg "Springview" ni Ociba Leni-a. = Springview is on Ociba Lane.
 
 ocita (n) hiding, keeping, secret, concealment (also ociza)
 
@@ -8278,20 +8286,24 @@ Settings [Otita]
 
 
 Lugbara-English (Crossovers)
-Some Lugbara words have the same spelling as English, but mean totally different things eg: a, ace, ago, ale, ape, asia, be, bile, do, ego, era, go, ice, mile, mini, one, so, to, vile, we, etc...
+Some Lugbara words have the same spelling as English, but mean totally different things eg: a, ace, agate, agile, ago, aka, ale, alibi, alone, amaze, animate, ape, are, aria, aroma, asia, awe, azalea, be, bile, do, ego, era, go, ice, mile, mini, one, so, to, vile, we, etc...
 
 
 Lugbara-Ganda:
-Bambi = Sorry [Let us have sex]
-Bigambo = Words [Big-ambo]
-Fuka = Urinate [Flower has yielded]
-Mukenenya = HIV/ AIDS [Eating silverfish]
-Obuze = You are lost [Worm faeces]
+Bambi = Sorry ['Ba mbi = Let us have sex]
+Bigambo = Words [(Big)ambo]
+Fuka = Urinate [Fu ka = Flower has yielded or grown]
+Lindako = Wait a bit [Linda ko = Catching Linda]
+Mukenenya = HIV/ AIDS [Mukene nya = Eating silverfish]
+Obuze = You are lost [O'bu ze = Worm faeces]
+Onzita = You are killing me [Onzi ta = Coping with evil or bad things]
+Sagala (Siyagala) = I don't want [Sa gala (Si ya gala) = Slapped a snake (The teeth shook the snake)]
+Semakula = Male-given name with meaning related to gains [Se maku la = Pulled the potatoes to read]
 
 
 
 LOST IN TRANSLATION (DREAMCAST):
-This encyclopedic research documentation is inspired by (and dedicated to) Cynthia Letasi, aka Rejoice (The Beautyful One and Green Riding Hood - now Mrs. Mungufeni born on Thursday 17th August 1995; roger that Ayi Kwei Armah) who changed my worldview like a Kumari in the Orient or Divine Feminine between 2001-6; made me feel like Bob Harris in Arua (not Japan) around 2003 because she was 11 years younger than me. To be honest, she was my first true "superhigh" crush within Arua (West Nile) after the Y2K Computer Bug Doom's Day didn't happen though I never told her my exact heartfelt reality for many years (Just tried to show it through kind, unapologetic, smile-inducing treatment until she boldly confessed something directly to me that I will treasure until infinity). I adored how her glowing eyes hawked at me (One of my favourite, unforgettable, classy memories about CL). Furthermore, her lookalikes included Tonto Dikeh (Nigerian), Sheebah Karungi, Betty Mpologoma, Spice Diana as well as Scarlett Johansson who automatically became my all-time favourites; I knew her before all of them except maybe Betty. Queenie, one of the lead vocalists in the Miracle Cathedral Rubaga (MCR) Proclaim Music choir also has that Cynthia aura plus Pretty Banks, Sheila Gashumba, etc. Even though I reconnected with Xnthi (nickname I gave her meaning Numberless or Infinite value) via Facebook at the turn of the 2010s, I did not see her again physically until Tuesday 12th February 2019 (about 13 unlucky years since the last time) on the hyper-straight Arua Avenue at the Ediofe Road Junction walking southwards with a darkskinned female friend, three surreal days after dreaming about her. I smiled like GOD's sun was shining on me in the afternoon before rush hour; it was the same day Onduparaka drew 0-0 with URA FC in the Ugandan top-flight league. Obsession is not a crime, just harness it like human solar electricity. Disconnection is re-direction; too much love will heal you. Love is indestructible and the Greatest Thing: I admired Cynthia's supadupa fluency at a very tender age of 6 to 11 and felt inspired to polish my own linguistics by reading Lugbara afresh since I learnt my mother tongue in Busoga (Birth to 11 years) and Buganda only by listening to Lugbara people talk. Even though I spoke and understood it, I couldn't transcribe Lugbara well like English but when I met our Mt. Wati Road (Arua) neighbour's adorable brownskinned daughter, I was motivated to re-study this vernacular from Northwestern Uganda in black and white (using music lyrics, Biblia, Straight Talk newspapers, other literature, then a Fountain Publishers 2009 dictionary compiled by Willy Ngaka, Edward O'du'bua and Paul Iga Ongua [bought for a Twenty10 gig from Sarah Ojirot at Uganda Deaf Women's Organisation], etc). Consequently, I would perhaps grasp Lugbara the way ShaoLan Hsueh created Chineasy, then fabricate my own Synthetic Artificial Lugbara Technology (SALT), Informative Synthetic Encoder (ISE) or Ojapi Converter. Language has to be preserved through documentation and transmitted to anyone connected or interested because cultural heritage represents a collective identity of values, diversity, traditions and assets passed around from generation to generation eg my parents (James + Elizabeth Dramani) to me, though my mother departed in Twenty22 (during Volume 7). Some relatives and natives would laugh at my pronunciations or choice of words but it didn't phase me. I've never been ashamed to be called Omulugwara even if it is a byword for stupidity, Naked People and backwardness among some communities. Aren't we all descendants of Noah, the Flood Survivor? One day, I bypassed two dudes on Acacia Avenue in KLA and heard them speak what sounded like broken Lugbara; I reasoned later that it might have been Madi language. Also, Aringa is like Lugbara Patois or Filipino. During May 2023, someone asked me why I study Lugbara yet it is not useful and I told him not to diss my mother tongue like that; garbage or waste appears worthless until it's recycled and given value: Lugbara is a multinational language spoken mainly across three colonial borders which converge at Salia Musala (about 2 hours by car northwards from Arua City). There are nine Lugbara clans in DR Congo (Kari Culture Minister - John Godo, a UPC stalwart, taught me that in 2009: When I went to Ariwara [inside DRC] the following year, I was stunned by the amount of Lugbara songs playing loudly near the markets). I strongly believe Generative AI can learn Lugbarati and make it reuseable and applicable in various fields; Deep Learning Indaba (DLI), Ambani, Hugging Face, Deep Site, Foundation for Lugbarati Development Initiative (FLUDI) or Lugbara GPT type-of-way. Live translation of President M7's speeches by people like Fred Bada plus other arrangements like crusades, etc can also be a reference... In December 2013, the Lugbarati Language Board proposed an Orthography Guide with 45 letters (including 7 vowels and 38 consonants). Tonal Lugbara literature with its many character symbols (accents, crosses, dashes or hyphens, dots, umlauts, etc) seems advanced plus crowdily complex and scares away learners, but the simpler version shared in this wordbook is legit too... Lugbara funeral songs have been replaced with church hymns and modern Gospel music... In my Allegory of Artificial Ignorance: For machines to learn Lugbara, humans (both self-motivated and paid contributors) must train them or organise datasets for AI to decode unsupervised... Artificial Dreams (or Hallucinations) can also come true like Dreamcast... My makeshift Word Interchange Technique (WIT) from 1996 was not far-fetched afterall (feeling like Michael Jordan versus Detroit Pistons: No rules)...
+This encyclopedic research documentation is inspired by (and dedicated to) Cynthia Letasi, aka Rejoice (The Beautyful One and Green Riding Hood - now Mrs. Mungufeni born on Thursday 17th August 1995; roger that Ayi Kwei Armah) who changed my worldview like a Kumari in the Orient or Divine Feminine between 2001-6; made me feel like Bob Harris in Arua (not Japan) around 2003 because she was 11 years younger than me. To be honest, she was my first true "superhigh" crush within Arua (West Nile) after the Y2K Computer Bug Doom's Day didn't happen though I never told her my exact heartfelt reality for many years (Just tried to show it through kind, unapologetic, smile-inducing treatment until she boldly confessed something directly to me that I will treasure until infinity). I adored how her glowing eyes hawked at me (One of my favourite, unforgettable, classy memories about CL). Furthermore, her lookalikes included Tonto Dikeh (Nigerian), Sheebah Karungi, Betty Mpologoma, Spice Diana as well as Scarlett Johansson who automatically became my all-time favourites; I knew her before all of them except maybe Betty. Queenie, one of the lead vocalists in the Miracle Cathedral Rubaga (MCR) Proclaim Music choir also has that Cynthia aura plus Pretty Banks, Sheila Gashumba, etc. Even though I reconnected with Xnthi (nickname I gave her meaning Numberless or Infinite value) via Facebook at the turn of the 2010s, I did not see her again physically until Tuesday 12th February 2019 (about 13 unlucky years since the last time) on the hyper-straight Arua Avenue at the Ediofe Road Junction walking southwards with a darkskinned female friend, three surreal days after dreaming about her. I smiled like GOD's sun was shining on me in the afternoon before rush hour; it was the same day Onduparaka drew 0-0 with URA FC in the Ugandan top-flight league. Obsession is not a crime, just harness it like human solar electricity. Disconnection is re-direction; too much love will heal you. Love is indestructible and the Greatest Thing: I admired Cynthia's pleasant appearance and supadupa fluency at a very tender age of 6 to 11 and felt inspired to polish my own linguistics by reading Lugbara afresh since I learnt my mother tongue despite being downgraded as backward in Busoga (Birth to 11 years) and Buganda only by listening to Lugbara people talk. Even though I spoke and understood it, I couldn't transcribe Lugbara well like English but when moonstruck by our Mt. Wati Road (Arua) neighbour's adorable brownskinned daughter, I was motivated to re-study this vernacular from Northwestern Uganda in black and white (using music lyrics, Biblia, Straight Talk newspapers, other literature, then a Fountain Publishers 2009 dictionary compiled by Willy Ngaka, Edward O'du'bua and Paul Iga Ongua [bought for a Twenty10 gig from Sarah Ojirot at Uganda Deaf Women's Organisation], etc). Consequently, I would perhaps grasp Lugbara the way ShaoLan Hsueh created Chineasy, then fabricate my own Synthetic Artificial Lugbara Technology (SALT), Informative Synthetic Encoder (ISE) or Ojapi Converter. Language has to be preserved through documentation and transmitted to anyone connected or interested because cultural heritage represents a collective identity of values, diversity, traditions and assets passed around from generation to generation eg my parents (James + Elizabeth Dramani) to me, though my mother departed in Twenty22 (during Volume 7). Some relatives and natives would laugh at my pronunciations or choice of words but it didn't phase me. I've never been ashamed to be called Omulugwara even if it is a byword for stupidity, Naked People and backwardness among some communities. Aren't we all descendants of Noah, the Flood Survivor? One day, I bypassed two dudes on Acacia Avenue in KLA and heard them speak what sounded like broken Lugbara; I reasoned later that it might have been Madi language. Also, Aringa is like Lugbara Patois or Filipino. During May 2023, someone asked me why I study Lugbara yet it is not useful and I told him not to diss my mother tongue like that; garbage or waste appears worthless until it's recycled and given value: Lugbara is a multinational language spoken mainly across three colonial borders which converge at Salia Musala (about 2 hours by car northwards from Arua City). There are nine Lugbara clans in DR Congo (Kari Culture Minister - John Godo, a UPC stalwart, taught me that in 2009: When I went to Ariwara [inside DRC] the following year, I was stunned by the amount of Lugbara songs playing loudly near the markets). I strongly believe Generative AI can learn Lugbarati and make it reuseable and applicable in various fields; Deep Learning Indaba (DLI), Ambani, Hugging Face, Deep Site, Foundation for Lugbarati Development Initiative (FLUDI) or Lugbara GPT type-of-way. Live translation of President M7's speeches by people like Fred Bada plus other arrangements like crusades, etc can also be a reference... In December 2013, the Lugbarati Language Board proposed an Orthography Guide with 45 letters (including 7 vowels and 38 consonants). Tonal Lugbara literature with its many character symbols (accents, crosses, dashes or hyphens, dots, umlauts, etc) seems advanced plus crowdily complex and scares away learners, but the simpler version shared in this wordbook is legit too... Lugbara funeral songs have been replaced with church hymns and modern Gospel music... In my Allegory of Artificial Ignorance: For machines to learn Lugbara, humans (both self-motivated and paid contributors) must train them or organise datasets for AI to decode unsupervised... Artificial Dreams (or Hallucinations) can also come true like Dreamcast... My makeshift Word Interchange Technique (WIT) from 1996 was not far-fetched afterall (feeling like Michael Jordan versus Detroit Pistons: No rules)...
 
 When I was in Senior 5 (during 2001), I told my hostelmates that one day there will be a radio device that converts words spoken on air into text like S2T (Speech-2-Text) or Automatic Speech Recognition (ASR) and displayed on a screen (just like we transcribed classroom dictation from teachers). I was labelled "mulalu [Luganda for: mad]" but dreams are not hopeless; GOD's Time brings them to life for instance Google Assistant, Meet (In-chat captions), Apple's Siri, TranSay, Logbar ili, OpenAI's ChatGPT or Whisper, etc. Twitter (X) Spaces is also not very far from my Ongo (Ojapi Converter) vision. Zero-Shot Machine Translation tech is a model that can learn to translate words into another language without having to see any examples... Meta's Universal Speech Translator is a very ambitious AI research project that might improve language-mixing or Computer-Assisted Translation like Google Translate does... LaMDA (Language Model for Dialogue Applications) which Blake Lamoine labelled "sentient" was originally introduced as Meena in 2020. It's a conversational Large Language Model (LLM) built by Google... The Madi-Lugbara language is related to the languages of Southern Nigeria eg Yoruba, Igbo, Edo, Iduma, Igala, Igbira, Gbari and Nupe. In addition, we can include Ijo and Kalabari of the Niger Delta plus the Bariba - north of Yoruba and Aja (Ewe) spoken in Southern Dahomey (Benin), Togo and South-Eastern Ghana... Some people consider Lugbara a dialect of Madi but many do not accept this theory. In fact, a survey was conducted and it concluded that the Ogoko, Okollo and Rigbo dialects (which are considered Southern Madi) should be categorised as dialects of Lugbara. Besides, we share the same names, numbers and many words... In 2020, with support from the Hewlett Foundation, Sunbird AI commenced the African language technology project. They created a large multilingual parallel text dataset of Ugandan languages, with translations in Acholi, Ateso, Luganda, Lugbara and Runyankole. On Saturday 11th October 2025, an AI Language Model called Sunflower (developed by Sunbird) was officially launched and it is described as "the ChatGPT for Uganda"... GeoPoll (a global research organisation) has datasets in Lugbara while JEHOVAH's Witnesses translate their publications into Lugbara (Available at www.jw.org). Companies like Airtel, dfcu Bank, etc also use Lugbara in their electronic platforms... It was very unreal to discover on Sunday 10th September 2023 while googling for "Lugbara AI" that the mother of Jeff Dean (55 year old Google AI Lead then) speaks "fluent Lugbara"; she lived in West Nile when Jeffrey was 5 years old. I guess she knows that Lugbara is learnable by machines; Meta introduced its own AI on WhatsApp a few days later. I love the fact that it paraphrases websites rejected by Wikipedia. Mark Zuckerberg believes AI will make superintelligent multi-lingual connections possible for all. When you copy some of the BigAMBO [Words] in this dictionary and paste as a chat message to Meta AI like a Paul and Silas jailbreak, it can learn Ugandan Lugbara by reading patterns and fine-tuning itself to chat with you even though it used a strange vocabulary as Lugbara in Twenty24 (probably Central or West African) like TranslatorMind the following year. Sam Altman (CEO at Open AI) also revealed that you can add knowledge and create a custom GPT by uploading files in the GPTs App Store. Self-Adapting Language (SEAL) Models will learn new words by themselves... Vibe-coding can also help you create Lugbara chatbots plus other software...
 
