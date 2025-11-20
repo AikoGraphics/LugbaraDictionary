@@ -6018,7 +6018,7 @@ Ragemu (n) suburb south of Arua City named Ragem, place along the Albert Nile be
 
 Ragemu Bichi (n) canopied rivershed with meanders on River Enyau about 3 kilometres south of Arua City, half a kilometre from CEFORD Arua eg Bobu nya mukati towi azini i'bi iri Ragemu Bichi-a. = Bob ate five loaves of bread and two fish at Ragem Beach.
 
-ragibi (n) rugby eg Nyu Zilandi "All Blacks" ndeki Springibokisi Ragibi-a. = New Zealand All Blacks beat Springboks in rugby.
+ragibi (n) rugby eg Nyu Zilandi "All Blacks" ndeki Sipiringibokisi Ragibi-a. = New Zealand All Blacks beat Springboks in rugby.
 
 rakaka (adv) (do sth) first, in advance (also raka) eg Mi ofe rakaka! = (You) first pay!
 
@@ -6334,9 +6334,9 @@ sipidi (n) speed
 
 sipika (n) speaker (also anzenze ei, agu e'yo nzepiri, anzenzea 'dipi)
 
-sipoki (n) spoke
+sipiringi (n) spring (also sepiringi)
 
-sipringi (n) spring (also sepringi)
+sipoki (n) spoke
 
 siri (n) secret eg Enoka lu siri. = Enoch told a secret.
 
