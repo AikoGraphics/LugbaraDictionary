@@ -46,7 +46,7 @@ Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th bi
 Pronunciation Parameters:
 In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used (meaning only 24 can do on a keyboard), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoUth), Va, Wa, Wha, Ya, Yha, Za. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the ABC to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound; Biggest consonant clusters in Lugbara are: DR, MB, MV, ND, NDR, NG, NY, NZ and TR. The Old Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg o'du can mean day, thigh, omen, leopard; etc. However, New words keep being added to the existing language eg simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc while others are pronounced differently eg agu, agupi, etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [ ] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups eg Amanga votiyi 'be minira = Ama nga voti yi 'be mini ra [We will cast votes for you surely]. Short forms include: Ma mu ku = A mu ku [I'm not going]; Mi nya chapati = I nya chapati [You eat chapati]...
 
-Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look ambiguously redundant and can be reformed eg Vurra, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc unless very special and meaningful (What you see is what you hear [WYSIWYH])! Diphthong clusters and other noteworthy phonetics include the following:
+Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look ambiguously redundant and can be reformed eg Vurra, Uleppi, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc unless very special and meaningful (What you see is what you hear [WYSIWYH])! Diphthong clusters and other noteworthy phonetics include the following:
 
 a as in rat, for example leta-a
 
@@ -548,9 +548,9 @@ akpaku (n) chin
 
 aku (n) home; (v) cover, close usually from above
 
-aku ambo (n) city (literally big home), headquarters, place with a cathedral plus enough water for everyone, area that has over 500,000 dwellers and bigger than a municipality that has a lower limit of 100,000 inhabitants eg Kristofu mu Aku ambo Kinshasa-a! = Kristof has gone to Kinshasa City.
+aku ambo (n) city (literally big home), headquarters, place with a cathedral plus enough water for everyone, area that has over 500,000 dwellers and bigger than a municipality that has a lower limit of 100,000 inhabitants eg Kurisitofu mu Aku ambo Kinisasa-a! = Kristof has gone to Kinshasa City.
 
-akua (adv) at home eg Azi ma vutia, Boyka ni mvi akua. = After work, Boyka goes home.
+akua (adv) at home eg Azi ma vutia, Boyika ni mvi akua. = After work, Boyka goes home.
 
 akufi (n) yeast (also aku fi) eg Mukati 'ba ede akufi si. = Bread is made using yeast.
 
@@ -560,7 +560,7 @@ akuma (n) white ants you drum for before they come out from the ground
 
 akumanikuye (n, informal) generosity, selfless charity, givers never lack because karma comes back around
 
-akuruma (n) bread made from smashed white ants eg Dismasi ni akuruma nya. = Dismas is eating akuruma bread.
+akuruma (n) bread made from smashed white ants eg Disimasi ni akuruma nya. = Dismas is eating akuruma bread.
 
 akuza (adj) covered
 
@@ -698,7 +698,7 @@ Amuti Aro E'yo Onepi (n) National Drug Authority
 
 Amuti Kaluluni (n) Electoral Commission (also Elekitoro Komisoni) eg Ghana ma Amuti Kaluluni = Ghana's Electoral Commission
 
-Amuti Mupira Onepi Afrika-a (n) CAF
+Amuti Mupira Onepi Afurika-a (n) CAF
 
 Amuti Mupira Onepi Wudrikuru-a (n) FIFA
 
@@ -3766,7 +3766,7 @@ lamu (n) tarmac
 
 Landani (n) London, LDN eg Amaguru ni aa Landani-a. = Amaguru stays in London.
 
-Langa (n) Lugbara Kari Parliament eg Kristofa Yikii ni Langa ma Spika. = Christopher Yikii is the Speaker of the Lugbara Kari Parliament.
+Langa (n) Lugbara Kari Parliament eg Kurisitofa Yikii ni Langa ma Spika. = Christopher Yikii is the Speaker of the Lugbara Kari Parliament.
 
 langda (n) leisure forum for drinking traditional beer
 
@@ -6216,7 +6216,7 @@ sawa azia (n) lunch, 12 o'clock, noon, midnight (also yi ali, etu 6)
 
 sawa tambapi (n) time keeper
 
-Sawusi Afrika (n) Republic of South Africa (RSA) eg Sofi ni aa Sawusi Afrika-a. = Sophie stays in South Africa.
+Sawusi Afurika (n) Republic of South Africa (RSA) eg Sofi ni aa Sawusi Afurika-a. = Sophie stays in South Africa.
 
 sayansi (n) science
 
@@ -6324,7 +6324,7 @@ siosio (n) grasshopper with a big head
 
 sipageti (n) spaghetti, long and thin pasta eg Joana ni sipageti nya. = Joana is eating spaghetti.
 
-Sipeini (n) Spain eg Andresi Iniesita avi mupira Baselona ni azini Sipeini (be). = Andres Iniesta played soccer for Barcelona and Spain.
+Sipeini (n) Spain eg Andresi Iniesita avi mupira Baselona azini Sipeini ni. = Andres Iniesta played soccer for Barcelona and Spain.
 
 siperu (n) gaptoothed
 
@@ -6416,7 +6416,7 @@ Sulutani Isara (n) Sultan Isara, great Vurra chief who died on 26th July 1949
 
 suluwayiwayi (n) small donuts usually less than 2 centimetres in length and width
 
-suru (n) tribe, clan, nation, country, kingdom, culture eg Afrika ni tutuni suru ini. = Africa is mainly a black nation.
+suru (n) tribe, clan, nation, country, kingdom, culture eg Afurika ni tutuni suru ini. = Africa is mainly a black nation.
 
 suru ma e'yo (n) meeting as a clan to discuss difficulties
 
@@ -6626,7 +6626,7 @@ tu (adj) much; (v) climb, kick, dance eg Sakira ni ongo tu Matonge Disiko-a. = S
 
 tualu (adv) together eg Mukuwano "Industries" Kambala ni azi nga Ozuu Adriyi Arua be tualu. = Mukwano Industries Kampala works together with Ozuu Brothers Arua.
 
-tujari (n) business, trade (also biasara, tujara) eg Eli 2063 ka ca 'bo, Ongulumu Afrika ma Ticitani le tujari ma aci atrita koko. = By 2063, African Union wants trade to move freely.
+tujari (n) business, trade (also biasara, tujara) eg Eli 2063 ka ca 'bo, Ongulumu Afurika ma Ticitani le tujari ma aci atrita koko. = By 2063, African Union wants trade to move freely.
 
 tujari ru (n) trademark (also tujara ru)
 
@@ -6646,7 +6646,7 @@ tutua (n) motorcycle (also odrua, piki piki) eg Jeri ni tutua onzu. = Jerry is r
 
 tutuni (adv) mainly, mostly
 
-tuzu drile (adv) and above - said of ages (also muzu drile) eg Fabregasi avi Aseno timu okori ni desi eri eli 18 tuzu drile. = Fabregas played for Arsenal's first team when he was 18 years and above.
+tuzu drile (adv) and above - said of ages (also muzu drile) eg Faburegasi avi Aseno timu okori ni desi eri eli 18 tuzu drile. = Fabregas played for Arsenal's first team when he was 18 years and above.
 
 
 Uu [shares some words with Oo]
