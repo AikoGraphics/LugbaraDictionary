@@ -543,7 +543,7 @@ ajiru (adj) tasty, flavoured; blessed (also drilebaru), lucky eg Harieti ni ajir
 
 aju (n) spear, javelin; (v) insult using obscene words eg Shaka ma aju aliaru. = Shaka's spear is short.
 
-Ajua (n) great grandfather of the seven true Tara parishes in Maracha named after his seven grandchildren through Opodria (whose mother was given to him in Onduparaka) then Naye. In Ovisoni during his quest to find the source of Enyau River, Ajua paid brideprice for another wife who gave birth to Otu, the father of Vurra after whom a clan and county are named in western Arua District eg Ajua ni a'bi mba Tara ni woro. = Ajua is the real ancestor for the whole of Tara.
+Ajua (n) great grandfather of the seven true Tara parishes in Maracha named after his seven grandchildren through Opodria (whose mother was given to him in Onduparaka) then Naye. Ajua is also the forefather of Aliba Ojepi clan in Aroi (Ayivu). In Ovisoni during his quest to find the source of Enyau River, Ajua paid brideprice for another wife who gave birth to Otu, the father of Vura after whom a clan and county are named in western Arua District eg Ajua ni a'bi mba Tara ni woro. = Ajua is the real ancestor for the whole of Tara.
 
 aka (adj) big, large, enormous, grand, huge; (adv) deliberately, purposely, intentionally, knowingly; soften (said of fruits)
 
@@ -2413,7 +2413,7 @@ etatambua (n) frog-jumping
 
 etatangule (n) tadpole
 
-eti (n) buttocks; tamarind (more often iti); (prep) bottom; Mount Eti (also Iti or Wati)
+eti (n) buttocks, ass, nyash (also nyasi); tamarind (more often iti); (prep) bottom; Mount Eti (also Iti or Wati)
 
 eti e'do (v) invest, start up a business
 
@@ -2469,7 +2469,7 @@ ewaru (adj) difficult (also ewaewa, iwaru, owaowa) eg Fe eca ewaru tu mani mi le
 
 ewasi (n) elephant tusk, ivory
 
-ewe (v) sweep (also iwe, we) eg Bayi ni stowa ale ewe. = Bayi is sweeping the store floor.
+ewe (v) sweep (also iwe, we) eg Bayi ni sitowa ale ewe. = Bayi is sweeping the store floor.
 
 ewu (n) era, period, season (also mange)
 
@@ -2489,11 +2489,11 @@ e'yo alenia 'diyi (n) contents
 
 e'yo azi yo (phr) no other issue, no problem, no wahala
 
-e'yo bari (n) good news, gospel (also e'yo ba) eg Sharapova eri e'yo bari. = Sharapova heard good news.
+e'yo bari (n) good news, gospel (also e'yo ba) eg Sarapova eri e'yo bari. = Sharapova heard good news.
 
 e'yo drikulu (n) headlines (also e'yo drikulukulu)
 
-e'yo eceza (n) revelation eg "Ikinyang" isu e'yo eceza. = Ikinyang got a revelation.
+e'yo eceza (n) revelation eg Ikinyanga isu e'yo eceza. = Ikinyang got a revelation.
 
 e'yo eriza (n) listening (also erita), news especially on broadcast media
 
@@ -2595,9 +2595,9 @@ Fibonachi (n) Fibonacci sequence in Mathematics where each element is the sum of
 
 fifi (adj) cold
 
-filimu (n) film (also sinema) eg Joeli Okuyo Atiku (ru azini Prynsi) avi Waikilifu-i filimu "Battle of the Souls"-a. = Joel Okuyo Atiku (aka Prynce) played Wycliffe in the film Battle of the Souls.
+filimu (n) film (also sinema) eg Joeli Okuyo Atiku (ru azini Purinisi) avi Waikilifu-i filimu "Battle of the Souls"-a. = Joel Okuyo Atiku (aka Prynce) played Wycliffe in the film Battle of the Souls.
 
-filimu e'yo adaniri (n) documentary (also dokumentari, doku)
+filimu e'yo adaniri (n) documentary (also dokumenitari, doku)
 
 Filipino (n) Philippine citizen or national language of The Philippines
 
@@ -2727,7 +2727,7 @@ geria (adv) on the way (also giria)
 
 gerialu (n) oneway
 
-gerika (n) road (also geri, geriko) eg Idi Amini Gerika ni e'do Oilu Welu Odu Stesoni-a = Idi Amin Road starts at Oil Well Petrol Station.
+gerika (n) road (also geri, geriko) eg Idi Amini Gerika ni e'do Oilu Welu Odu Sitesoni-a = Idi Amin Road starts at Oil Well Petrol Station.
 
 Gerika Amvu'yaza Ombo Otuzu azini Ecuzu (n) Agricultural Production and Marketing (APM)
 
@@ -2787,7 +2787,7 @@ gosipo (n) gospel
 
 gu (v) roll, turn over; laugh eg Sarai gu. = Sarai laughed.
 
-Gugo (n) Google (also Googolu, Googo, Gugolu) eg Sagei Brini azini Lari Peji e'do Gugo ni. = Sergey Brin and Larry Page started Google.
+Gugo (n) Google (also Gugolu) eg Sagei Brini azini Lari Peji e'do Gugo ni. = Sergey Brin and Larry Page started Google.
 
 guke (n) trumpet used by boys and men in most of their dance (also guka), microphone
 
@@ -2803,7 +2803,7 @@ gurunya (n) type of yam, creeping plant that grows on other plants for support
 
 gurupu (n) group
 
-guta (n) laughter eg Hahaha, ata mba kirikiri! Wa, hahaha, e, hahaha!
+guta (n) laughter eg Hahaha, ata mba kirikiri! Wa, hahaha, ee, hahaha!
 
 gutiya (n) sack eg Dinitile je gutiya "Ndedra Stores"-a. =  Dintle bought a sack at Ndedra Stores.
 
@@ -2935,13 +2935,13 @@ i'data (n) appearance (also i'daza)
 
 i'di (n) porridge eg MUNGU mvu i'di ku. = GOD does not drink porridge.
 
-i'do (v) start, begin (also e'do) eg Aiko i'do i-ma studio "Mt." Wati Geri-a. = Aiko started his studio on Mt. Wati Road.
+i'do (v) start, begin (also e'do) eg Aiko i'do i-ma situdio "Mt." Wati Geri-a. = Aiko started his studio on Mt. Wati Road.
 
 i'dota (n) start, beginning (also i'doza)
 
 iere (adv) slowly (also e'yere)
 
-ifi (n) truth, reality, meaning, seed eg Korini Ekaru sa ifi Mutundwe-a. = Corinne Ekaru planted seeds in Mutundwe.
+ifi (n) truth, reality, meaning, seed eg Korini Ekaru sa ifi Mutunduwe-a. = Corinne Ekaru planted seeds in Mutundwe.
 
 ifi kokoru (adj) meaningless
 
@@ -3113,7 +3113,7 @@ iriti (adv) indefinitely; (n) cloud(s)
 
 iritro (adv, adj, pron) both
 
-irizori (adj) the second one (also irizo, irizuri) eg Danielu Arapu Moi ni andra Kenya ma suru drile irizori. = Daniel Arap Moi was Kenya's second president.
+irizori (adj) the second one (also irizo, irizuri) eg Danieli Arapu Moi ni andra Kenya ma suru drile irizori. = Daniel Arap Moi was Kenya's second president.
 
 isaku (n) sieve, container with holes at the bottom for filtering local salt or aitipa from ash
 
@@ -3919,7 +3919,7 @@ loma (n) rib
 
 loni (n) loan
 
-lonyi (n) wealth (also afa) eg Haji Kashi ma lonyi ci. = Hajji Cash has wealth.
+lonyi (n) wealth (also afa) eg Haji Kasi ma lonyi ci. = Hajji Cash has wealth.
 
 lonyi nyakuari (n) mammon, money (literally wealth on Earth)
 
@@ -4309,7 +4309,7 @@ mitingi (n) meeting
 
 mo (v) gobble
 
-mobailu sende (n) mobile money, MoMo (also sende simu si, momo, mobailu mane)
+mobailu sende (n) mobile money (also sende simu si, momo)
 
 mochari (n) mortuary (also jo avu tambazu)
 
@@ -4411,7 +4411,7 @@ mupesa (n) button on cloth
 
 mupira (n) football (also soka), ball, rubber, condom, tyre eg Davidi Obua avi mupira "Hearts" ni Sikotilandi-a. = David Obua played football for Hearts in Scotland.
 
-mupira pari (n) football field, pitch, stadium eg "Arua Prisons" ni avi Minisitri Alataniri be "Saferside" Mupira pari-a. = Arua Prisons is playing with Ministry of Health at Saferside Football Pitch.
+mupira pari (n) football field, pitch, stadium eg "Arua Prisons" ni avi Minisitri Alataniri be "Saferside" Mupira Pari-a. = Arua Prisons is playing with Ministry of Health at Saferside Football Pitch.
 
 mupira wereri (n) small ball
 
@@ -4483,7 +4483,7 @@ Naijeria (n) Nigeria, Naija, 9ja eg Kanu osi Naijeria-a. = Kanu was born in Nige
 
 naito (n) drum played at death dances in union with mare - a side blown trumpet whose gourd is smeared inside with bee wax
 
-namba (n) number eg Beti kini: Ipe mi namba! = Betty said: Pick your number!
+namba (n) number eg Beti Mupologoma kini: Ipe mi namba! = Betty Mpologoma said: Pick your number!
 
 nambi (n) type of Lugbara dance performed mainly by young women during traditional marriage
 
@@ -4587,7 +4587,7 @@ Ngilingili (n) short one, Pygmies or dwarfs of Ituri Forest
 
 ngiringiri (n) conflict, fighting, war, Gender Based Violence, GBV (also aco coza, vayolensi)
 
-ngo (v) sing eg Leila Kayondo ni ongo ngo Gresi Nakimera be. = Leila Kayondo is singing with Grace Nakimera.
+ngo (v) sing eg Leila Kayondo ni ongo ngo Guresi Nakimera be. = Leila Kayondo is singing with Grace Nakimera.
 
 ngoa (adv, conj) where eg Arisavini gba golo su avita alu ma alea ngoa? = Where did Arshavin score four goals in one match?
 
@@ -4595,7 +4595,7 @@ ngobo (adj) wound scab, peel off
 
 ngoli (n) sickle
 
-ngonde (adj) ready eg Peshi ni ngonde. = Pesh is ready.
+ngonde (adj) ready eg Pesi ni ngonde. = Pesh is ready.
 
 ngoni (adv, interj) how
 
@@ -4644,8 +4644,6 @@ no (v) roar
 Noa (n) Noah, righteous man who built an ark before the Flood that destroyed all evil creatures eg Noa ni Yafeti, Semi azini Hamu ma ati. = Noah is the father of Japheth, Shem and Ham.
 
 noi (adj) slow, sluggish
-
-Nosi Korea (n) North Korea
 
 noti (n) note
 
@@ -4843,7 +4841,7 @@ o'bini ku (adj) private, not for public, secretive (also mani a'dule)
 
 o'bita (n) trial
 
-o'biti (adv) morning (also o'bitisi, o'butisi in another dialect) eg Olivia Uganda ni "Host TV" ma programu-a o'biti si. = Oliviah Uganda is on Host TV's program in the morning.
+o'biti (adv) morning (also o'bitisi, o'butisi in another dialect) eg Olivia Uganda ni "Host TV" ma puroguramu-a o'biti si. = Oliviah Uganda is on Host TV's program in the morning.
 
 o'bo (n) boat (also oguru) eg Nakato ni o'bo-a. = Nakato is in a boat.
 
@@ -4897,7 +4895,7 @@ oda (v) pour
 
 Oda Geri (n) Oda Road, off Weatherhead Park Lane connecting to Wadriff Road near River Osu Bridge Mosque, Anyafio Model School and ABN Clinic found here
 
-Oda Klozi (n) Oda Close, off Weatherhead Park Lane next to Hunter's Nest heading to Desert Breeze Hotel
+Oda Geri opiza (n) Oda Close, off Weatherhead Park Lane next to Hunter's Nest heading to Desert Breeze Hotel
 
 ode (adj) young
 
@@ -5187,7 +5185,7 @@ okuku nyazari (n) turtle (edible)
 
 okule (n) transfeminine, like a woman eg Kaitilini Jena ni okule. = Caitlyn Jenner is a transfeminine.
 
-Okumbarindu (n) name meaning "A real wife is different"
+Okumbarindu (n) name meaning "A real woman (or wife) is different"
 
 Okuvu (n) place in Maracha meaning "from or with woman", Lugbara Church in Kinawataka - Mbuya started under a jambula tree in 1976 with eight members by Neria Olua, now St. Paul's Church of Uganda. Because of outreaches, other Lugbara churches emerged eg Beteli, Abiribani, Kagave, Namanve, Kajjansi, Namasuba, Buziga, Entebbe and St. Francis Chapel Makerere University (Over 24 COU points between Entebbe and Kakira by 2018)
 
@@ -5581,7 +5579,7 @@ orodri (n) profit, benefit, gain, use(fulness) eg Afa MUNGU ni le amavu ri, (eri
 
 orodriru (adj) profitable, gainful, beneficial
 
-oromi (n) nine eg Aseni Wenga nde kopo ku eli oromi engazu 2005 pere 2014. = Arsene Wenger did not win a cup for nine years since 2005 up to 2014.
+oromi (n) nine eg Ariseni Wenga nde kopo ku eli oromi engazu 2005 pere 2014. = Arsene Wenger did not win a cup for nine years since 2005 up to 2014.
 
 Oromo (n) Cushitic language (spoken in Ethiopia, Kenya, Somalia and Egypt), 3rd Most Spoken African Language
 
@@ -6399,7 +6397,7 @@ siwici (n) switch eg Maritini ikpa siwici. = Martin pressed the switch.
 
 Siwideni (n) Sweden eg Yofasi ni Siwideni-a. = Yofasi is in Sweden.
 
-sizoni (n) season (also wangi, mange) eg Danielu Kawesa nde "Coca-Cola Rated Next", Sizoni Alu. =  Daniel Kawesa won Coca-Cola Rated Next, Season One.
+sizoni (n) season (also wangi, mange) eg Danieli Kawesa nde "Coca-Cola Rated Next", Sizoni Alu. =  Daniel Kawesa won Coca-Cola Rated Next, Season One.
 
 so (v) gather, collect, together, prick, pierce
 
@@ -8042,7 +8040,7 @@ Feedback (Amazing World of Lugbara):
 
 8th year (Volume 8): 38,356;
 
-9th year (Volume 9): Published on Amazon Kindle, Lulu, Hugging Face and GitHub;
+9th year (Volume 9): Published on Amazon Kindle, Lulu (then deleted it), Hugging Face and GitHub;
 
 10th year (Volume 10): Returned to old URL..." - Google Analytics
 
@@ -8286,7 +8284,7 @@ Saved Pages [Peji tambari]
 
 Bookmark [Bukualo]
 
-History [E'yo agapi'bo/ Histori/ Adi]
+History [E'yo agapi'bo/ Hisitori/ Adi]
 
 Memory Card [Memori Kadi]
 
