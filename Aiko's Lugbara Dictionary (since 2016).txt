@@ -41,10 +41,10 @@ Lost in Translation (Dreamcast)
 
 
 Introduction:
-Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) after a South Sudanese Madi in Tennessee, USA (named Suzy) asked me via Facebook to teach her Luganda (so that she could understand her favourite Ugandan musicians eg Jackie Chandiru and Mowzey Radio), but dismissively wanted more than just the basic words I started the lessons with. While checking out a Luganda Dictionary at www.archive.org, I literally snapped because of what I had noticed about self-learning versus waiting for the teacher to teach during my school career. Reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination). It's a Lugbara Language Museum for historical, scientific and cultural research: Use Ctrl + F (key combination) or add this one-page electronic dictionary as a file to an AI chatbot to swiftly find any words you want! I'm only human and apologise in advance for any mistakes: I've cleaned thousands of errors by the way (realised a lot spiritually while proofreading). I was even tempted to delete all the data, but resilience convinced me to keep editing; therefore corrections and suggestions are always welcome through WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like the Tower of Babel language multiplication by YHWH in Genesis 11 and Galileans filled with the Holy Spirit at Pentecost amazingly speaking other languages in Acts 2:1-13)! Every knee shall bow and every tongue confess that: JESUS Christ is Lord [YESU Kurisito ni Opi] (Philippians 2:10-11)!
+Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) after a South Sudanese Madi in Tennessee, USA (named Suzy Abdelfarag) asked me via Facebook to teach her Luganda (so that she could understand her favourite Ugandan musicians eg Jackie Chandiru and Mowzey Radio), but dismissively wanted more than just the basic words I started the lessons with. While checking out a Luganda Dictionary at www.archive.org, I literally snapped because of what I had noticed about self-learning versus waiting for the teacher to teach during my school career. Reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination). It's a Lugbara Language Museum for historical, scientific and cultural research: Use Ctrl + F (key combination) or add this one-page electronic dictionary as a file to an AI chatbot to swiftly find any words you want! I'm only human and apologise in advance for any mistakes: I've cleaned thousands of errors by the way (realised a lot spiritually while proofreading). I was even tempted to delete all the data, but resilience convinced me to keep editing; therefore corrections and suggestions are always welcome through WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like the Tower of Babel language multiplication by YHWH in Genesis 11 and Galileans filled with the Holy Spirit at Pentecost amazingly speaking other languages in Acts 2:1-13)! Every knee shall bow and every tongue confess that: JESUS Christ is Lord [YESU Kurisito ni Opi] (Philippians 2:10-11)!
 
 Pronunciation Parameters:
-In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kya] and X [Eksa, Alamakanda in Aringa dialect] are not used (meaning only 24 can do on a keyboard), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoUth), Va, Wa, Wha, Ya, Yha, Za. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the ABC to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound; the standard consonant clusters in Lugbara are: DR, HW, MB, MV, ND, NDR, NJ, NG, NY, NZ and TR. Other diphthong clusters or noteworthy phonetics include the following:
+In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kaya] and X [Ekisa, Alamakanda in Aringa dialect] are not used (meaning only 24 can do on a keyboard), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoUth), Va, Wa, Wha, Ya, Yha, Za. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the ABC to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound; the standard consonant clusters in Lugbara are: DR, HW, MB, MV, ND, NDR, NJ, NG, NY, NZ and TR. Other diphthong clusters (or noteworthy phonetics) include the following:
 
 aa as in rat, for example leta-a
 
@@ -70,7 +70,7 @@ uu (preferably single U) as in chew, for example cuu (pronounced chu)
 
 z (letter Z becomes J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
-Simplified Lugbara (The foundational two-letter words below have more than 140 possible English meanings. Only letters Q and X are missing, but four new ones are added with an apostrophe representing the sound H) to make 28 sets of fives:
+Simplified Lugbara (The foundational two-letter words below have more than (28 letters times 5 vowels at the end equals) 140 possible English meanings:
 aa ae ai ao au
 ba be bi bo bu// 'ba 'be 'bi 'bo 'bu
 ca ce ci co cu
@@ -2215,7 +2215,7 @@ ekilizia (n) church, cathedral (also kanisa, kathidro)
 
 ekizibiti (n) exhibit, evidence
 
-eko stovu (n) eco stove that uses volcanic rock for cooking instead of charcoal or firewood, takes two years for the rock to burn out eg Sandra ni eko stovu ayu. = Sandra is using an eko stove.
+eko sitovu (n) eco stove that uses volcanic rock for cooking instead of charcoal or firewood, takes two years for the rock to burn out eg Sandra ni eko sitovu ayu. = Sandra is using an eko stove.
 
 ekosani coroni (n) ecosan (ecological sanitation) latrine, envirolet
 
@@ -2223,7 +2223,7 @@ eku (v) announce, make noise (also iku)
 
 ekuta (n) praise, noise, announcement (also ikuta, ekuza)
 
-Ekweta (n) Equator eg Yi ni aci ndundu Ekweta ma dria azini eri ma kala iri Koriolisi ma e'yo si. = Water moves differently on the Equator and its two sides because of Coriolis.
+Ekuweta (n) Equator eg Yi ni aci ndundu Ekuweta ma dria azini eri ma kala iri Koriolisi ma e'yo si. = Water moves differently on the Equator and its two sides because of Coriolis.
 
 ela (n) kind of thorny plant with hard orange fruits
 
@@ -2295,7 +2295,7 @@ endri (n) shade (also endrika) eg "Fat A" ri endri-a. = Fat A sat in the shade.
 
 endrilendri (n) shadow
 
-endru (n) vice, assistant, deputy (also undru) eg Silvano Munduni engazu Katri ni Anzenzea Endru Terego-a = Silvano Munduni from Katri is the Deputy Speaker in Terego.
+endru (n) vice, assistant, deputy (also undru) eg Silivano Munduni engazu Katri ni Anzenzea Endru Terego-a = Silvano Munduni from Katri is the Deputy Speaker in Terego.
 
 Endru (n) place in Arua
 
@@ -2391,7 +2391,7 @@ Eru (n) river between Mt. Liru and Wati, drains into Enyau
 
 Erua (n) name given by Kebu to Arua Hill
 
-Eruba (n) place near Odia Nyadri on the Nebbi Highway at the junction heading to Vurra, name given by Kebu during their migration meaning "Respect people, do not transgress"
+Eruba (n) place near Odia Nyadri on the Nebbi Highway at the junction heading to Vurra, name given by Kebu during their migration meaning "Respect people, do not transgress" (also Iruba)
 
 ese (n) grasshopper (also ise)
 
@@ -2547,7 +2547,7 @@ ezopi (n) daughters
 
 ezu (adj) long, tall; (v) multiply
 
-Ezuku (n) place in Vurra, where the Isara Memorial Cultural Community Library (IMCCL) Project is located and where the Centenary of Christianity in West Nile was celebrated by the Anglican Church of Uganda (2018), source of River Enyau
+Ezuku (n) place in Vurra between Ovisoni and URA Customs, location of the Isara Memorial Cultural Community Library (IMCCL) project and where the Centenary of Christianity in West Nile was celebrated by the Anglican Church of Uganda (2018), source of River Enyau
 
 ezuta (n) multiplication (also sometimes ezuza)
 
@@ -2583,7 +2583,7 @@ federo (n) federal state, federalism
 
 feki (n) fake (also feke, feke feke)
 
-fene (n) jackfruit eg Mugisha ni fene li. = Mugisha is cutting jackfruit.
+fene (n) jackfruit eg Mugisa ni fene li. = Mugisha is cutting jackfruit.
 
 fesibuku (n) facebook (also miletibuku) eg Andeku ni fesibuku-a ci. = Andeku is available on facebook.
 
@@ -2619,7 +2619,7 @@ foro (adj) grey (also foroforo or foroto); tilapia eg Akulo su bongo foroforo. =
 
 foto (n) photo (also i'da)
 
-fotokopi (n) photocopy eg Musa gba fotokopi "Makutano Junction" vu. = Moses made a photocopy near Makutano Junction.
+fotokopi (n) photocopy eg Musa gba fotokopi Makutano "Junction" vu. = Moses made a photocopy near Makutano Junction.
 
 fu (n) flower, (v) go out; fight, kill eg Leni ni fu gba. = Leni is drawing a flower.
 
@@ -2639,7 +2639,7 @@ funyu funyu (adj) in bits, fragmented
 
 fura (n) flour, powder (also pawuda)
 
-Furenzi (n) French (pronounced Furenji), 3rd Most Spoken Language from outside Africa after Arabic and English, Francais (also Furanse)
+Furenzi (n) French (pronounced Furenji), 3rd Most Spoken Language from outside Africa after Arabic and English, Francais (also Furanise)
 
 furufuru (n) lung eg Furufuru si 'ba ava se. = Lungs are for breathing.
 
@@ -2699,7 +2699,7 @@ gbanza (n) debt (also banza, deni, deno)
 
 gbata (n) phone call
 
-gbe (n) egg; fox that resembles a dog (also gbee, be, o'boloko), someone who steals village fowl and goats eg Amanya je augbe. = Amanya bought a chicken egg
+gbe (n) egg; fox that resembles a dog (also gbee, be, o'boloko), someone who steals village fowl and goats eg Ama au gbe yi nya Amanya be. = We are eating chicken eggs with Amanya.
 
 gbeta (n) vomit (also gbeza, beta)
 
@@ -2723,7 +2723,7 @@ gele (n) headgear
 
 geri (n) way, path (also gerika, geriko, giri, girika or giriko) eg YESU ni geri. = JESUS is the way.
 
-geria (adv) on the way (also giria)
+geria (adv) on the way (also giria) eg Hari ni geria. = Harry is on the way.
 
 gerialu (n) oneway
 
@@ -6255,7 +6255,7 @@ se (v) breathe, pull, flat(ten), level, smoke, (adj) elastic (also sese, pakadil
 
 Sebei (n) Sebei eg Chemutai ni Sebei. = Chemutai is a Sebei.
 
-sei (n) sword, dagger eg Dastani ma sei ci "Prince of Persia" (filimu)-a. = Dastan has a dagger in Prince of Persia (film).
+sei (n) sword, dagger eg Dasitani ma sei ci "Prince of Persia" (filimu)-a. = Dastan has a dagger in Prince of Persia (film).
 
 seiki (n) sheikh eg Seiki Zayedi = Sheik Zayed
 
