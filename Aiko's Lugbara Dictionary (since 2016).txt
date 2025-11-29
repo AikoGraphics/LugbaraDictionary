@@ -4933,7 +4933,7 @@ Odramacako (n) border town on the Maracha - DR Congo border reachable from Arua 
 
 Odravu (n) subcounty in Yumbe
 
-Odravu asea (n) Odravu Asea, village or cell in Arua between Dadamu and Oluko
+Odravuasea (n) Odravu Asea, village or cell in Arua between Dadamu and Oluko
 
 odre (n) urine eg Gaku mu odre su. = Gaku has gone to pour urine (/urinate).
 
