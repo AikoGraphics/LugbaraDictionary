@@ -4933,7 +4933,7 @@ Odramacako (n) border town on the Maracha - DR Congo border reachable from Arua 
 
 Odravu (n) subcounty in Yumbe
 
-Odravu asea (n) Odravu Asea, cell in Oluko Subcounty (Arua)
+Odravu asea (n) Odravu Asea, village or cell in Arua between Dadamu and Oluko
 
 odre (n) urine eg Gaku mu odre su. = Gaku has gone to pour urine (/urinate).
 
@@ -5096,6 +5096,8 @@ oguo (n) thief eg Sende oguo ni mu Aci inyupiku ri-a. = A money thief goes to He
 oguoei (n) chairman eg Draga ni oguoei. = Draga is chairman.
 
 oguru (n) boat (also o'bo)
+
+Ogurugu (n) place in Dadamu (Arua City) near Otokoa Market with a resort beach, village in Enugu State (Nigeria) where Igala is one of the ethnic communities
 
 oguta (n) laughter
 
@@ -5708,7 +5710,7 @@ oto (n) wild hare, domestic rabbit (also eto[o])
 
 otoko (n) anthill eg Eriki Adriko si buku erini omve "Otoko". = Eric Adriko wrote a book he called "Otoko".
 
-Otokoa Cuu (n) Otokoa Market, trading place near Oluko (Arua) through which you pass to get to Island Beach Resort (for a picnic, boat ride, fishing, music and drinks especially on Sundays)
+Otokoa Cuu (n) Otokoa Market, trading place near Dadamu (Arua) through which you pass to get to Island Resort Beach (for a picnic, boat ride, fishing, music and drinks especially on Sundays)
 
 otongolo (n) type of poisonous cassava tuber
 
