@@ -4933,6 +4933,8 @@ Odramacako (n) border town on the Maracha - DR Congo border reachable from Arua 
 
 Odravu (n) subcounty in Yumbe
 
+Odravu asea (n) Odravu Asea, cell in Oluko Subcounty (Arua)
+
 odre (n) urine eg Gaku mu odre su. = Gaku has gone to pour urine (/urinate).
 
 odre jo (n) bladder (literally urine house) eg Java ma odre jo ga a'dusiku mvu Koku Zero angiri. = Java's bladder filled up because he drunk a lot of Coke Zero.
@@ -5706,6 +5708,8 @@ oto (n) wild hare, domestic rabbit (also eto[o])
 
 otoko (n) anthill eg Eriki Adriko si buku erini omve "Otoko". = Eric Adriko wrote a book he called "Otoko".
 
+Otokoa Cuu (n) Otokoa Market, trading place near Oluko (Arua) through which you pass to get to Island Beach Resort (for a picnic, boat ride, fishing, music and drinks especially on Sundays)
+
 otongolo (n) type of poisonous cassava tuber
 
 otonoko (n) kind of bird with a very long neck
@@ -6353,6 +6357,8 @@ Silamu (n) Muslim(ah) eg Miriamu ni Silamu ma ru. = Miriam is a Muslim name.
 sile (n) missing teeth
 
 sileru (adj) toothless
+
+siliki (n) kicking game in which a bottle (filled with some water) is tied on a pole using a long string and hit in turns by preferably two opponents facing each other
 
 Silimu (n) AIDS (also Azo ondrindria niri, Azo Ambori [The Big Disease]) eg Fili Bongole Lutaya dra Silimu si. = Philly Bongole Lutaaya died of AIDS.
 
