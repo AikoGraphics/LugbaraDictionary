@@ -44,7 +44,7 @@ Introduction:
 Created painstakingly from scratch with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) after a South Sudanese Acholi-Madi in Tennessee, USA (named Suzy Abdelfarag [aka Mamur, Akema] who spoke fluent Arabic) asked me via Facebook to teach her Luganda (so that she could understand her favourite Ugandan musicians eg Jackie Chandiru and Mowzey Radio). Dismissively, she wanted more than just the basic words I started the lessons with, but while checking out a Luganda Dictionary at www.archive.org, I literally snapped because of what I had noticed about self-learning versus waiting for the teacher to teach during my school career. Reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination). It's a Lugbara Language Museum for historical, scientific and cultural research: Use Ctrl + F (key combination) or add this one-page electronic dictionary as a file to an AI chatbot to swiftly find any words you want! I'm only human and apologise in advance for any mistakes: I've cleaned thousands of errors by the way (realised a lot spiritually while proofreading). I was even tempted to delete all the data, but resilience convinced me to keep editing; therefore corrections and suggestions are always welcome through WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like Tower of Babel language multiplication by YHWH in Genesis 11 and Galileans filled with the Holy Spirit at Pentecost amazingly speaking other languages in Acts 2:1-13)! Every knee shall bow and every tongue confess that: JESUS Christ is Lord [YESU Kurisito ni Opi] (Philippians 2:10-11)!
 
 Pronunciation Parameters:
-In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kaya] and X [Ekasa, Alamakanda in Aringa dialect] are not used (meaning only 24 can do on a keyboard), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in yoUth), Va, Wa, Wha, Ya, Yha, Za. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the ABC to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound; the standard consonant clusters in Lugbara are: DR, HW, MB, MV, ND, NDR, NJ, NG, NY, NZ and TR. Other diphthong clusters (or noteworthy phonetics) include the following:
+In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kaya] and X [Ekasa, Alamakanda in Aringa dialect] are not used (meaning only 24 can do on a keyboard), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (which all sound like putting H after them though personal names omit the apostrophe). The 28 letters in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in soUnd), Va, Wa, Wha, Ya, Yha, Za. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the ABC to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound; standard consonant clusters in Lugbara are: DR, HW, M(G)B, MV, ND, NDR, NJ, NG, NY, NZ and TR. Other diphthong clusters (or noteworthy phonetics) include the following:
 
 aa as in rat, for example leta-a
 
@@ -6088,9 +6088,9 @@ ra (v) flow eg liquid, (adv, n) throughout the night, affirmative at the end of 
 
 Ragemu (n) suburb south of Arua City named Ragem, place along the Albert Nile between Pakwach and Rhino Camp eg Jesika mu Ragemu-a. = Jessica has gone to Ragem.
 
-Ragemu Bichi (n) canopied rivershed with meanders on River Enyau about 3 kilometres south of Arua City, half a kilometre from CEFORD Arua eg Bobu nya mukati towi azini i'bi iri Ragemu Bichi-a. = Bob ate five loaves of bread and two fish at Ragem Beach.
+Ragemu Bici (n) canopied rivershed with meanders on River Enyau about 3 kilometres south of Arua City, half a kilometre from CEFORD Arua eg Bobu nya mukati towi azini i'bi iri Ragemu Bici-a. = Bob ate five loaves of bread and two fish at Ragem Beach.
 
-ragibi (n) rugby eg Nyu Zilandi "All Blacks" ndeki Sipiringibokisi Ragibi-a. = New Zealand All Blacks beat Springboks in rugby.
+ragibi (n) rugby eg Nyu Zilandi "All Blacks" ndeki Sipiringbokisi Ragibi-a. = New Zealand All Blacks beat Springboks in rugby.
 
 rakaka (adv) (do sth) first, in advance (also raka) eg Mi ofe rakaka! = (You) first pay!
 
@@ -6282,7 +6282,7 @@ sati (n) shirt eg Eloni Masiki su sati ini. = Elon Musk wore a black shirt.
 
 sati ma wu (n) shirt sleeve (also sati ma wi)
 
-sawa (n) clock, watch, time (also saa, sa), moment, occasion, era eg Sawa ongo avizu Arua Chano-a ica 'bo. = Time for playing music on Arua Channel has arrived already.
+sawa (n) clock, watch, time (also saa, sa), moment, occasion, era eg Sawa ongo avizu Arua Cano-a ica 'bo. = Time for playing music on Arua Channel has arrived already.
 
 sawa azia (n) lunch, 12 o'clock, noon, midnight (also yi ali, etu 6)
 
@@ -6290,11 +6290,11 @@ sawa tambapi (n) time keeper
 
 Sawusi Afurika (n) Republic of South Africa (RSA) eg Sofi ni aa Sawusi Afurika-a. = Sophie stays in South Africa.
 
-sayansi (n) science
+sayanisi (n) science
 
 se (v) breathe, pull, flat(ten), level, smoke, (adj) elastic (also sese, pakadili)
 
-Sebei (n) Sebei eg Chemutai ni Sebei. = Chemutai is a Sebei.
+Sebei (n) Sebei eg Cemutai ni Sebei. = Chemutai is a Sebei.
 
 sei (n) sword, dagger eg Dasitani ma sei ci "Prince of Persia" (filimu)-a. = Dastan has a dagger in Prince of Persia (film).
 
@@ -6312,7 +6312,7 @@ selasa (n) slasher (also selesa)
 
 semutundu (n) type of fish
 
-sende (n) money (also mali, lonyi nyakuari) eg Burayani Whaiti fe 'ba pini sende biasara ngazu. = Bryan White gave people money for doing business.
+sende (n) money (also mali, lonyi nyakuari) eg Burayani Waiti fe 'ba pini sende biasara ngazu. = Bryan White gave people money for doing business.
 
 sende simu si (n) mobile money
 
@@ -6338,7 +6338,7 @@ Setefano (n) Stephen, Steven (also Sitefano)
 
 setilaiti (n) satellite
 
-si (conj) on, by, because of; (n) tooth, hailstone; (suffix) with, (v) write, knock; peel, build eg Huanga Mingi si "Solar City" Chaina-a. = Huang Ming built Solar City in China.
+si (conj) on, by, because of; (n) tooth, hailstone; (suffix) with, (v) write, knock; peel, build eg Huanga Mingi si "Solar City" Caina-a. = Huang Ming built Solar City in China.
 
 si dini (n) situation where someone smiled or teeth shone (but the heart was dark)
 
@@ -6360,7 +6360,7 @@ sile (n) missing teeth
 
 sileru (adj) toothless
 
-siliki (n) kicking game in which a bottle (filled with some water) is tied on a pole using a long string and hit in turns by preferably two opponents facing each other
+siliki (n) game in which a bottle (filled with some water) is tied on a pole using a long string and kicked in turns by preferably two opponents facing each other
 
 Silimu (n) AIDS (also Azo ondrindria niri, Azo Ambori [The Big Disease]) eg Fili Bongole Lutaya dra Silimu si. = Philly Bongole Lutaaya died of AIDS.
 
@@ -6592,7 +6592,7 @@ teketeke (adv) completely
 
 tekinoloji (n) technology eg Baidu ni tekinoloji ayu wudrikuru mbazaru ri ede ewakoko. = Baidu uses technology to make a complex world easier.
 
-Televizoni (n) Television, TV (also Tivi, Tava) eg Ongo ni avi Wesitinailu Televizoni-a = Music is playing on Westnile Television.
+Televisoni (n) Television, TV (also Tivi, Tava, Televizoni) eg Ongo ni avi Wesitinailu Televisoni-a = Music is playing on Westnile Television.
 
 tena (conj) yet (also desu), (n) tennis, tenor voice eg Sitefi Grafu ni tena avi. = Steffi Graf is playing tennis.
 
@@ -6608,7 +6608,7 @@ Teso (n) tribe in eastern Uganda settled mainly in Soroti and Serere plus other 
 
 teta (n) waiting, collecting white ants
 
-ti (adj) in vain; (n) cow, heads of cattle; sound of dropping liquid, hang (oneself); mouth (also tile), language, dialect, periphery, edge, opening, proximity, adjacency; (v) dress smartly, thatch, sign, press a button, leap, hop; give birth, deliver, replicate, multiply, reproduce eg Ti Yuganda-a lu towi: Bantu, Luo, Karamojong-Ateso, Madi-Lugbara azini Azia. = There are only five languages in Uganda: Bantu, Luo, Karamojong-Ateso, Madi-Lugbara and Asian.
+ti (adj) in vain; (n) cow, heads of cattle; sound of dropping liquid, hang (oneself); mouth (also tile), language, dialect, periphery, edge, opening, proximity, adjacency; (v) dress smartly, thatch, sign, press a button, leap, hop; give birth, deliver, replicate, multiply, reproduce eg Ti Yuganda-a lu towi: Bantu, Luo, Karamojong-Ateso, Madi-Lugbara azini Ezia. = There are only five languages in Uganda: Bantu, Luo, Karamojong-Ateso, Madi-Lugbara and Asian.
 
 ti aroni (n) cow, heifer
 
@@ -6650,7 +6650,7 @@ tisi (adv) orally, by mouth
 
 tita (n) hanging
 
-tivi (n) television, TV set (also televizoni) eg "John Logie Baird" kini: Mi anyu tivi ku! = John Logie Baird said: Don't switch off the television!
+tivi (n) television, TV set (also televisoni) eg "John Logie Baird" kini: Mi anyu tivi ku! = John Logie Baird said: Don't switch off the television!
 
 tivi angu imve (n) TV white space
 
@@ -6704,7 +6704,7 @@ truzaru (n) forgiven, 4GVN
 
 tu (adj) much; (v) climb, kick, dance eg Sakira ni ongo tu Matonge Disiko-a. = Shakira is dancing in Matonge Disco.
 
-tualu (adv) together eg Mukuwano "Industries" Kambala ni azi nga Ozuu Adriyi Arua be tualu. = Mukwano Industries Kampala works together with Ozuu Brothers Arua.
+tualu (adv) together eg Mukuwano "Industries" Kambala ni azi nga Ozu Adriyi Arua be tualu. = Mukwano Industries Kampala works together with Ozuu Brothers Arua.
 
 tujari (n) business, trade (also biasara, tujara) eg Eli 2063 ka ca 'bo, Ongulumu Afurika ma Ticitani le tujari ma aci atrita koko. = By 2063, African Union wants trade to move freely.
 
@@ -6738,7 +6738,7 @@ Uhuru Geri (n) Independence Road starts from the Arua Hill Roundabout and extend
 
 Ukureini (n) Ukraine (also Yukureini) eg Muzungu azi enga Ukureini-a imu olokoto ma odre nda Wesiti Nailu-a. = Some muzungu came from Ukraine to search for the urine of a gecko in West Nile.
 
-Ulaya (n) Europe eg Floriani ni Ulaya-a. = Florian is in Europe.
+Ulaya (n) Europe eg Fuloriani ni Ulaya-a. = Florian is in Europe.
 
 Ulepi (n) Uleppi, place in Upper Madi between Bondo and Okollo
 
@@ -6876,7 +6876,7 @@ we (v) dust, clean off dust, sweep eg Emi we emi yofe si! = Sweep yourselves wit
 
 webusaiti (n) website eg Tabule zi i-ma webusaiti. = Tabule opened his webusaiti.
 
-Wenreko (n) WENRECo, West Nile Rural Electrification Company since 2003 with the slogan "Diza - Powering West Nile", nicknamed "Wasreco" in Arua because of frequent loadshedding but still used to be incredibly more efficient than Umeme or Aggreko in KLA while using noisy petrothermal generation from Osu Village for 18 constant hours until midnight before Nyagak Hydro Dams
+Wenireko (n) WENRECo, West Nile Rural Electrification Company since 2003 with the slogan "Diza - Powering West Nile", nicknamed "Wasreco" in Arua because of frequent loadshedding but still used to be incredibly more efficient than Umeme or Aggreko in KLA while using noisy petrothermal generation from Osu Village for 18 constant hours until midnight before Nyagak Hydro Dams
 
 were (adj) little, small, short (also gakanya, gakandia, alia, werea)
 
@@ -6900,7 +6900,7 @@ wiri wiri (n) sling, whirlpool
 
 wita (n) spit(tle)
 
-wizi (n) thread eg Chi-Chi Guweno ni wizi ozi Ovujo-a. = Chi-Chi Gweno sells threads in Ovujo.
+wizi (n) thread eg Ci-Ci Guweno ni wizi ozi Ovujo-a. = Chi-Chi Gweno sells threads in Ovujo.
 
 woko (n) direction, part, side (also kalati, boko) eg Woko 'dole = This side
 
