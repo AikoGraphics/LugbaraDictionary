@@ -2219,6 +2219,8 @@ ekile (adj) like
 
 ekilizia (n) church, cathedral (also kanisa, katidro)
 
+ekiwinokisi (n) equinox, one of two days in a year when day and night have equal lengths everywhere on Earth (also ikiwinokisi)
+
 ekizibiti (n) exhibit, evidence
 
 eko sitovu (n) eco stove that uses volcanic rock for cooking instead of charcoal or firewood, takes two years for the rock to burn out eg Sandra ni eko sitovu ayu. = Sandra is using an eko stove.
@@ -3841,7 +3843,7 @@ lejo (n) index finger (also lejoa)
 
 Leju (n) headquarters of Terego District effective 1st July 2020
 
-leleo (n) morning star
+leleo (n) morning star (also lelewu)
 
 Lematia (n) name meaning "They love me on the lips" eg Otelulu Vegasi ma ru adari Lematia. = Otelul Vegas's real name is Lematia.
 
@@ -4714,6 +4716,8 @@ nyanya (n) tomato(es) eg Helena ni nyanya oli. = Helen is cutting tomatoes.
 nyanyakubi (n) black and yellow-striped caterpillar with red head
 
 nyanyu nyanyu (adj) flickering, intermittent, (n) blinking lights, indicators
+
+nyaraka'dio (n) shooting star
 
 nyaruganda (n) someone who is half Munyarwanda and half Muganda
 
@@ -6068,9 +6072,9 @@ pulatifomu (n) social media platform
 
 puleti (n) plate (also saani)
 
-puremari (n) primary (also purimari) eg "Cynthia" la P3 Arua Hilu Puremari-a. = Cynthia studied P3 at Arua Hill Primary.
-
 purezideniti (n) president (also suru drile, purezidendi) eg Donaludi Tramupu ni Amerika ma purezideniti. = Donald Trump is America's president.
+
+purimari (n) primary (also puremari) eg "Cynthia" la P3 Arua Hilu Purimari-a. = Cynthia studied P3 at Arua Hill Primary.
 
 purofeta (n) prophet (also nabi)
 
@@ -6160,7 +6164,7 @@ ro (v) carry a heavy object, curse, miss
 
 robi (n) hippo
 
-robia (n) finance, income eg Ari ni i-robia nda "Zebra Corner"-a. = Ari looks for his income at Zebra Corner.
+robia (n) finance, income eg Ari ni i-robia nda Zebura Kona-a. = Ari looks for his income at Zebra Corner.
 
 roboti (n) robot
 
@@ -6176,7 +6180,7 @@ rolekisi (n) rollex, Ugandan delicacy of fried eggs rolled inside a chapati and 
 
 Roma (n) Rome, capital of Italy
 
-Romania (n) country in Europe eg Chivu enga Romania-a. = Chivu is from Romania. 
+Romania (n) country in Europe eg Civu enga Romania-a. = Chivu is from Romania. 
 
 rombolo (n) mistake
 
@@ -6204,7 +6208,7 @@ ruduku (n) forest (also oce, angu patiru, obibi)
 
 rugbu (adv) abruptly, (n) noise made when something falls (also rubu)
 
-Rukiga (n) language of Bakiga Tribe from southwest Uganda (also Ruchiga)
+Rukiga (n) language of Bakiga Tribe from southwest Uganda (also Ruciga)
 
 rukuza (n) popularity, fame, renown
 
@@ -6266,7 +6270,7 @@ San Siro (n) video hall in Osu Village formerly found less than half a kilometre
 
 sanduku (n) suitcase
 
-Sanduku Azizaniri (n) Ark of the Covenant (also Sanduku ADROUNI 'bani azita ta mbazuri) eg Ronaludi Wyati esu Sanduku Azizaniri Gologotha 'Be wereari ma eti-a. = Ronald Wyatt discovered the Ark of the Covenant under Golgotha Hill.
+Sanduku Azizaniri (n) Ark of the Covenant (also Sanduku ADROUNI 'bani azita ta mbazuri) eg Ronaludi Wuyati esu Sanduku Azizaniri Gologotha 'Be wereari ma eti-a. = Ronald Wyatt discovered the Ark of the Covenant under Golgotha Hill.
 
 sandukua sandukua (v) community (village) savings
 
@@ -6370,11 +6374,13 @@ silingi (n) shilling(s), Kenyan or Ugandan or Tanzanian (East African) forex exc
 
 silipa (n) slipper(s) (also afa su pa-a) eg Ojangole su silipa. = Ojangole is wearing slippers.
 
-silo (n) silo(s) eg Riela ni silo ede. = Riela makes silos.
+silo (n) silo (also ero) eg Riela ni silo ede. = Riela makes silos.
 
 silowu mo (n)  slow motion (also acita e'yere)
 
 simatifoni (n) smartphone eg Muni ni Samusanga simatifoni ayu. = Moon uses a Samsung smartphone.
+
+simatitivi (n) smart television eg Remi ni simatitivi ne. = Remy is watching a smart television.
 
 simbili (n) dagger, woman's knife for weaving or making various Lugbara handicrafts like kobi, koyia and tiko (also okuilia)
 
@@ -6462,6 +6468,8 @@ sokolo (n) thin line inside cassava tuber, sth to do with sitting
 
 sola (n) solar eg Oyako ni sola ayu. = Oyako uses solar.
 
+solusitisi (n) solstice, shortest or longest day in the year
+
 solusoni (n) ORS first aid dehydration solution for running stomach made by mixing half teaspoon of salt, one cup of water and two teaspoons of sugar
 
 Somali (n) Somali(an), sb or sth from Somalia
@@ -6480,7 +6488,7 @@ su (n) four, (v) put in, score, hurt, pain; wear, put on, pour eg water, to have
 
 Sudani (n) country north of Uganda and South Sudan, zone in Mvara Cell near where Emmanuel Cathedral is located eg Julieti imvi Sudani-a risi. = Juliet returned from Sudan.
 
-sufaria (n) saucepan (also sufuria, sopiria)
+sufaria (n) saucepan (also sufariya, sufuria, sopiria)
 
 suhuru (n) suhoor, iftar, Muslim breakfast before sunrise during Ramadan (also futuru)
 
