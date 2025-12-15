@@ -423,7 +423,7 @@ ageyi te (v) take care, wait on, watch over sb or sth
 
 ageyitema (n) watch, watchfulness, security (also ageitema, ageyiteza, agei teza, sekuriko)
 
-agi (n) friend (also agyi, alipi) eg Abu Bakari ni andra Muhamadi ma Agi Ndepiri. = Abu Bakr was sometime ago Muhammad's Best Friend.
+agi (n) friend (also alipi) eg Abu Bakari ni andra Muhamadi ma Agi Ndepiri. = Abu Bakr was sometime ago Muhammad's Best Friend.
 
 ago (n) male animal, husband, boyfriend; pumpkin (also nzu), totem for Logiri eg Mao ni eri ma ago. = Mao is her husband.
 
@@ -457,7 +457,7 @@ agu ase lipiri (n) grasscutter; grasscutters eg WENGA ni amuti agu ase lipi Wesi
 
 agu azoru (n) patient; patients
 
-agu bulogu sipiri (n) blogger (also bloga)
+agu bulogu sipiri (n) blogger (also buloga)
 
 agu 'ba ni oni tu (n) famous person, celebrity; famous people
 
@@ -543,7 +543,7 @@ Ajira (n) marketplace in Maracha East Constituency, subcounty that was formed fr
 
 ajiru (adj) tasty, flavoured; blessed (also drilebaru), lucky eg Harieti ni ajiru. = Harriet is blessed.
 
-aju (n) spear, javelin; (v) insult using obscene words eg Shaka ma aju aliaru. = Shaka's spear is short.
+aju (n) spear, javelin; (v) insult using obscene words eg Saka ma aju aliaru. = Shaka's spear is short.
 
 Ajua (n) great grandfather of the seven true Tara parishes in Maracha named after his seven grandchildren through Opodria (whose mother was given to him in Onduparaka) then Naye. Ajua is also the forefather of Aliba Ojepi clan in Aroi (Ayivu). In Ovisoni during his quest to find the source of Enyau River, Ajua paid brideprice for another wife who gave birth to Otu, the father of Vura after whom a clan and county are named in western Arua District eg Ajua ni a'bi mba Tara ni woro. = Ajua is the real ancestor for the whole of Tara.
 
@@ -1089,7 +1089,7 @@ atoza (adj) stale
 
 atri (v) stop, block
 
-atu (v) kick; squat eg E ri vaa, mi atu ku! = Sit down, do not squat!
+atu (v) kick; squat eg Iri vaa, mi atu ku! = Sit down, do not squat!
 
 atuluku (n) fireplace
 
@@ -1115,7 +1115,7 @@ avakoko (adj) without or lacking desire for
 
 avaliza (n) rest, retirement, relaxation
 
-avaliza isupi'bo (adj) retired (also ava liza isupira, ava lipiri) eg Imbapi ava liza isupi'bo ri taya. = The retired teacher sat leaning (back).
+avaliza isupi'bo (adj) retired (also ava liza isupira, ava lipiri) eg Imbapi avaliza isupi'bo ri taya. = The retired teacher sat leaning (back).
 
 avata (n) avatar
 
@@ -1153,7 +1153,7 @@ awa'dini (adv) like this, therefore
 
 awalanza (n) small basin (pronounced awalanja)
 
-awata (n) quarrel, separation, division
+awata (n) quarrel, separation, division, dispute
 
 Awata (n) name given by Kebu during their migration to a place currently called Ewuata, means "Let us separate or depart"
 
@@ -1382,6 +1382,8 @@ be (prep) with eg "Mu Oli Be (filimu)" efu eli 1939 si. = "Gone With The Wind (f
 Beliji (n) Belgium (also Beluji)
 
 bendera (n) flag (also bendere), presidential standard eg Romario enga Burazilu ma bendera 'bua. = Romario raised Brazil's flag up.
+
+Beriya (n) Berea (also Beroya)
 
 beseni (n) basin (also bafu)
 
@@ -2043,7 +2045,7 @@ duruduru (adj) with mental inaptitude
 
 'dini (adv) like this, correct, true
 
-'disi (adv) with this eg Aki (Chinedu Ikedieze) azini "Pawpaw" (Osita Iheme) Ediofe-a sawa 'disi! = Aki (Chinedu Ikedieze) and Pawpaw (Osita Iheme) are in Ediofe right now!
+'disi (adv) with this eg Aki (Cinedu Ikedieze) azini Popo (Osita Iheme) Ediofe-a sawa 'disi! = Aki (Chinedu Ikedieze) and Pawpaw (Osita Iheme) are in Ediofe right now!
 
 'do (adv) here (also 'dole); affirmative (also ro)
 
@@ -2061,7 +2063,7 @@ eba (n) buck
 
 Ebea (n) name meaning "In prematurity"
 
-ebe'de (n) tea without sugar, self service (also ibe'de, ebere) eg Ebe'de chi. = There is tea without sugar.
+ebe'de (n) tea without sugar, self service (also ibe'de, ebere) eg Ebe'de ci. = There is tea without sugar.
 
 Ebeneza (n) Ebenezer Show or Overnight on New Year's Day in Arua City
 
@@ -2133,7 +2135,7 @@ edro (n) rat (also edroo, idro, odro), totem for Terego Clan, edible rats (inclu
 
 edu (adj) thick, heavy
 
-e'da (n) picture, diagram, photograph (also foto, picha), illustration (also i'da) eg Leonarido Da Vinici ni e'da gba rangi si. = Leonardo Da Vinci is painting a picture.
+e'da (n) picture, diagram, photograph (also foto, pica), illustration (also i'da) eg Leonarido Da Vinici ni e'da gba rangi si. = Leonardo Da Vinci is painting a picture.
 
 e'da amve (v) expose
 
@@ -2231,7 +2233,7 @@ eku (v) announce, make noise (also iku)
 
 ekuta (n) praise, noise, announcement (also ikuta, ekuza)
 
-Ekuweta (n) Equator eg Yi ni aci ndundu Ekuweta ma dria azini eri ma kala iri Koriolisi ma e'yo si. = Water moves differently on the Equator and its two sides because of Coriolis.
+Ekuweta (n) Equator (also Ekueta) eg Yi ni aci ndundu Ekuweta ma dria azini eri ma kala iri Koriolisi ma e'yo si. = Water moves differently on the Equator and its two sides because of Coriolis.
 
 ela (n) kind of thorny plant with hard orange fruits
 
@@ -2570,6 +2572,8 @@ fakini (adj, adv) absolutely messed up
 fala (n) bone (also falako or coko)
 
 faleko ondriza (n) polio (also falako ondriza)
+
+faliko ngukua (n) backbone
 
 Fama (n) FM, Frequency Modulation eg 94.1 (Kali-oromi-drini-su, du alu) Nailu Fama = 94.1 (Ninety-four, point one) Nile FM
 
@@ -4121,7 +4125,7 @@ manya (n) monitor lizard, alligator
 
 mapu (n) map
 
-mara (n) glass, window (also derisa, dinisa), mirror, spectacles, goggles, sunglasses, shades
+mara (n) glass, window (also derisa, dinisa), mirror, spectacles, goggles, (eye)glasses, shades eg Asanzeru su Aviata etumara. = Asanzeru wore Aviator sunglasses.
 
 Maraca (n) Maracha, Lugbara clan represented by a grasshopper or locust emblem, jurisdiction less than an hour by car north of Arua City with headquarters in Nyadri Town, became independent as a district from a 2006 merger with Terego which returned to Arua in 2010, starts after Lokiragodo, east of DR Congo, south of Koboko, southwest from Yumbe, west of Terego, represented by the initials MRC, village in Dadamu Subcounty of Arua District near Arua Airport
 
@@ -5970,7 +5974,7 @@ parapara (adj, adv) stumbling, unsteadily
 
 parasetamo (n) paracetamol, Panadol (also Panadolu)
 
-pari (n) mat made from papyrus, place
+pari (n) mat made from papyrus, place, yard
 
 pari alipi ali enyiriko ma rua (n) flesh marks
 
@@ -6516,6 +6520,8 @@ sukulu fizi (n) school fees
 
 sukuma wiki (n) spinach eg Popayi ni sukuma wiki nya okpo isuzu. = Popeye eats spinach to get power.
 
+sukuta (n) scooter
+
 Sulutani Isara (n) Sultan Isara, great Vurra chief who died on 26th July 1949
 
 suluwayiwayi (n) small donuts usually less than 2 centimetres in length and width
@@ -6537,6 +6543,10 @@ sururu (n) mattock, pick axe, metal tool with two pointed ends (one sharper) for
 suta (n) pain (also suza)
 
 suti (n) suit eg Kawunda suti = (Kenneth) Kaunda suit
+
+Suwisi (n) Suisse, citizen of Switzerland
+
+Suwitizalandi (n) Switzerland
 
 suza (n) pour(ing), urination (also odre suza), Rwanda-Rundi kunyaza, Ugandan kachabali, Western Jazz, female ejaculation
 
