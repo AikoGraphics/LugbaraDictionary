@@ -96,7 +96,7 @@ wa we wi wo wu// 'wa 'we 'wi 'wo 'wu
 ya ye yi yo yu// 'ya 'ye 'yi 'yo 'yu
 za ze zi zo zu
 
-The Old Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg o'du can mean day, thigh, omen, leopard; etc. However, New words keep being added to the existing language eg simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc while others are pronounced differently eg agu, agupi, etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [ ] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups eg Amanga votiyi 'be minira = Ama nga voti yi 'be mini ra [We will cast votes for you surely]. Short forms include: Ma mu ku = A mu ku [I'm not going]; Mi nya chapati osu si = I nya chapati osu si [You eat chapati with beans]...
+The Old Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg o'du can mean day, thigh, omen, leopard; etc. However, New words keep being added to the existing language eg simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc while others are pronounced differently eg agu, agupi, etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [ ] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups eg Amanga votiyi 'be minira = Ama nga voti yi 'be mini ra [We will cast votes for you surely]. Short forms include: Ma mu ku = A mu ku [I'm not going]; Mi nya capati osu si = I nya capati osu si [You eat chapati with beans]...
 
 Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look ambiguously redundant and can be reformed eg Vurra, Uleppi, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc unless very special and meaningful (What you see is what you hear [WYSIWYH]).
 
@@ -409,19 +409,19 @@ agbatara (n) debate, discussion eg Noeli ni agbatara-a. = Noel is at the debate.
 
 Agbinika Yikuru (n) waterfalls on River Kochi granitic rockbed of about 30 metres with natural trees and forest reserve suitable for picnic activities located in Romogi (Yumbe)
 
+agei te (v) take care, wait on, watch over sb or sth (also ageyi te)
+
 ageia (n) in sb or sth's proximity eg Remi ri ma ageia. = Remy sat next to him.
 
 ageini (n) the neighbouring area (also ageyini)
+
+ageitema (n) watch, watchfulness, security (also ageyitema, ageyiteza, agei teza, sekuriko)
 
 agele (n) penis, male private part (also rua agupini, anza)
 
 agele dri (n) penis foreskin
 
 agele dri edeza (n) circumcision (agele dri liza)
-
-ageyi te (v) take care, wait on, watch over sb or sth
-
-ageyitema (n) watch, watchfulness, security (also ageitema, ageyiteza, agei teza, sekuriko)
 
 agi (n) friend (also alipi) eg Abu Bakari ni andra Muhamadi ma Agi Ndepiri. = Abu Bakr was sometime ago Muhammad's Best Friend.
 
@@ -591,7 +591,7 @@ akuruma (n) bread made from smashed white ants eg Disimasi ni akuruma nya. = Dis
 
 akuza (adj) covered
 
-ala (adj) clean, neat, smart, good (also alaru), fine (maganda in Filipino); (n) paste from groundnuts or simsim (also odi); (v) put across, season food eg Yosa ala i'bi odi si. = Jhosa seasoned the fish with groundnut paste.
+ala (adj) clean, neat, smart, good (also alaru), nice, fine (maganda in Filipino); (n) paste from groundnuts or simsim (also odi); (v) put across, season food eg Yosa ala i'bi odi si. = Jhosa seasoned the fish with groundnut paste.
 
 ala pititi (adj) very good
 
@@ -677,7 +677,7 @@ Aluruti (n) Alur language
 
 alutukubi (n) creeping greens
 
-aluza(ru) (adj) tasty eg Olanya kini: Rolekisi chapati ni aluza! = Olanya said: Rollex chapati is tasty!
+aluza(ru) (adj) tasty eg Olanya kini: Rolekisi capati ni aluza! = Olanya said: Rollex chapati is tasty!
 
 ama (pron) we, us; (v) assess, judge, feel
 
@@ -1157,7 +1157,7 @@ awata (n) quarrel, separation, division, dispute
 
 Awata (n) name given by Kebu during their migration to a place currently called Ewuata, means "Let us separate or depart"
 
-awi (n) heritage; (v) remain eg MakAlista ma mva asizuri awi akua a'dule. = McAllister's last child stayed home alone.
+awi (n) heritage; (v) remain eg MakAlisita ma mva asizuri awi akua a'dule. = McAllister's last child stayed home alone.
 
 awita (n) things the deceased leaves behind, heritage; staying back, delay, remainder (also awiza)
 
@@ -1197,7 +1197,7 @@ ayalako (n) torn clothes
 
 ayi (n) wet season
 
-Ayi (n) river in Maracha
+Ayi (n) river in Maracha before reaching Nyadri
 
 ayia (n) mother (also anzi andri); wilderness; west direction, because it was believed that the west was a wilderness with few people and unknown things (also etu ni 'deria, orule) eg Ayia ma ndu yo! = There is no other mother! [Lugbara Proverb]
 
@@ -1209,7 +1209,7 @@ ayiko (n) happiness (also nyonja), happyness, happy-iness (Where I come from, ha
 
 Ayiko (n) male-given name, direct opposite of C[h]andi), cell in Pajulu, place south of Maracha eg Ayiko ni Osubo ma mvi. = Ayiko is Osubo's son.
 
-Ayikobua (n) male-given name meaning "Happiness is in Heaven (up or in the grave)", similar to Chandinyakua meaning "Sadness is on earth"
+Ayikobua (n) male-given name meaning "Happiness is in Heaven (up or in the grave)", similar to Candinyakua meaning "Sadness is on earth"
 
 ayikoru (adj) happy eg E ka aa ayikoru azini ini ci, isa mi dri! = If you're happy and you know it, clap your hands!
 
@@ -1437,7 +1437,7 @@ biringanya (n) eggplant eg Tikiva ni biringanya a'di. = Tikvah is cooking eggpla
 
 birisi (n) mat (also mukeka)
 
-bisikiti (n) biscuit (also bisikiti) eg "Munchies" yi bisikiti. = Munchies are biscuits.
+bisikiti (n) biscuit (also bisikuiti) eg "Munchies" yi bisikiti. = Munchies are biscuits.
 
 bisopu (n) bishop
 
@@ -1479,7 +1479,7 @@ bowaholu (n) borehole (also boholu, semenikia?)
 
 BTN (abbr) Bornfree Technologies Network (Registered as UHF 23 by Uganda Communications Commission), the pioneer TV station in West Nile since 2003 which was first located on Awudele Crescent in Anyafio before moving to Arua Hill in 2015 (also Ba-Ta-Na), affiliate TV station (UHF 61) on Naguru Hill in Kampala eg Rasidi ni "BTN TV" ne. = Rashid is watching BTN Television.
 
-Bua (n) male-given name meaning "Up" eg Chalisi ma ru aziri Bua. = Charles's other name is Bua.
+Bua (n) male-given name meaning "Up" eg Calisi ma ru aziri Bua. = Charles's other name is Bua.
 
 Buda (n) Buddha
 
@@ -1681,7 +1681,7 @@ cagua (n) body-scrubbing bath sponge (also chagua, word borrowed from Swahili)
 
 cai (n) tea shrub, tea leaves (pronounced chai) eg Ije cai na, mi alu isu ajekoko! = Buy three tea(cup)s, you get one free!
 
-Caina (n) China (also Chaina) eg Yangiyanga osi Caina-a. = Yangyang was born in China.
+Caina (n) China (pronounced Chaina) eg Yangiyanga osi Caina-a. = Yangyang was born in China.
 
 caja (n) charger
 
@@ -1691,7 +1691,7 @@ cali (n) person, lad,
 
 Cali (n) Charlie, Charles (pronounced Chali, also Calia, Calisi)
 
-calo (n) village
+calo (n) village eg Calo 'di ma ru Yesucara. = This village is called "JESUS is enough".
 
 camupali (n) footwear (also cambali)
 
@@ -1705,13 +1705,13 @@ Candiru (n) female-given name (also written Chandiru) eg Leila Candiru ni ongo n
 
 cano (n) channel (pronounced chano, also canolu) eg "GOtv" ma cano dakitari pini ci? = Does GOtv have a channel for doctors?
 
-capati (n) chapati eg Rozi ni capati ide. = Rose is making chapati.
+capati (n) chapati eg Topu je capati Baroluzi-a. = Topu bought chapati at Barolls.
 
 capirisi (adj) just enough eg Parila ma golo ndri capirisi. = Parlour's goal is beautiful enough.
 
 caputa (n) chapter, ch. eg Luyunibaga e'do caputa o'di. = Ljungberg started a new chapter.
 
-carani (n) sewing machine (pronounced charani)
+carani (n) sewing machine (pronounced charani) eg 'Ba yi carani ayuza oni Mungufeni Fawundesoni-a. = People learn how to use a sewing machine at Mungufeni Foundation.
 
 cata (n) being enough, sufficiency, enoughness (also cataa)
 
@@ -1735,7 +1735,7 @@ Cilua (n) Chilua, beach in West Nile
 
 Cuba (n) nation of Cuba (pronounced Chuba, also Kuba)
 
-ci (adj) present, is here; (v) bite eg Ma ci! = I'm here!
+ci (adj) present, is (t)here; (v) bite eg Ma ci! = I'm (t)here!
 
 cikiri (n) cowpeas, Lugbara name-giving ceremony where cowpeas mixed with simsim paste is the main dish though a cock or goat can also be slaughtered
 
@@ -1845,7 +1845,7 @@ di (conj) so; (v) box, punch; bore; shine
 
 digito (adj) digital (also digitoru) eg Ecikiti ni redio digito ru ni eri. = Ecikiti is listening to a digital radio.
 
-dika (adv) again, neera in Luganda eg Chikago Manio ndeki "NBA" dika, dika, dika. = Chicago Bulls won the NBA again and again and again.
+dika (adv) again, neera in Luganda eg Cikago Manio ndeki NBA dika, dika, dika. = Chicago Bulls won the NBA again and again and again.
 
 dika dika (adv) repeatedly
 
@@ -1935,7 +1935,7 @@ drianzi (n, plu. of drimva) fingers
 
 driavi (n) forgetfulness (also driaviza)
 
-dribi (n) hair eg Vinicho ni afuro dribi su. = Vincho wears afro hair.
+dribi (n) hair eg Vinico ni afuro dribi su. = Vincho wears afro hair.
 
 Dribidu (n) hairy Lugbara hero ancestor who died on Mt. Wati. His other name which he also gave his first son was Banyale (Eater of men) because he enjoyed human liver and after being discovered was excommunicated from his earlier home in the East Bank of the Albert Nile
 
@@ -1969,7 +1969,7 @@ drilejo (n) index finger
 
 drilemgbo (v) certification, permission, go ahead, opening for going forward eg "UBOS" nzi drilemgbo. = UBOS certified
 
-drileonzi (n) bad luck, misfortune, witchcraft curse, accident (also akisidendi)
+drileonzi (n) bad luck, misfortune, witchcraft curse, accident (also akisidenito)
 
 drimva (n) finger
 
@@ -2211,7 +2211,7 @@ Ejupala (n) trading centre near Ewanga
 
 ejuta (n) raising, prolonging, stretching (also ejuza)
 
-eka (adj) red; (n) sugarcane (also ekaka or ika), (v) help eg Muyindi Eka ma suru azi ma ru Chiyeni. = One of the Red Indian tribes was called Cheyenne.
+eka (adj) red; (n) sugarcane (also ekaka or ika), (v) help eg Muyindi Eka ma suru azi ma ru Ciyeni. = One of the Red Indian tribes was called Cheyenne.
 
 Ekarakafe (n) place in Vurra, where the Sultan Isara Memorial Library is located
 
@@ -2607,7 +2607,7 @@ feta (n) gift, pass, present (also feza) eg Guadiola ni Feta ma Opi. = Guardiola
 
 fi (n) cold (also fita or fiza); intestine, innards, offals, (suffix) added for ordinary substances to express single particles or pieces like erafi or irafi means tiny piece of stone; (v) enter
 
-Fibonachi (n) Fibonacci sequence in Mathematics where each element is the sum of the two elements before it (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc), golden ratio used to create the shape of a spiral, approximately 1.618 or phi, aesthetically pleasing and appears in many natural patterns like arrangement of leaves and shape of galaxies, Italian mathematician named Leonardo Fibonacci
+Fibonaci (n) Fibonacci sequence in Mathematics where each element is the sum of the two elements before it (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, etc), golden ratio used to create the shape of a spiral, approximately 1.618 or phi, aesthetically pleasing and appears in many natural patterns like arrangement of leaves and shape of galaxies, Italian mathematician named Leonardo Fibonacci (pronounced Fibonachi)
 
 fifi (adj) cold
 
@@ -2617,7 +2617,7 @@ filimu e'yo adaniri (n) documentary (also dokumenitari, doku)
 
 Filipino (n) Philippine citizen or national language of The Philippines
 
-finali (n) final (also abala asizuri, fainolu) eg Mikaeli Joridani nde "NBA" Finali woro 6 (azia) eri ni cazu aleniari. = Michael Jordan won all the six NBA Finals he reached.
+finali (n) final (also abala asizuri, fainolu) eg Mikaeli Joridani nde finali woro 11 (mudri drini alu) eri ni cazu aleniari engazu koleji. = Michael Jordan won all the 11 finals he reached since college.
 
 firindi (n) whistle (also firimbi)
 
@@ -2691,7 +2691,7 @@ garaji (n) garage, workshop eg Walusimbi ma Garaji = Walusimbi's Garage
 
 garama (n) branch of a plant
 
-gari (n) bicycle (also karia), vehicle; rainbow eg Richadi ni i-ma gari ji ide. = Richard is taking his bicycle for repair.
+gari (n) bicycle (also karia), vehicle; rainbow eg Ricadi ni i-ma gari ji ide. = Richard is taking his bicycle for repair.
 
 garimosi (n) train (also dogodogo)
 
@@ -2809,7 +2809,7 @@ Gugo (n) Google (also Gugolu) eg Sageyi Burini azini Lari Peji e'do Gugo ni. = S
 
 guke (n) trumpet used by boys and men in most of their dance (also guka), microphone
 
-Gulu (n) place in Northern Uganda found east of Arua and Rhino Camp plus Amuru, north of Masindi eg Chobe Safari Loji ni Gulu ma ageia. = Chobe Safari Lodge is near Gulu.
+Gulu (n) place in Northern Uganda found east of Arua and Rhino Camp plus Amuru, north of Masindi eg Cobe Safari Loji ni Gulu ma ageia. = Chobe Safari Lodge is near Gulu.
 
 gunyagunya (adj) much (said of greeting), with enthusiasm eg A zi mi gunyagunya. = I greet you very much.
 
@@ -3089,7 +3089,7 @@ iniru (adj) black, dark
 
 inisitusoni (n) institute, institution (also inisitituti, inisititusoni) eg Kiniseyi mu inisitusoni-a. = Kinsey went to the institute.
 
-inisuarenisi (n) insurance eg Kasimo ni azi nga "Christopher Morgan" Inisuarenisi-a. = Kasimo works at Christopher Morgan Insurance.
+inisuarenisi (n) insurance eg Kasimo ni azi nga Kurisitofa Morigani Inisuarenisi-a. = Kasimo works at Christopher Morgan Insurance.
 
 inze (v) pull out, remove (pronounced inje)
 
@@ -3861,7 +3861,7 @@ Lematia (n) name meaning "They love me on the lips" eg Otelulu Vegasi ma ru adar
 
 Leni (n) name meaning "S/he is the one who loves, likes or wants", shortened from Munguleni, Lenia or Leniya
 
-Leonado (n) Leonardo (also Leonarido, Lionado) eg Leonado da Vinichi = Leonardo da Vinci
+Leonado (n) Leonardo (also Leonarido, Lionado) eg Leonado da Vinici = Leonardo da Vinci
 
 lesu (n) milk; cloth women tie around their body eg Kobusingiye ni "Birunga Dairy" lesu mvu. = Kobusingye is drinking Birunga Dairy milk.
 
@@ -3881,7 +3881,7 @@ li 'ba (v) covet
 
 li ti (phr v.) interrupt sb talking (idiom), directly translated: cut mouth eg Fokisi li ma ti. = Foxy interrupted my speech.
 
-lico (n) home (in Aringa dialect/ also licho, licoga, lichoga); kraal
+lico (n) home (in Aringa dialect, pronouncced licho, also licoga); kraal
 
 ligaliga (n) gecko
 
@@ -4199,7 +4199,7 @@ mbaza (n) old person, elder(s)
 
 mbe (v) lick
 
-mbele (adj) quick eg Lionelu Mesi (avita 123-a) ni Agu mupira tupi Golo 100 supi Mbele ndeni "UEFA Champions League"-a. = Lionel Messi (in 123 games) is the Quickest Player to score 100 Goals in the UEFA Champions League.
+mbele (adj) quick eg Lionelu Mesi (avita 123-a) ni Agu mupira tupi Golo 100 supi Mbele ndeni UEFA Camupionizi Ligi-a. = Lionel Messi (in 123 games) is the Quickest Player to score 100 Goals in the UEFA Champions League.
 
 mbele mbele (adv) quickly (also mbeleko cici)
 
@@ -4341,7 +4341,7 @@ mo (v) gobble
 
 mobailu sende (n) mobile money (also sende simu si, momo)
 
-mochari (n) mortuary (also jo avu tambazu)
+mocari (n) mortuary (also jo avu tambazu)
 
 modemu (n) modem
 
@@ -4353,7 +4353,7 @@ molo (n) traditional chicken house
 
 Mombasa (n) coastal town in eastern Kenya eg Okiya ni aa Mombasa-a. = Okiya stays in Mombasa.
 
-Monochu (n) place in DRC
+Monocu (n) Monochu, place in DRC
 
 moralu (n) informal morale (also atita, murali)
 
@@ -4523,7 +4523,7 @@ nambi (n) type of Lugbara dance performed mainly by young women during tradition
 
 nanasi (n) pineapple eg Bebi Kita ni nanasi nya. = Baby Kita is eating a pineapple.
 
-nasari (n) nursery, kindergarten eg Anzi avi "Springs" Nasari-a. = Children are playing at Springs Kindergarten.
+nasari (n) nursery, kindergarten, children's garden (also anzi amvu) eg Anzi avi "Springs" Nasari-a. = Children are playing at Springs Kindergarten.
 
 nasi (n) nurse eg Aniku ni nasi. = Aniku is a nurse.
 
@@ -5135,7 +5135,7 @@ oi (n) kind of fleshy fish, (v) dry; hang, tether, tie eg a goat eg Oi alu ambam
 
 oiza (n) dry
 
-oja (v) change, exchange, translate, Igbo traditional flute used at funerals and other functions eg MUNGU le 'ba onzi ma oja asi. = GOD wants bad people to change the heart (repent).
+oja (v) change, exchange, translate, hatch, Igbo traditional flute used at funerals and other functions eg MUNGU le 'ba onzi ma oja asi. = GOD wants bad people to change the heart (repent).
 
 ojapi (n) converter (also ojapiri), translator, changer, hatcher, inverter, turner, transcriber
 
@@ -5193,7 +5193,7 @@ okelea (n) calabash
 
 oki (v) swallow
 
-oko (adv) first, ahead, leading; (v) fetch eg water; finish eg Fama redio oko Yuganda-a ri andra "Capital FM". = The first FM radio in Uganda was Capital FM.
+oko (adv) first, ahead, leading; (v) fetch eg water; finish eg Fama redio oko Yuganda-a ri andra Kapito FM. = The first FM radio in Uganda was sometime back Capital FM.
 
 Okokoro (n) trading centre in Maracha on Koboko Highway after River Imve
 
@@ -5241,7 +5241,7 @@ okule (n) transfeminine, like a woman eg Kaitilini Jena ni okule. = Caitlyn Jenn
 
 Okumbarindu (n) name meaning "A real woman (or wife) is different"
 
-Okuvu (n) place in Maracha meaning "from or with woman", Lugbara Church in Kinawataka - Mbuya started under a jambula tree in 1976 with eight members by Neria Olua, now St. Paul's Church of Uganda. Because of outreaches, other Lugbara churches emerged eg Beteli, Abiribani, Kagave, Namanve, Kajjansi, Namasuba, Buziga, Entebbe and St. Francis Chapel Makerere University (Over 24 COU points between Entebbe and Kakira by 2018)
+Okuvu (n) place in Maracha meaning "From or with woman", Lugbara Church in Kinawataka - Mbuya started under a jambula tree in 1976 with eight members by Neria Olua, now St. Paul's Church of Uganda. Because of outreaches, other Lugbara churches emerged eg Beteli, Abiribani, Kagave, Namanve, Kajjansi, Namasuba, Buziga, Entebbe and St. Francis Chapel Makerere University (Over 24 COU points between Entebbe and Kakira by 2018)
 
 okuza (n) gathering, symposium, conference, congregation (also okuta) eg Afeku mu Okuza-a. = Afeku went for the Gathering.
 
@@ -5311,12 +5311,11 @@ Oluwiyo (n) Olwiyo, place in Nwoya where the Umeme Regional Substation for West 
 
 oluzaru (adj) sloppy, sloping
 
-
 omba (n) anger; (v) stiffen, toughen
 
 omba omba (n) edible rats enjoyed mainly in Terego eg Omba omba 'ba esu ngoa? = Where can people find edible rats?
 
-Ombaci (n) suburb connected to Arua City by Rhino Camp Road (after the Airfield Stretch), location of St. Joseph's College for boys only, Arua suburb where former Ugandan President Idi Amin set up the First Earth Satellite Station in East Africa (1976) before Uganda Communications Commission (UCC) removed the equipment 40 years later plus where Obote II soldiers massacred civilians in 1985, ward in Koboko District
+Ombaci (n) suburb connected to Arua City by Rhino Camp Road (after the Airfield Stretch), location of St. Joseph's College for boys only, Arua suburb where former Ugandan President Idi Amin set up the First Earth Satellite Station in East Africa (1976) before Uganda Communications Commission (UCC) removed some of the equipment 40 years later plus where Obote II soldiers massacred civilians in 1985, ward in Koboko District
 
 ombaru (adj) angry
 
@@ -5964,7 +5963,7 @@ panga (n) punishment
 
 Pangisa (n) place in Arua City near Osu
 
-panya (n) shortcut eg "Arua Boys" ayu panya. = Arua Boys used a shortcut.
+panya (n) shortcut eg Arua Agupianzi ayu panya. = Arua Boys used a shortcut.
 
 papa (adv) nailed; (n) shoes, footwear (also jijima, nyila, viato); father (also baba, ati), Pope eg Papa Furanisisi imu Yuganda-a eli 2015 si. = Pope Francis came to Uganda in the year 2015.
 
@@ -6028,7 +6027,7 @@ pe (v) select, choose
 
 peji (n) page
 
-penati (n) penalty eg Sevucheniko ma penati fi ku. = Shevchenko's penalty did not go in.
+penati (n) penalty eg Sevuceniko ma penati fi ku. = Shevchenko's penalty did not go in.
 
 penusilu (n) pencil
 
@@ -6146,7 +6145,7 @@ re (adj) far away, (v) peel, peeled, rob, take away by force
 
 redio (n) radio (also radio, uzunguruku) eg Kimu Nazi ni azi nga redio-a. = Kim Nazz works on radio.
 
-redio eri (v) listening to radio eg Ma "Voice Of Life" Redio eri. = I'm listening to Voice Of Life Radio.
+redio eri (v) listening to radio eg Ma O'duko Idri Ni Redio eri. = I'm listening to Voice Of Life Radio.
 
 rego nzema (n) meeting organised at least three months after a widow has lost her husband so that she can choose a new partner
 
@@ -6200,7 +6199,7 @@ Rokoze (n) manmade quarry crater lake that formed in Nyadri Subcounty (Maracha D
 
 Rolekisi (n) Rolex (Trademark) watch
 
-rolekisi (n) rollex, Ugandan delicacy of fried eggs rolled inside a chapati and might contain tomatoes, onions, carrots, cabbages or any other additional ingredients eg Ozeni ni rolekisi nya anyoya si. = Ozen is eating rollex with anyoya.
+rolekisi (n) rollex, Ugandan delicacy of fried eggs rolled inside a chapati and might contain tomatoes, onions, carrots, cabbages or any other additional ingredients eg Kazorila ni rolekisi nya anyoya si. = Cazorla is eating rollex with anyoya.
 
 Roma (n) Rome, capital of Italy
 
@@ -6378,7 +6377,7 @@ Sidini (n) Sydney
 
 sidriani (conj) as if, as though, like eg Ma e'do ama sidriani ma asi imbu ma agati-a ri si. = I started to feel like my heart jumped out of my chest.
 
-sigino (n) signal eg "Voice Of America" ma sigino = Voice Of America's signal
+sigino (n) signal eg O'duko Amerika Ni ma sigino = Voice Of America's signal
 
 sigiri (n) charcoal stove
 
@@ -6410,7 +6409,7 @@ simatifoni (n) smartphone eg Muni ni Samusanga simatifoni ayu. = Moon uses a Sam
 
 simbili (n) dagger, woman's knife for weaving or making various Lugbara handicrafts like kobi, koyia and tiko (also okuilia)
 
-simiti (n) cement eg Edimandi je simiti "Hardware World Ntinda"-a. = Edmund bought cement at Hardware World Ntinda.
+simiti (n) cement eg Edimandi je simiti Hadiweya Wudrikuru Nitinda-a. = Edmund bought cement at Hardware World Ntinda.
 
 simu (n) phone eg Anguweni su Nokia simu ima mufuku-a. = Angwen put a Nokia phone in her pocket.
 
@@ -6696,6 +6695,8 @@ tisi (adv) orally, by mouth
 
 tita (n) hanging
 
+tito angu ni (n) land title
+
 tivi (n) television, TV set (also televisoni) eg Yohana Logi Bairidi kini: Mi anyu tivi ku! = John Logie Baird said: Don't switch off the television!
 
 tivi angu imve (n) TV white space
@@ -6850,7 +6851,7 @@ violini (n) violin eg "Miri Ben-Ari" ni violini avi. = Miri Ben-Ari plays violin
 
 vo (v) slash
 
-VOLU (n) Voice Of Life Uganda, 100.9 FM VOL Radio, West Nile's pioneer broadcast station, exclusively church-oriented and Gospel music-playing media (also VOLA - Voice Of Life Arua) eg Alice Drijaru Asedri ma ongo ni avi VOLU-a. = Alice Drijaru Asedri's song is playing on VOL.
+VOLA (abbr) VOL (pronounced Vo Oh La), Voice Of Life Arua, 100.9 FM VOL Radio, West Nile's pioneer broadcast station, exclusively church-oriented and Gospel music-playing media (also VOLU - Voice Of Life Uganda) eg Alisi Drijaru Asedri ma ongo ni avi VOLA-a. = Alice Drijaru Asedri's song is playing on VOL.
 
 vorovoro (adj) soft
 
@@ -6988,7 +6989,7 @@ yakani (n) fetish
 
 yakpakpa (n) panic, hurrying, rushing
 
-yamandu (n) segregation, bias, preferential treatment eg Yamandu "Oviva Church of Uganda" Aroi Joago-a yo! = There's no segregation at Oviva Church of Uganda in Aroi Subcounty!
+yamandu (n) segregation, bias, preferential treatment eg Yamandu Oviva Kanisa Uganda Ni Aroi Joago-a yo! = There's no segregation at Oviva Church of Uganda in Aroi Subcounty!
 
 yamari (n) banquet, feast (of wedding)
 
@@ -7014,7 +7015,7 @@ yereyere (adj) rough, scattered
 
 Yerusalemu (n) Jerusalem eg Paulo mu Yerusalemu-a. = Paul went to Jerusalem.
 
-YESU Kurisito (n) JESUS Christ (also YEZU), the Greatest Human Being to walk on Earth and the Sea, Superprophet, Saviour of Sinners, Son of GOD, Lamb of GOD, Prince of Peace, KING of Kings and LORD of Lords, XP, The Anointed One, Witness and Judge on Judgement Day eg YESU ni Opi! = JESUS is Lord!
+YESU Kurisito (n) JESUS Christ (also YEZU), the Greatest Human Being to walk on Earth and the Sea, Superprophet, Saviour of Sinners, Son of GOD, Lamb of GOD, Prince of Peace, KING of Kings and LORD of Lords, XP, The Anointed One, Witness and Judge on Judgement Day eg YESU Kurisito ni Opi! = JESUS Christ is Lord!
 
 yi (n) water (also iyi); suffix for plurals; (pron) they; (v) pour eg Ma yi mvu. = I'm drinking water.
 
@@ -8438,4 +8439,4 @@ When I was in Senior 5 (during 2001), I told my hostelmates that one day there w
 
 [GODisgreat!]
 
-AIKO (Artificial Intelligence Knowledge Organiser) 2003-Now
+(CC) AIKO (Artificial Intelligence Knowledge Organiser) 2003-Now
