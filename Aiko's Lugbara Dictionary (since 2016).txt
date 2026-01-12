@@ -98,7 +98,7 @@ za ze zi zo zu
 
 The Old Vocabulary was small because some words have multiple meanings based on three major tones (to five including rising and falling), pronunciation or context eg o'du can mean day, thigh, omen, leopard; etc. However, New words keep being added to the existing language eg simu = phone; etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc while others are pronounced differently eg agu, agupi, etc. Adding suffixes -jo, -ko, -ru, -si and -yo to nouns creates new words; verbs also have -ku, -ma, -nga, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones and meanings while goal brackets [ ] show translation. Lugbara sentences in past tense are structured using the Subject-Verb-Object arrangement like in English, but present continuous and future tenses follow S-O-V and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups eg Amanga votiyi 'be minira = Ama nga voti yi 'be mini ra [We will cast votes for you surely]. Short forms include: Ma mu ku = A mu ku [I'm not going]; Mi nya capati osu si = I nya capati osu si [You eat chapati with beans]...
 
-Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are written the same way they are pronounced; repeated letters especially consonants look ambiguously redundant and can be reformed eg Vurra, Uleppi, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc unless very special and meaningful (What you see is what you hear [WYSIWYH]).
+Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, etc. Lugbara words are often written the same way they are pronounced; repeated letters especially consonants look ambiguously redundant and can be reformed eg Vurra, Uleppi, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc unless very special and meaningful (What you see is what you hear [WYSIWYH]).
 
 Marks for Simple Tones:
 In English, some words have different spellings, but the same pronunciation eg chase/ chess; chat/ chart; hat/ heart/ hurt; lace/ less; load/ lord; mane/ men; son/ sun; etc. In Lugbara, the same spelling can have different pronunciations (hence meanings) based on three (to five including rising and falling) tones indicated by accents as below.
@@ -373,11 +373,11 @@ afi (v) burst eg Mupira afi. = The tyre burst.
 
 afimaniru (adj) selfish, self-centred
 
+Afirika (n) Africa (also Afirika) eg Adamu Kira (Chira) ni aa Afirika-a i-ma oku Eva Vikitoria be. = Adam Kiira stays in Africa with his wife Eve Victoria.
+
 afu (v) compete, scramble for sth, break something fragile, fight over sth; (n) pride, fight (or battle)
 
 afu 'ba (phr v.) put on airs
-
-Afurika (n) Africa eg Adamu Kira (Chira) ni aa Afurika-a i-ma oku Eva Vikitoria be. = Adam Kiira stays in Africa with his wife Eve Victoria.
 
 afuru (v) proud eg Baganda ki afuru eyi ma suru si. = Baganda are proud of their culture.
 
@@ -727,7 +727,7 @@ Amuti Aro E'yo Onepi (n) National Drug Authority
 
 Amuti Kaluluni (n) Electoral Commission (also Elekitoro Komisoni) eg Botusuwana ma Amuti Kaluluni = Botswana's Electoral Commission
 
-Amuti Mupira Onepi Afurika-a (n) CAF
+Amuti Mupira Onepi Afirika-a (n) CAF
 
 Amuti Mupira Onepi Wudrikuru-a (n) FIFA
 
@@ -1057,7 +1057,7 @@ askari (n) soldier eg Buga ni askari UPDF-a. = Buga is a soldier in the UPDF.
 
 asoso (n) gifts (also feta)
 
-asu (n) report (also repoti) eg Angela si asu. = Angela wrote a report.
+asu (n) report (also repoti) eg Anzela si asu. = Angela wrote a report.
 
 ata (adv) even, neither; (n) father, male eg Ata dra econi ama awa ku! = Even death cannot separate us!
 
@@ -1685,7 +1685,9 @@ cagua (n) body-scrubbing bath sponge (also chagua, word borrowed from Swahili)
 
 cai (n) tea shrub, tea leaves (pronounced chai) eg Ije cai na, mi alu isu ajekoko! = Buy three tea(cup)s, you get one free!
 
-Caina (n) China (pronounced Chaina) eg Yangiyanga osi Caina-a. = Yangyang was born in China.
+Caina (n) China (pronounced Chaina, also Cina) eg Yangiyanga osi Caina-a. = Yangyang was born in China.
+
+Cainaru (n) female-given name meaning "Like a Chinese" (also written as Chainaru, Cinaru, Chinaru)
 
 caja (n) charger
 
@@ -2015,7 +2017,7 @@ du (v) grow eg grass, set on fire, sting, (n) point eg Mi 'di 88.7 [Kali-aro-dri
 
 duani (n) court eg Mindreru ni mu duani-a. = Mindreru is going to court.
 
-Dubai (n) village south of Arua City in Ocoko Parish, Ajia Subcounty with name inspired by the Dubai in United Arab Emirates
+Dubai (n) village south of Arua City in Ocoko Parish, Ajia Subcounty with name inspired by the Dubai in United Arab Emirates eg Culu Kalifa ni aa Dubai-a. = Mr. Khalifa stays in Dubai.
 
 Duka Geri (n) Duka Road, bypass road from Adumi Road to Go Down Road via the north end of Arua Taxi Park
 
@@ -2325,7 +2327,7 @@ engazu (adv) since (also ingazu)
 
 engu (v) exalt, praise (also epi)
 
-enya (n) food (also inya, nyaka, ena in Terego dialect) eg Fene ni enya. = Jackfruit is food.
+enya (n) food (also inya, nyaka, ena in Terego dialect)
 
 enyakinya (n) poison (also enyata)
 
@@ -3047,7 +3049,9 @@ imbuta (n) jump towards you
 
 imu (v) come; mix eg Mi imu mavu! = Come to me!
 
-imve (adj) white colour (pronounced inve); (v) make white eg Ma Suru Drile ini, te eri ma jo woro imve. = My president is Black, but his house is all white.
+imve (adj) white colour (pronounced inve, also emve); (v) make white eg Ma Suru Drile ini, te eri ma jo woro imve. = My president is Black, but his house is all white.
+
+Imve (n) river in Maracha across the Koboko Highway (first signpost showed Enve like the pronunciation for Emve)
 
 Imvepi (n) parish in Odupi Subcounty of Terego County in Arua District, one of Arua's Refugee Settlement Areas opened in February 2017 to host South Sudanese (pronounced Invepi)
 
@@ -3094,6 +3098,8 @@ iniru (adj) black, dark
 inisitusoni (n) institute, institution (also inisitituti, inisititusoni) eg Kiniseyi mu inisitusoni-a. = Kinsey went to the institute.
 
 inisuarenisi (n) insurance eg Kasimo ni azi nga Kurisitofa Morigani Inisuarenisi-a. = Kasimo works at Christopher Morgan Insurance.
+
+inya (n) food (also enya) eg Dru mu inya nya Muzarabana-a. = Drew went to eat food at Muzarabana.
 
 inze (v) pull out, remove (pronounced inje)
 
@@ -3269,7 +3275,7 @@ jijima (n) shoes
 
 Jinza (n) Jinja, Idhindha, town east of Victoria Nile near the Source of the Nile, previously Uganda's Most Industrialised Town, landmarks include Owen Falls Dam and the Source of the Nile Bridge, capital of Busoga Kingdom (pronounced Jinja) eg Rokani ni aa Nkokonzeru-a, te eri mu sukulu la Jinza-a. = Rokani stays in Nkokonjeru, but he goes to school in Jinja.
 
-jo (n) house eg Franko ma jo Ariwara-a ri ma dri ika. = Franco's house in Ariwara has a red top.
+jo (n) house eg Furaniko ma jo Ariwara-a ri ma dri ika. = Franco's house in Ariwara has a red top.
 
 jo ago (n) Local Council (LC) 3 Chairman, chief, subcounty (also gombolola) eg Aroi Jo ago = Aroi Subcounty
 
@@ -3811,7 +3817,7 @@ kuwatiza (n) quartz, Lugbara rainstone
 
 kuwaya (n) choir eg Dorini ni ongo ngo kuwaya-a. = Doreen sings in the choir.
 
-kuye (adv) (did) not eg Etani azini Kizi apa Bujabuja Agupi si kuye. = Ethan and Kizzy did not flee because of the Bujabuja Man (Boogieman).
+kuye (adv) did not eg Etani azini Kizi apa Bujabuja Agupi si kuye. = Ethan and Kizzy did not flee because of the Bujabuja Man (Boogieman).
 
 
 Ll
@@ -3887,7 +3893,7 @@ li (n) thigh; (v) cut, mop, clean, judge; roll (eg ball), blow (said of wind) eg
 
 li 'ba (v) covet
 
-li ti (phr v.) interrupt sb talking (idiom), directly translated: cut mouth eg Fokisi li ma ti. = Foxy interrupted my speech.
+li ti (phr v.) interrupt sb talking (idiom), directly translated: cut mouth eg Rozi li ti ni. = Rose (is the one who) interrupted.
 
 lico (n) home (in Aringa dialect, pronouncced licho, also licoga); kraal
 
@@ -6333,7 +6339,7 @@ sawa azia (n) lunch, 12 o'clock, noon, midnight (also yi ali, etu 6)
 
 sawa tambapi (n) time keeper
 
-Sawusi Afurika (n) Republic of South Africa (RSA, also Sausi Afurika) eg Sofi ni aa Sawusi Afurika-a. = Sophie stays in South Africa.
+Sawusi Afirika (n) Republic of South Africa (RSA, also Sausi Afurika) eg Sofi ni aa Sawusi Afirika-a. = Sophie stays in South Africa.
 
 sayanisi (n) science
 
@@ -6551,7 +6557,7 @@ Sulutani Isara (n) Sultan Isara, great Vurra chief who died on 26th July 1949
 
 suluwayiwayi (n) small donuts usually less than 2 centimetres in length and width
 
-suru (n) tribe, clan, nation, country, kingdom, culture eg Afurika ni tutuni suru ini. = Africa is mainly a black nation.
+suru (n) tribe, clan, nation, country, kingdom, culture eg Afirika ni tutuni suru ini. = Africa is mainly a black nation.
 
 suru dricepi (n) nation leader, president
 
@@ -6679,6 +6685,8 @@ ti ago (n) bull
 
 ti ape (phr v.) comment
 
+ti li (phr v.) interrupt, halt progress(ion)
+
 ti onzi (n) bad mouth, foul, vulgar language eg Nyanzi ayu ti onzi. = Nyanzi used vulgar language.
 
 ti'bi (n) beard (also ti'biti'bi, tibitibi)
@@ -6773,7 +6781,7 @@ tu (adj) much; (v) climb, kick, dance eg Sakira ni ongo tu Matonge Disiko-a. = S
 
 tualu (adv) together eg Mukuwano "Industries" Kambala ni azi nga Ozu Adriyi Arua be tualu. = Mukwano Industries Kampala works together with Ozuu Brothers Arua.
 
-tujari (n) business, trade (also biasara, tujara) eg Eli 2063 ka ca 'bo, Ongulumu Afurika ma Ticitani le tujari ma aci atrita koko. = By 2063, African Union wants trade to move freely.
+tujari (n) business, trade (also biasara, tujara) eg Eli 2063 ka ca 'bo, Ongulumu Afirika ma Ticitani le tujari ma aci atrita koko. = By 2063, African Union wants trade to move freely.
 
 tujari ru (n) trademark (also tujara ru)
 
@@ -6863,7 +6871,7 @@ vini (conj) also
 
 vino (n) wine, ink eg Mingoro vino = Mingoro wine
 
-violini (n) violin eg "Miri Ben-Ari" ni violini avi. = Miri Ben-Ari plays violin.
+violini (n) violin eg Miri Beni-Ari ni violini avi. = Miri Ben-Ari plays violin.
 
 vo (v) slash
 
@@ -6933,7 +6941,7 @@ wariru (adj) round, circular
 
 wasi wasi (n) worry, care, alarm, concern, skepticism
 
-Wati (n) one of the Top 5 Highest Mountains in West Nile but Highest in Lugbaraland, 1,250 metres above sea level, found in Erea Parish of Aii-vu Subcounty (Terego) near Cilio and Abiria (also Mt. Wati, Mt. Eti, Iti), origin of the Lugbara Tribe
+Wati (n) one of the Top 5 Highest Mountains in West Nile but Highest in Lugbaraland, 1,250 metres above sea level, found in Erea Parish of Aii-vu Subcounty (Terego) near Cilio and Abiria (also Mt. Wati, Mt. Eti, Iti), origin of the Lugbara Tribe according to some myths
 
 waya (n) wire eg Itungo ni waya ozi. = Itungo sells wires.
 
@@ -6971,7 +6979,7 @@ woko (n) direction, part, side (also kalati, boko) eg Woko 'dole = This side
 
 Wolo (n) place south of Yumbe
 
-woro (pron) all (also woro woro, synonyms: teke teke, mgbu mgbu, dria dria, kunya kunya, 'wi 'wi, kina kina, kpiri kpiri, 'daku 'daku)
+woro (pron) all (also woro woro, synonyms: teke teke, mgbu mgbu, dria dria, kunya kunya, 'wi 'wi, kina kina, kpiri kpiri, 'daku 'daku) eg Ama woro anzi MUNGU ni, Sitani ida mi 'dale! = We are all GOD's children, Satan go away to the other side!
 
 woroworo (n) sound made while walking on dry grass, leaves, etc
 
@@ -7412,6 +7420,47 @@ Azita MUNGU Ni Mudri 'Diyi [The 10 Commandments of GOD], Excerpts from Exodus 20
 9. Mi eza 'ba azini ma ru inzosi ku [You shall not bear false witness against your neighbour]
 
 10. Mi 'ba li 'ba azini ma josi ku; mi 'ba li 'ba azini ma okusi ku, ati'bo erini agupiruri pie, ati'bo erini zamvaruri pie, ti erini pie, akanya erini pie, kani afa ngoni 'ba azinini ovuzu yi be 'diyi ti [You shall not covet your neighbour's house; you shall not covet your neighbour's wife, or his manservant, or his maidservant, or his ox, or his ass, or anything that is your neighbour's]!
+
+
+Uganda National Anthem (in Lugbara):
+
+Yuganda la! [Oh Uganda!]
+
+ADRO ma edre mi oru fo [May GOD uphold thee!]
+
+A 'ba ewu amani drialeri mi dri alea [We lay our future in thy hands]
+
+Ecizoru tualu, [United free,]
+
+Driwala ni [For liberty]
+
+Tualuru ama nga pa so ra! [Together we'll always stand!]
+
+
+Yuganda la! [Oh Uganda!]
+
+Nyaku driwala niri [The land of freedom]
+
+Afe mini ama leta azini ava azi ngazo ri [Our love and labour we give]
+
+Ama jo ejele pie dria [And with neighbours all]
+
+Kari amadri ni lelerile [At our country's call]
+
+Ovuzu asi anzu si azini agiru. [In peace and friendship we'll live.]
+
+
+Yuganda la! [Oh Uganda!]
+
+Nyaku amani nyaka fepiri [The land that feeds us]
+
+Etusi azini nyaku oso si [By sun and fertile soils grown]
+
+Nyaku amani leleturi [For our own dear land]
+
+Ama nga etu driasi pa tu mibe [We shall always stand]
+
+Nyaku Afirika ni Ndripituri dria. [The Pearl of Africa's crown.]
 
 
 Lugbara Anthem (Approved by Lugbara Kari from a competition won by Mercy Deogratious Ajedra and launched on Wednesday 6th October 2021 in Mvara, Arua):
