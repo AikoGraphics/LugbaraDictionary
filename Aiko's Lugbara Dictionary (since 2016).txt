@@ -50,7 +50,7 @@ This machine-assisted translation (MAT) tool was created painstakingly from scra
 
 
 Pronunciation Parameters:
-In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kaya] and X [Ekasa, Alamakanda in Aringa dialect] are not used (meaning only 24 on a keyboard can do), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (All the new implosive deep-mouth consonants sound like putting H after them, gulping air or a slight pop of the lips inwards though personal surnames are written without the apostrophe). The 28 letters (comprising 23 consonants and 5 vowels) in the Simplified Lugbara Alphabet sound like this: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in woUld), Va, Wa, Wha, Ya, Yha, Za. One of the sweetest things about Lugbara is that words are pronounced the way they are written. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the A(y)B(ee)C(ee) to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound. Consonant clusters (with silent letter denoted by rounded brackets) in Lugbara are: (D)J, DR, (G)B, HW, (K)P, MB, M(G)B, MV, ND, NDR, NG, NY, NZ and TR while diphthong (vowel) clusters and other noteworthy phonetics include the following:
+In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kaya] and X [Ekasa, Alamakanda in Aringa dialect] are not used (meaning only 24 on a keyboard can do), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (All the new implosive deep-mouth consonants sound like putting H after them, gulping air or a slight pop of the lips inwards though personal surnames are written without the apostrophe). The 28 letters (comprising 23 consonants and 5 vowels) in the Simplified Lugbara Alphabet sound like Swahili's 24: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in woUld), Va, Wa, Wha, Ya, Yha, Za. One of the sweetest things about Lugbara is that words are pronounced the way they are written. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the A(y)B(ee)C(ee) to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound. Consonant clusters (with silent letter denoted by rounded brackets) in Lugbara are: (D)J, DR, (G)B, HW, (K)P, MB, M(G)B, MV, ND, NDR, NG, NY, NZ and TR while diphthong (vowel) clusters and other noteworthy phonetics include the following:
 
 aa as in rat, for example leta-a
 
@@ -3959,7 +3959,7 @@ kukute (adj) thick
 
 Kulikulinga (n) junction on Arua-Yumbe Road after Nyoko Primary School, trading centre and village about 46 kilometres westwards from the Obongi Ferry Crossing that links to Adjumani, 25 kilometres from Ariwa (Kulikulia in Aringa) eg Alokore ni aa Kulikulinga-a.
 
-kulu (adv) big, main (also kulukulu); grasshopper, locust, totem for Maracha Clan
+kulu (adv) big, main (also kulukulu); grasshopper, locust, totem for Maracha Clan, nzige in Swahili language
 
 kulukulu (adj) main; (n) turkey, gourd
 
@@ -4479,7 +4479,7 @@ Meka (n) Mecca, Holiest Place in Islam
 
 Mekisiko (n) Mexico
 
-mele (n) gold (also goludi) eg Yohana Akibua (1972) azini Dokasi Inzikuru (2005) ndeki Yuganda ma mele oko ongu nzuta ni. = John Akii Bua (1972) and Dorcus Inzikuru (2005) won Uganda's first athletics gold.
+mele (n) gold (also goludi, dahabu borrowed from dhahabu in Swahili language) eg Yohana Akibua (1972) azini Dokasi Inzikuru (2005) ndeki Yuganda ma mele oko ongu nzuta ni. = John Akii Bua (1972) and Dorcus Inzikuru (2005) won Uganda's first athletics gold.
 
 memba koloseni (n) member of parliament, MP eg Benadi Atiku ni Memba Koloseni "Ayivu County" niri. = Benard Atiku is the MP of Ayivu County.
 
@@ -5099,7 +5099,7 @@ nzuta (n) run, running, athletics, sucking, drying (iinga in Aringa, also nzuza)
 Oo [shares some words with Uu especially in Aringa dialect]
 o (v) say (also 'yo), do
 
-oa (v) stay, reside (also aa, archaic o'a, o-a) eg Purisika ni oa "Above The Low" vu Mvara-a. = Prisca stays near Above The Low in Mvara.
+oa (v) stay, reside, marry in Swahili language (also aa, archaic o'a, o-a) eg Purisika ni oa "Above The Low" vu Mvara-a. = Prisca stays near Above The Low in Mvara.
 
 oata (n) stay (also oaza)
 
@@ -7233,7 +7233,7 @@ vu (n) ground; (postp) near, with him/ her/ it; (v) blow eg Abiriambati ni Go Da
 
 vudu (n) voodoo, vodou, witchcraft (also enata)
 
-VUKA (n) the only ONE Who knows everything and can solve any problem, sacred word compared to Hebrew word YHWH (YAHWEH), not used commonly because of respect and fear
+VUKA (n) the only ONE Who knows everything and can solve any problem, sacred word compared to Hebrew word YHWH (YAHWEH), not used commonly because of respect and fear, cross in Swahili language
 
 vule (adv) behind, backwards (also vile), follower (younger sibling)
 
