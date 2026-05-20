@@ -66,7 +66,7 @@ ii as in import, for example 'di-i (also sometimes written as 'di'i with a glott
 
 kp (letter K is silent) as in pen, for example okpo (pronounced opo)
 
-mv (letter M becomes N) as in conversation, for example omve (pronounced onve)
+mv (letter M is pronounced N before V) as in conversation, for example omve (pronounced onve)
 
 oa as in soar, for example Boroa
 
@@ -74,7 +74,7 @@ oo (preferably single O) as in hold, for example ocoo (also oco); not oo as in f
 
 uu (preferably single U) as in chew, for example cuu (pronounced chu)
 
-z (letter Z becomes J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
+z (letter Z is pronounced J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
 The Old Vocabulary was small because some words have multiple meanings based on tone (pronunciation) or context eg o'du can mean day, thigh, omen, leopard; etc. However, the existing language which has a simplified 5-fold framework keeps getting New words added eg simu = phone; imvata = inverter; etc. Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, Arabic, etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc while others are pronounced differently eg agu; agupi; etc. Adding suffixes -jo, -ko, -le, -ru, -si and -yo to nouns creates new words whose meanings you can infer; verbs also have -ba, -ku, -ma, -nga, -pi, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones while goal brackets [ ] plus equal sign = show translation or meaning. Some words are reduplicated to create new words eg jege jege [coins], kali kali [sweet], moi moi [soft], sara sara [hazy], etc. Lugbara sentences in past tense are structured using Subject + Verb + Object (SVO) or Who + Action + What arrangement like in English, but present continuous and future tenses follow SOV and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups eg Amanga voti 'be minira = Ama nga voti 'be mini ra [We will cast votes for you surely]. Short forms include: Ma mu ku = A mu ku [I'm not going]; Mi nya capati osusi = I nya capati osu si [You eat chapati with beans]; Eri ma mutuka Kirani = I-ma mutuka Kira ni [His motorcar is a Kiira]...
 
@@ -111,7 +111,7 @@ Word Classes include:
 
 
 The 55 Foundation (Lugbara Architecture):
-Researching Lugbara language after Y2K made me appreciate GOD's impeccable creativity: For many years like a self-motivated data scientist, I tried to simplify my native tongue into the most core lexicon that describes all the other words, but instead discovered - to my utter amazement - a smooth spelling pattern germinating from five vowels like bricks in a building, strong structural stem (backbone skeleton), simple Sound Map for Speech Recog, compressed Operating System, compact generative model, elegant Lugbara programming language or symmetrical Periodic Table of Lugbara Speech Elements around the 5th month of Twenty26. Apparently, Swahili (where some CV roots do not stand alone and are buried inside larger words to satisfy the language's rhythmic structure eg -la is the root for "eat", but must be used in kula), Hawaiian (with restricted 40 native CV words), Spanish, Japanese (in kana chain), Luganda and some other Bantu languages, Polynesian languages (Maori, Samoan, Tongan), Korean (partially), computational languages (conlangs), etc have CV combinations, but Lugbara alone unusually compresses multiple meanings into all its 115 CV words eg si means tooth or teeth, build, write, hailstone, knock, through, because of, pound or grind (eg groundnuts), etc. Simplified Lugbara aligns graphemes with phonemes very closely like a clean, beautiful data system; crack the code: There are only five one-letter words like David's war stones, each with at least one or multiple meanings (that is a, e, i, o and u); exactly 140 two-letter words as below, but several three-letter blends including 575 VCV (Consonant between two Vowels eg ero, itu, ozo, etc), 575 CVV (eg bau, cai, saa, etc) and 125 VVV words though some are compounds while others look abstract. However, our paramount focus here is only 45 CCV words without silent letters (eg mba, nzu, tra, etc) plus five CCCV words without silent letters (eg ndra, etc). Even if you do not know the various meanings of these words in the Lugbara Village, their systematic closed-loop multiplication is easy to track like fingers on both hands; no flex. 
+Researching Lugbara language after Y2K made me appreciate GOD's impeccable creativity: For many years like a self-motivated data scientist, I tried to simplify my native tongue into the most core lexicon that describes all the other words, but instead discovered - to my utter amazement - a smooth spelling pattern germinating from five vowels like bricks in a building, strong structural stem (backbone skeleton), simple Sound Map for Speech Recog, compressed Operating System, compact generative model, elegant Lugbara programming language or symmetrical Periodic Table of Lugbara Speech Elements around the 5th month of Twenty26. Apparently, Swahili (where some CV roots do not stand alone and are buried inside larger words to satisfy the language's rhythmic structure eg -la is the root for "eat", but must be used in kula), Hawaiian (with restricted 40 native CV words), Spanish, Japanese (in kana chain), Luganda and some other Bantu languages, Polynesian languages (Maori, Samoan, Tongan), Korean (partially), computational languages (conlangs), etc have CV combinations, but Lugbara unusually compresses multiple meanings into all its 115 CV words eg si means tooth or teeth, build, write, hailstone, knock, through, because of, pound or grind (eg groundnuts), etc. Simplified Lugbara aligns graphemes with phonemes very closely like a clean, beautiful data system; crack the code: There are only five one-letter words like David's war stones, each with at least one or multiple meanings (that is a, e, i, o and u); exactly 140 two-letter words as below, but several three-letter blends including 575 VCV (Consonant between two Vowels eg ero, itu, ozo, etc), 575 CVV (eg bau, cai, saa, etc) and 125 VVV words though some are compounds while others look abstract. However, our paramount focus here is only 45 CCV words without silent letters (eg mba, nzu, tra, etc) plus five CCCV words without silent letters (eg ndra, etc). Even if you do not know the various meanings of these words in the Lugbara Village, their systematic closed-loop multiplication is easy to track like fingers on both hands; no flex. 
 
 The following two-letter words (including exactly 25 diphthong VV clusters) have more than 140 meanings [which is 28 alphabet letters multiplied by five vowels at the end]. These algorithmic bricks can be found in so many words and make up the walls of the first floor in this Lu(g)bara block:
 aa ae ai ao au
@@ -1378,6 +1378,8 @@ ba (adj) OK, okay, good, alright, fine, well (also baba, muke, ala); (n) breast
 baasa (n) envelope eg Sami ayu baasa. = Sammy used an envelope.
 
 baba (n) father, papa, paps, dad (also ati); good, fine, well eg Suwengere ni Kalibala ma baba. = Swengere is Kalibala's father.
+
+Babeli (n) Babel
 
 bada (adj) anyhow
 
@@ -2679,7 +2681,7 @@ eza (n) meat; sin (also ezata, izata), (v) spoil (also iza) eg Andala nya eza ku
 
 eza oluza (n) tell out sins
 
-ezata (n) act that destroys or leads to sickness and death (for instance incest, homicide, illegitimate pregnancy, persistent quarelling, repeated fighting), sin, mistake, wrongdoing (also makosa)
+ezata (n) act that destroys or leads to sickness and death (for instance incest, homicide, illegitimate pregnancy, persistent quarelling, repeated fighting), sin, mistake, wrongdoing, dhambi in Swahili language (also makosa)
 
 Ezayi (n) male-given name meaning "Wasted water or sperms"
 
@@ -3317,6 +3319,8 @@ Isiraeli (n) Israel eg "North West" isu ru biza Isiraeli-a. = North West receive
 
 isita (n) movement, climbing down (also isiza)
 
+IsiZulu (n) language widely spoken all over South Africa, one of the Nguni languages related to Xhosa, SiSwati and Ndebele
+
 isu (v) find, get, receive (also esu); muscle eg Mi ico Wendi ni isu Alanosi-a ra! = You can find Wendy at Alanos Country Club!
 
 isuta (n) finding
@@ -3543,7 +3547,7 @@ kajo (n) calf (also kajoa)
 
 Kajo Keji (n) place in South Sudan north of Moyo Town
 
-kaka (n) maize, relative eg Ali Salehu Kiba ni ma kaka. = Ali Saleh Kiba is my relative.
+kaka (n) maize, relative, brother in Swahili language eg Ali Salehu Kiba ni ma kaka. = Ali Saleh Kiba is my brother.
 
 Kakaparaka (n) fictional suburb in Arua meaning "Maize stem" eg Bodhi ni mu yi we Kakaparaka-a. = Bodhi is going to swim in Kakaparaka.
 
@@ -4907,7 +4911,9 @@ ngonde (adj) ready eg Pesi ni ngonde. = Pesh is ready.
 
 ngoni (adv, interj) how
 
-Ngoni? (greeting) How are you? (also Azi mi ci! Ngoni ya, Ngoni 'do?), Hello!, Kod'heyo!
+Ngoni? (greeting) How are you? (also Azi mi ci! Ngoni ya, Ngoni 'do?), Hello!, Kod'heyo! in Lusoga
+
+Ngoni (n) kingdom in Southern Africa
 
 ngoti (n) offspring
 
@@ -7529,6 +7535,8 @@ zu (adv) whole day, morning to evening; (postp, suffix, v) for, savour eg ayiko 
 
 zukulu (n) gourd, calabash (also erece), ndeku in Luganda
 
+Zulugbara (n) half-breed with Zulu and Lugbara parents or ancestry
+
 zunguru zanga (n) chicken struck by lightning
 
 zuru (adj) full to the brim
@@ -8637,7 +8645,7 @@ Feedback or Testimonials (Amazing World of Lugbara):
 
 "My Lugbara girlfriend has given me a task to learn her language... I'm having problems. But thank GOD that I found your number on Google..." - Michael Ssebutinde
 
-"Your brain is working..." - Daphine Anicia, studying Fine Art in Lira
+"Your brain is working..." - Daphine, studying Fine Art in Lira
 
 "I was going thru internet trying to find a Google translator from English to Lugbara... All I could find was a Lugbara dictionary by Aiko. Big up my man... That resilience is solid. That translator is necessary, I have one of my workers he is Lugbara and we struggle to communicate so I was actually looking for a translator to help our kb. We are on the sideline cheering u on... Grateful to know guys like u making things that change life as we know it... Woohoo..." - Craig Lugemwa (My former BO Liga captain), on Thursday 3rd February 2022
 
