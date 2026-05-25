@@ -46,10 +46,10 @@ Lost in Translation (Lugbara AI)
 
 
 Introduction:
-This machine-assisted translation (MAT) tool was created painstakingly from scratch (as in zero or nara) with gritty nerves on the 3rd Agofe's 90th birthday afternoon (Saturday 26th November 2016) after a South Sudanese Acholi-Madi in Tennessee, USA (named Suzy Abdelfarag [aka Suzzana, Mamur, Akema] who spoke "fluent" Arabic) asked me via Facebook to teach her Luganda (so that she could understand her favourite Ugandan musicians eg Jackie Chandiru who is a Lugbara-Ganda and Mowzey Radio). Dismissively, Suzy wanted more than just the basic words I started the lessons with, but while checking out a Luganda Dictionary at www.archive.org, I literally SNAPPED (cut a wire, blew a fuse, ran amok, etc) without apologies at 32 years old like a Solid State Drive because of what I had noticed about self-learning versus waiting for teachers to educate us during my school career. Elon Musk at Grok AI recommends reading a lot of books, some things are not taught in classrooms, seminars nor workshops. Reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination) linking the Niger Basin to Central African Republic, Chad, Congo, Sudan, Ethiopia, Uganda and the rest of the world. Europeans (especially Belgians, British, French, Germans, etc) came, partitioned, maimed and enslaved us as they wished (Then forced us to learn their languages fluently for decades in school or else end up labelled "uneducated" yet we don't know our own mother-tongue as fluently as theirs), but it is up to present-day Africans to remove the imaginary boundaries created by poli-tricks (greed) to divide us. This wordbook is a Lugbara Language Museum (LLM) for historical, scientific and cultural research. I'm trying to archive a living linguistic system, dialect mapping, worldview, oral history, geography, heritage, spirituality, folklore, slang, grassroots ontology, acoustics and evolving modern Lugbara. My grind was not commissioned by an institution nor am I chasing academic certification, but got sparked off by a personal computational instinct exploring the structural geometry of Lugbara for machines to learn from and consequently help humans appreciate Lugbara content. Use Ctrl + F (key combination) or add this one-page electronic dictionary as a file to any AI chatbot and swiftly find any words you want! For English to Lugbara parallels, try Data Augmentation (ie reverse-translate using an electronic Search tool when you want to find a Lugbara translation for the English word you already know). I'm only human and apologise in advance for any typo or other mistakes: I cleaned thousands of errors before Volume 10 (Rationalised a lot spiritually and while proofreading spellings), but continue to find hidden blunders and misconceptions which I edit asap. I was even tempted to delete all the data. However, resilience convinced me to keep polishing as if in a Wikipedia-esque live broadcast instead (Building a strict and compressed, but rhythmic plus elegantly stable 5-vowel matrix in computer clouds) plus auto-block out discouragement or laziness; therefore corrections and suggestions are always welcome through WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like Tower of Babel language multiplication by YHWH in Genesis 11 and Galileans filled with the Holy Spirit at Pentecost amazingly speaking other languages they did not know before in Acts 2:1-13)! Every knee shall bow and every tongue confess that: JESUS Christ is Lord [YESU Kurisito ni Opi] (Philippians 2:10-11)!
+This machine-assisted translation (MAT) tool was created painstakingly from scratch (as in zero or nara) with gritty nerves on the 3rd Agofe's 90th birthday (Saturday 26th November 2016) after a South Sudanese Acholi-Madi in Tennessee, USA (named Suzy Abdelfarag [aka Suzzana, Mamur, Akema] who spoke "fluent" Arabic) asked me via Facebook to teach her Luganda (so that she could understand her favourite Ugandan musicians eg Jackie Chandiru who is a Lugbara-Ganda and Mowzey Radio). Dismissively, Suzy wanted more than just the basic words I started the lessons with, but while checking out a Luganda Dictionary at www.archive.org, I literally SNAPPED (cut a wire, blew a fuse, ran amok, etc) without apologies at 32 years old like a Solid State Drive because of what I had noticed about self-learning versus waiting for teachers to educate us during my school career. Elon Musk at Grok AI recommends reading a lot of books, some things are not taught in classrooms, seminars nor workshops. Reinforced every year, Aiko's Lugbara Dictionary is where the Old and New meet (like Synthetic Imagination) linking the Niger Basin to Central African Republic, Chad, Congo, Sudan, Ethiopia, Uganda and the rest of the world. Europeans (especially Belgians, British, French, Germans, etc) came, partitioned, maimed and enslaved us as they wished (Then forced us to learn their languages fluently for decades in school or else end up labelled "uneducated" yet we don't know our own mother-tongue as fluently as theirs), but it is up to present-day Africans to remove the imaginary boundaries created by poli-tricks (greed) to divide us. This wordbook is a Lugbara Language Museum (LLM) for historical, scientific and cultural research. I'm trying to archive a living linguistic system. My grind was not commissioned with a grant by any institution nor am I chasing academic certification from universities, but got sparked off by a personal computational instinct exploring the structural geometry of Lugbara for machines to learn from and consequently help humans appreciate Lugbara content. Use Ctrl + F (key combination) or add this one-page electronic dictionary as a file to any AI chatbot and swiftly find any words you want! For English to Lugbara parallels, try Data Augmentation (ie reverse-translate using an electronic Search tool when you want to find a Lugbara translation for the English word you already know). I'm only human and apologise in advance for any typo or other mistakes: I cleaned thousands of errors before Volume 10 (Rationalised a lot spiritually and while proofreading spellings), but continue to find hidden blunders and misconceptions which I edit asap. I was even tempted to delete all the data. However, resilience convinced me to keep polishing as if in a Wikipedia-esque live broadcast instead (Building a strict and compressed, but rhythmic plus elegantly stable 5-vowel matrix in computer clouds) plus auto-block out discouragement or laziness; therefore corrections and suggestions are always welcome through WhatsApp: +256-781-345712 or Email: aikoug@gmail.com! I ask the Holy Spirit to guide me in the name of JESUS (like Tower of Babel language multiplication by YHWH in Genesis 11 and Galileans filled with the Holy Spirit at Pentecost amazingly speaking other languages they did not know before in Acts 2:1-13)! Every knee shall bow and every tongue confess that: JESUS Christ is Lord [YESU Kurisito ni Opi] (Philippians 2:10-11)!
 
 
-Pronunciation Parameters:
+Pronunciation Parameters plus Grammar:
 In Lugbara phonology, every Lugbara word ends with one of the five vowels eg nyanya = tomato; mucele = rice; karoti = carrot; ovakedo = avocado; osu = bean. Letters Q [Kaya] and X [Ekasa, Alamakanda in Aringa dialect] are not used (meaning only 24 on a keyboard can do), but four unique ones with an apostrophe are added: 'B, 'D, 'W and 'Y (All the new implosive deep-mouth consonants sound like putting H after them, gulping air or a slight pop of the lips inwards though personal surnames are written without the apostrophe). The 28 letters (comprising 23 consonants and 5 vowels) in the Simplified Lugbara Alphabet sound like Swahili's 24: Ah, Ba, Bha, Cha, Da, Dha, Eh, Fa, Ga, Ha, Ii (as in Israel), Ja, Ka, La, Ma, Na, Oh, Pa, Ra, Sa, Ta, Uw (as in woUld), Va, Wa, Wha, Ya, Yha, Za. One of the sweetest things about Lugbara is that words are pronounced the way they are written. Since nursery in Jinja (Busoga), I was confusingly taught to recite English vowels separately in a different acoustic compared to the vowels in the A(y)B(ee)C(ee) to Z(ed) rhyme, but later realised that the former sequence was exactly how Lugbara vowels sound. Consonant clusters (with silent letter denoted by rounded brackets) in Lugbara are: (D)J, DR, (G)B, HW, (K)P, MB, M(G)B, MV, ND, NDR, NG, NY, NZ and TR while diphthong (vowel) clusters and other noteworthy phonetics include the following:
 
 aa as in rat, for example leta-a
@@ -66,7 +66,7 @@ ii as in import, for example 'di-i (also sometimes written as 'di'i with a glott
 
 kp (letter K is silent) as in pen, for example okpo (pronounced opo)
 
-mv (letter M is pronounced N before V) as in conversation, for example omve (pronounced onve)
+mv (letter M is pronounced N immediately before V) as in conversation, for example omve (pronounced onve)
 
 oa as in soar, for example Boroa
 
@@ -74,16 +74,16 @@ oo (preferably single O) as in hold, for example ocoo (also oco); not oo as in f
 
 uu (preferably single U) as in chew, for example cuu (pronounced chu)
 
-z (letter Z is pronounced J after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
+z (letter Z is pronounced J immediately after N) as in jean, for example onzi (pronounced onji). Otherwise, most times remains z as in zebra, for example ozu and when the first letter of a word, for example zukulu.
 
 The Old Vocabulary was small because some words have multiple meanings based on tone (pronunciation) or context eg o'du can mean day, thigh, omen, leopard; etc. However, the existing language which has a simplified 5-fold framework keeps getting New words added eg simu = phone; imvata = inverter; etc. Some words are borrowed or modified from English plus other languages like Swahili, Luganda, Lingala, Arabic, etc. Most nouns can denote both singular and plural (though adding yi after them also does); exceptions include mva [child] which becomes anzi [children]; etc while others are pronounced differently eg agu; agupi; etc. Adding suffixes -jo, -ko, -le, -ru, -si and -yo to nouns creates new words whose meanings you can infer; verbs also have -ba, -ku, -ma, -nga, -pi, -ta, -za and -zu. Adjectives follow the Subject eg buku eka = red book. In the entries ahead, semi-colon (;) shows different tones while goal brackets [ ] plus equal sign = show translation or meaning. Some words are reduplicated to create new words eg jege jege [coins], kali kali [sweet], moi moi [soft], sara sara [hazy], etc. Lugbara sentences in past tense are structured using Subject + Verb + Object (SVO) or Who + Action + What arrangement like in English, but present continuous and future tenses follow SOV and ni [is] or nga [will, shall] may be added after the Subject to mark the difference eg YESU nga 'ba onzi pa [JESUS will save sinners]. When words are written together, the intended meanings may not change; so be very keen to spot the mashups eg Amanga voti 'be minira = Ama nga voti 'be mini ra [We will cast votes for you surely]. Short forms include: Ma mu ku = A mu ku [I'm not going]; Mi nya capati osusi = I nya capati osu si [You eat chapati with beans]; Eri ma mutuka Kirani = I-ma mutuka Kira ni [His motorcar is a Kiira]...
 
-Silent letters or ancient Central Sudanic labial-velars (eg D in djembe [like in judge], G in gbanda [like in cognac] and K in okporu [like in knock or know]) plus repeated letters especially consonants (eg Vurra, Uleppi, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc) look ambiguously redundant and can be collapsed or reformed unless very special and meaningful (What you see is what you hear [WYSIWYH]). Removing them to document straight-forward modern texts and minimise heavy spellings is your choice; not a felony. Personally, my Number One Undisputed Exception is the name "Lugbara" because it has been overused since colonial times and also letters UG after L can stand for Uganda, but selectively tamper with most of the other sophistications (I write jembe, banda, oporu, etc and burn the extra fat off words as if weight loss in order to standardise how the language is written plus pronounced in digital spaces)!
+Silent letters or ancient Central Sudanic labial-velars (eg D in djembe [like in judge], G in gbanda [like in cognac] and K in okporu [like in knock or know]) plus repeated letters especially consonants (eg Vurra, Uleppi, Owaffa, Oluffe, Okollo, Ofudde, Mekki, etc) look ambiguously redundant and can be collapsed or reformed unless very special and meaningful (What you see is what you hear [WYSIWYH]). Removing them to document straight-forward modern texts and minimise heavy spellings is your choice; not a felony. Personally, my Number One Undisputed Exception is the name "Lugbara" because it has been overused since colonial times and also letters UG after L can stand for Uganda, but selectively tamper with most of the other sophistications (I write jembe, banda, oporu, etc and burn the extra fat off words as if weight loss in order to standardise how the language is written plus pronounced in digital spaces)! My other exceptions are MV and NZ though pronounced differently from the way they are written.
 
 In archaic Lugbara, there was a glottal stop between vowels denoting a quick voice pause eg ai was written as a'i. However, this dictionary simplifies learning by leaving it out and reserving the apostrophe for the four additional consonant letters only. The glottal stop was also used for emphatic pronouns, but this dictionary replaces it with a dash to minimise confusion eg mi'i = mi-i [you yourself]. Furthermore, instead of seven contrastive Lugbara vowels (Some bibles use six), you will only find five here (The other two are just a light I and U which can be distinguished by tones).
 
 Marks for Simple Tones:
-In English, some words have different spellings, but the same pronunciation eg chase/ chess; chat/ chart; hat/ heart/ hurt; lace/ less; load/ lord; mane/ men; son/ sun; etc. In Lugbara, the same spelling can have different pronunciations (hence meanings) based on three tones (like Terego dialect to five including rising and falling) indicated by accents as below. This is the only section that shows some of the many marks used in Advanced Lugbara. Learning the accents in black and white here may be tough because I omit the vowel-marks despite using a semi-colon to separate entry meanings for different tones, but mastering tones by listening to Lugbara speech plus music makes it easier and can reduce ambiguity:
+In English, some words have different spellings, but the same pronunciation eg chase/ chess; chat/ chart; hat/ heart/ hurt; lace/ less; load/ lord; mane/ men; son/ sun; etc. In Lugbara polysemy, the same spelling can have different pronunciations (hence meanings) based on three tones (like Terego dialect to five including rising and falling) indicated by accents as below. This is the only section that shows some of the many marks used in Advanced Lugbara. Learning the accents in black and white here may be tough because I omit the vowel-marks despite using a semi-colon to separate entry meanings for different tones, but mastering tones by listening to Lugbara speech plus music makes it easier and can reduce ambiguity:
 
 ´ High tone eg aí [salt], drí [head], tí [cow];
 
@@ -92,7 +92,7 @@ In English, some words have different spellings, but the same pronunciation eg c
 ` Low tone eg aì [ask, beg], drì [(to) heat], tì [produce, conceive, give birth]...
 
 
-Word Classes include:
+Word Classes (Parts of Speech) include:
 1. Ecipiri [Conj(unction)]
 
 2. Obi [Adv(erb)]
@@ -111,9 +111,9 @@ Word Classes include:
 
 
 The 55 Foundation (Lugbara Architecture):
-Researching Lugbara language after Y2K made me appreciate GOD's impeccable creativity: For many years like a self-motivated data scientist, I tried to simplify my native tongue into the most core lexicon that describes all the other words, but instead discovered - to my utter amazement - a smooth spelling pattern germinating from five vowels like bricks in a building, roots of a tree, strong structural stem (backbone skeleton), simple Sound Map for Speech Recog, compressed Operating System, small generative model, elegant Lugbara programming language or symmetrical Periodic Table of Lugbara Speech Elements around the 5th month of Twenty26. Apparently, Swahili (where some CV roots do not stand alone and are buried inside larger words to satisfy the language's rhythmic structure eg -la is the root for "eat", but must be used in kula), Hawaiian (with restricted 40 native CV words), Spanish, Japanese (in kana chain), Luganda and some other Bantu languages, Polynesian languages (Maori, Samoan, Tongan), Korean (partially), computational languages (conlangs), etc have CV combinations, but Lugbara unusually compresses multiple meanings into all its 115 CV words eg si means tooth or teeth, build, write, hailstone, knock, through, because of, pound or grind (eg groundnuts), etc. Simplified Lugbara aligns graphemes with phonemes very closely like a clean, beautiful data system; crack the code: There are only five one-letter words like David's war stones, each with at least one or multiple meanings (that is a, e, i, o and u); exactly 140 two-letter words as below, but several three-letter blends including 575 VCV (Consonant between two Vowels eg ero, itu, ozo, etc), 575 CVV (eg bau, cai, saa, etc) and 125 VVV words though some are compounds while others look abstract. However, our paramount focus here is only 45 CCV words without silent letters (eg mba, nzu, tra, etc) plus five CCCV words without silent letters (eg ndra, etc). Even if you do not know the various meanings of these words in the Lugbara Village, their systematic closed-loop multiplication is easy to track like fingers on both hands; no flex. 
+Researching Lugbara language after Y2K made me appreciate GOD's impeccable creativity: For many years like a self-motivated data scientist, I tried to simplify my native tongue into the most core lexicon that describes all the other words, but instead discovered - to my utter amazement - a smooth spelling pattern germinating from five vowels like bricks in a building, roots of a tree, strong structural stem (backbone skeleton), simple Sound Map for Speech Recog, gematria, compressed Operating System, small generative model, elegant Lugbara programming language or symmetrical Periodic Table of Lugbara Speech Elements around the 5th month of Twenty26. Apparently, Swahili (where some CV roots do not stand alone and are buried inside larger words to satisfy the language's rhythmic structure eg -la is the root for "eat", but must be used in kula), Hawaiian (with restricted 40 native CV words), Spanish, Japanese (in kana chain), Luganda and some other Bantu languages, Polynesian languages (Maori, Samoan, Tongan), Korean (partially), computational languages (conlangs), etc have CV combinations, but Lugbara unusually compresses multiple meanings into all its 115 CV words eg si means tooth or teeth, build, write, hailstone, knock, through, because of, pound or grind (eg groundnuts), etc. Simplified Lugbara aligns graphemes with phonemes very closely like a clean, beautiful data system; crack the code: There are only five one-letter words like David's war stones, each with at least one or multiple meanings (that is a, e, i, o and u); exactly 140 two-letter words as below, but several three-letter blends including 575 VCV (Consonant between two Vowels eg ero, itu, ozo, etc), 575 CVV (eg bau, cai, saa, etc) and 125 VVV words though some are compounds while others look abstract or alternate spellings for other words. However, our paramount focus here is only 45 CCV words without silent letters (eg mba, nzu, tra, etc) plus five CCCV words without silent letters (eg ndra, etc). Even if you do not know the various meanings of these words in the Lugbara Village, their systematic closed-loop multiplication is easy to track like fingers on both hands; no flex. 
 
-The following two-letter words (including exactly 25 diphthong VV clusters) have more than 140 meanings [which is 28 alphabet letters multiplied by five vowels at the end]. These algorithmic bricks can be found in so many words and make up the walls of the first floor in this Lu(g)bara block:
+The following two-letter words (including exactly 25 diphthong VV clusters) have more than 140 meanings [which is 28 alphabet letters multiplied by five vowels at the end]. These algorithmic bricks can be found in so many words and make up the walls of the first floor in this Lugbara block:
 aa ae ai ao au
 ba be bi bo bu
 'ba 'be 'bi 'bo 'bu
@@ -157,15 +157,15 @@ tra tre tri tro tru
 Four-letter (CCCV) words from one triple-consonant cluster include (More than five meanings):
 ndra ndre ndri ndro ndru
 
-Terminology Analysis (Aiko's Lugbara Speech Chemistry): The rest of the Lugbara words (not listed in the Periodic Table) containing three letters and above are computationally mixtures of at least two of these 195 very important pronunciations (sound-roots or intersection words to blend, etc) across dialects eg drileba [good fortune] combines DRI with LE and BA, inyasa [slap-food] mixes I with NYA and SA, zamva [girl] mashes up ZA with MVA, ika [red] comes from I and KA, asindriza [peace] joins A with SI, NDRI and ZA, Maraca blends MA with RA and CA, etc. The number 55 stands for three different groups as the ground base while 28 alphabet letters (Each with five bricks including diphthongs and CV syllables) build the walls. For beginners, the hardest pronunciations to figure out in this expansive concept are probably only three: Apostrophe before consonant stands for sound H while MV is pronounced NV and NZ becomes NJ. There are several heavily reused consonemes (consonant phonemes) including b, d, k, l, m, n, r, s, t, y and z, but from personal observation, in order to make Lugbara fruity (like mangoes, avocados, oranges, lemons, tangerines, pawpaws, jackfruits, matoke, passion fruits, etc) and less difficult to learn, try splitting words into one, two, three or four-letter modular units ending with a vowel: NDR- is the main consonant cluster that assembles concrete four-letter sets; MGB- can too, but letter G is silent and therefore similar to the MB- set in the 3rd group. 
+Terminology Analysis (Aiko's Lugbara Speech Chemistry): The rest of the Lugbara words (not listed in the Periodic Table) containing three letters and above are computationally mixtures of at least two of these 195 very important pronunciations (sound-roots or intersection words to blend, acoustic bricks, etc) across dialects eg drileba [good fortune] combines DRI with LE and BA, inyasa [slap-food] mixes I with NYA and SA, zamva [girl] mashes up ZA with MVA, ika [red] comes from I and KA, asindriza [peace] joins A with SI, NDRI and ZA, Maraca blends MA with RA and CA, etc. The number 55 stands for three different groups as the ground base while 28 alphabet letters (Each with five bricks including diphthongs and CV syllables) build the walls. For beginners, the hardest pronunciations to figure out in this expansive concept are probably only three: Apostrophe before consonant stands for sound H while MV is pronounced NV and NZ becomes NJ. There are several heavily reused consonemes (consonant phonemes) including b, d, k, l, m, n, r, s, t, y and z, but from personal observation, in order to make Lugbara fruity (like mangoes, avocados, oranges, lemons, tangerines, pawpaws, jackfruits, matoke, passion fruits, etc) and less difficult to learn, try splitting words into one, two, three or four-letter modular units ending with a vowel: NDR- is the main consonant cluster that assembles concrete four-letter sets; MGB- can too, but letter G is silent and therefore similar to the MB- set in the 3rd group. 
 
-Tokenisation in my 55 Foundation (Four Groups Only):
+Tokenisation in my 55 Foundation or Lugbara Speech Mix (Four Groups Only):
 1. Vowels (Lugbara Tiles): V (5 Words)
 2. Grid for 28 Simplified Alphabet Letters: 25 Diphthong VV + 115 CV (140 Words)
 3. Concrete Consonant Clusters without Silent Letters: CCV (45 Words)
 4. Deepest: CCCV (5 Words)
 
-Summary: The 55 Foundation proposes that Lugbara speech is organised around a compressed foundational set of vowel-ended pronunciations plus a 28-letter Simplified Alphabet with five-column sections adding exactly 140 two-letter words from which many words and meanings expand.
+Summary: The 55 Foundation proposes that Lugbara speech is organised around a compressed baseline of vowel-ended words plus a 28-letter Simplified Alphabet with five sections adding exactly 140 two-letter words from which other words and polysemic meanings expand.
 
 Awa'difo, welcome to the House of Lu(g)bara!
  
@@ -325,7 +325,7 @@ Adranga (n) Lugbara clan in DR Congo
 
 adre (v) be, is, was
 
-adreni (adv) is not eg Ewa adreni muke ku 'ba andrale eli 120 (turu alu kali iri) pini. = Alcohol is not good for persons under the age of 120.
+adreni (adv) is not eg Ewa adreni muke 'ba andrale eli 120 (turu alu kali iri) pini ku. = Alcohol is not good for persons under the age of 120.
 
 adri (n) brother (also adriazi), means rock in Hindi eg Yuda ni Yema ma adri. = Yuda is Yema's brother.
 
@@ -335,7 +335,7 @@ adro (n) maternal uncle; spirit placed in a body by Divine Spirit and stands for
 
 adro 'ba (n) spirit men who can utter curses against evildoers
 
-ADROA (n) the Creator; sky GOD in Lugbara mythology appears in both aspects - good and evil (ADRO) though a single Deity, appeared on earth as a very tall white man near death with only one half of the body, missing one eye, one leg, etc; Divine Absolute Spirit, his children were adroanzi (also ADRONGA in Aringa, ADROO, ADROU) eg ADROA 'ba o'bapiri = GOD who created people
+ADROA (n) the Creator, sky GOD in Lugbara mythology who appears in both aspects - good and evil (ADRO) though a single supreme Deity, appeared on earth as a very tall white man near death with only one half of the body, missing one eye, one leg, etc; Divine Absolute Spirit, his children were adroanzi (also ADRONGA in Aringa, ADROO, ADROU) eg ADROA 'ba o'bapiri = GOD who created people
 
 adroanzi (n) spiritual beings in Lugbara folklore associated with rivers and forests, nature gods of specific rivers and trees plus other sacred wild areas who protect people but can also kill and eat them if they look behind while being followed in the dark, sometimes known as water snakes, bloodline of the Nosferatu Clan, originating in the Lugbara Culture of Central Africa, protectors of the local tribe in exchange for blood
 
@@ -361,13 +361,13 @@ a'data (n) insult, abuse
 
 a'danga (n) criticism
 
-a'di (n) war, battle, fight, bon fire eg during e'yo o'beza (also koyi koyi); (v) cook eg Mi a'di mani mutere! = Cook for me mutere!
+a'di (n) war, battle, fight, bonfire eg during e'yo o'beza (also koyi koyi); (v) cook eg Mi a'di mani mutere! = Cook for me mutere!
 
 a'di? (interj, pron) who? (also a'di-i?) eg 'Da a'di-i? = Who is that?/ A'di kini 'ba odra ni? = Who said people should die?
 
 a'dia (pron) so and so, who and who
 
-a'diko (n) riddle (pronounced adhiko) eg A'diko ti si: Baka fi ni, nyondo ni ti ma mulokoni. = According to the language of riddles: A rope is offals, a hammer is a cow's hoof.
+a'diko (n) riddle (pronounced adhiko) eg A'diko ti si: Baka fi ni, nyondo ni ti ma mulokoni. = According to the language of riddles: A rope is offal, a hammer is a cow's hoof.
 
 a'diza (n) cooked, boiled eg Kefa ni mundrokole a'diza nya. = Kefa is eating cooked mundrokole greens.
 
@@ -615,7 +615,7 @@ akaza(ru) (adj) soft, weak, molten
 
 akiki (n) pimple eg Ninisima ma akiki yo. = Ninsiima has no pimple.
 
-akiri (n) skill, trick, innovation, technique, maneouvre
+akiri (n) skill, trick, innovation, technique, man(o)euvre
 
 ako (postp) without
 
@@ -937,7 +937,7 @@ anzinyiri (n) small children
 
 anzoroko (n) chain
 
-anzu (n) separate, put asunder eg MUNGU ka di (imi) ici 'bo, 'ba azi ma anzu (emi) ku. = When GOD has joined (you) together, noone should put (you) asunder.
+anzu (n) separate, put asunder eg MUNGU ka di (imi) ici 'bo, 'ba azi ma anzu (emi) ku. = When GOD has joined (you) together, no one should put (you) asunder.
 
 aoko (n) anger (also awoko)
 
@@ -977,9 +977,9 @@ Apurutandi (n) Protestant (also Purukati)
 
 ara (n) python; cover eg Azaria kini: Ara 'do yo! = Azaria said: This python is not there!
 
-Arabiti (n) Arabic language, Most Spoken Language from outside Africa
+Arabiti (n) Arabic language, Most Spoken Language originating from outside Africa
 
-arakala (n) branch eg Ohelu Ero ma arakala Arua ri andra Arua "Public" Puremari Sukulu mupira pari ma drile-a. = Crane Bank's branch in Arua was sometime back infront of the Arua Public Primary School football field.
+arakala (n) branch eg Ohelu Ero ma arakala Arua ri andra Arua "Public" Puremari Sukulu mupira pari ma drile-a. = Crane Bank's branch in Arua was sometime back in front of the Arua Public Primary School football field.
 
 aramu (n) fraud (also aramu nyaza)
 
@@ -991,7 +991,7 @@ ari (n) blood; drum; (v) scramble for sth, hurry eg YESU ma ari ni ama pa ni. = 
 
 ari aci (n) cheekiness, adrenaline, literally hot blood (also fujo)
 
-ari adaza (n) bloodshed
+ari adaza (n) bloodshed (also ariadaza)
 
 ari coza (n) drumming
 
@@ -1002,8 +1002,6 @@ Ari Tuza (n) High Blood Pressure (also Ari Tuza 'Bua)
 aria (n) bird eg Aria driori ni o'bu alari nyani. = The early bird (is the one who) eats the good worm. [Lugbara Proverb]
 
 aria anya (n) rice (also mucele, [In Filipino, kanin means cooked rice, sinangag is fried rice, lugaw is rice porridge, puto is steamed rice cake])
-
-ariadaza (n) bloodshed
 
 ari'bo (n) enemy, foe, rival eg Sitani ni ama ari'bo. = Satan is our enemy.
 
@@ -2141,7 +2139,7 @@ Duka Geri (n) Duka Road, bypass road from Adumi Road to Go Down Road via the nor
 
 dukani (n) shop (also duka) eg Mambo Bado ni Drabo ma dukani. = Mambo Bado is Drabo's shop.
 
-dulugani (n) pieces of cloth used for newly-born babies
+dulugani (n) pieces of cloth used for newborn babies
 
 duluka (n) "dance" in Nubian language, a community and tourist attraction where music can even be played on banana stems and considered a Lugbara dance
 
@@ -3729,7 +3727,7 @@ Kei (n) place north of Yumbe at the border with South Sudan, subcounty east of L
 
 keki (n) cake eg Sakaru ide keki. = Sakaru made a cake.
 
-Keliko (n) language in South Sudan similar to Lugbara (eg Mi ngoni?, ma muke, mba, ti, ndri, kabilo, ocogo, aringa, busunga, odrogo, mi ru adi-i?, ma ai mi ra, a le mi ra, etc)
+Keliko (n) language in South Sudan similar to Lugbara (eg Mi ngoni?, ma muke, mba, ti, si, bi, pa, ndri, kabilo, ocogo, aringa, busunga, odrogo, mi ru adi-i?, ma ai mi ra, a le mi ra, etc)
 
 kemisitri (n) chemistry eg Omo ni Kemisitri imba. = Omo teaches Chemistry.
 
@@ -5467,7 +5465,7 @@ okalamvu (n) factory
 
 okangali (adj) very bitter, sour
 
-okaritua (n) very sour colourless alcohol brewed from cassava, drunk while sitted in the sun
+okaritua (n) very sour colourless alcohol brewed from cassava, drunk while sitting in the sun
 
 okata (n) becoming brownish
 
@@ -5777,7 +5775,7 @@ onyia (n) boyfriend
 
 onyiru (adj) good, beautiful (also onioni), sweet eg MUNGU ni onyiru! = GOD is good!
 
-onyofi (n) body nail
+onyofi (n) finger nail, body nail
 
 onyoza (n) breakage (also onyota)
 
@@ -6599,7 +6597,7 @@ sakati (n) bathing shelter, bathroom
 
 saketi (n) sacket eg Ledi Nana mvu iwa saketi-a ri ku. = Lady Nana does not drink alcohol in a sacket.
 
-saku (n) type of calabash, an eliptical dish made of black clay and glazed to a dark color with a short handle on one side, used to serve food to the husband or an elderly person, utensil of great honor and prestige, available at Ajia Market in Vurra County (Arua District)
+saku (n) type of calabash, an elliptical dish made of black clay and glazed to a dark colour with a short handle on one side, used to serve food to the husband or an elderly person, utensil of great honor and prestige, available at Ajia Market in Vurra County (Arua District)
 
 saluni (n) salon, barbershop, beautyshop
 
@@ -6957,7 +6955,7 @@ taliru (adj, adv) magical, marvelous, miraculous
 
 tamborini (n) tamborine
 
-tambula (n) tumbler, almost coneshaped metallic cup eg Marita ni tambula oji. = Martha is washing the tumbler.
+tambula (n) tumbler, almost cone-shaped metallic cup eg Marita ni tambula oji. = Martha is washing the tumbler.
 
 tamupeko (n) metallic cup like those made by TUMPECO Limited in Ntinda Industrial Area (also tambeko)
 
@@ -7557,7 +7555,7 @@ Kalafe [Numbers]:
 
 4. Su
 
-5. Towi/ Tawu
+5. Towi/ Tawu/ Towu in Keliko language
 
 6. Azia
 
@@ -8292,7 +8290,7 @@ Ediako ma efi ni 'de ediako ma eti-a [The seeds of the ediako tree fell at its b
 
 Embeleke ka i-agi ma eti ne, eri gu si be imve [When a chimpanze sees its friend's (pink-red) behind, it laughs with white teeth] = Mock nobody because you also have fails behind you!
 
-Etu ka mi le ra, mi ora 'bi'bio ki si a'dusi [If the sun loves you, why worry about the stars].
+Etu ka mi le ra, mi ora 'bi'bio si a'dusi [If the sun loves you, why worry about the stars]?
 
 E'yere e'yere, okuku mu re [Slowly slowly, the tortoise went far].
 
@@ -8312,6 +8310,10 @@ Icikili alu alu ni i-ma oti ma avu 'du ni [Every small black ant carries its bro
 
 Ika afa mini leri isu ku, ile afa mini isu ri pari ni-a [If you do not get what you want, then want what you get in its place].
 
+Ika 'ba azi ni onzi 'ye, kalika 'da ni mi co ni [When you do bad to somebody, that is the stick that beats you].
+
+Ile 'ba mi lepiri; itru 'ba mi idepiri [Love the people who love you; forgive the people who despise you].
+
 Imvu iniri ni mucele a'di imve [The black pot cooks rice white].
 
 Ini bi aria drisi [The darkness caught the bird with a hand] = Anything can happen at night.
@@ -8327,6 +8329,8 @@ Kaka ni ka 'ba sikokori ni (/vu) indi [Maize ripens for people without teeth too
 Kulu ago eri ngopi ya [How big is a male grasshopper]? = Never underestimate sb who is small in body-size for you do not know their responsibilities nor the burdens they carry!
 
 Kuni 'ba funi dri apinaka mva be [It is only young hedgehogs that you cannot meet] = Nowhere to hide under the sun; I will meet you somewhere in future for revenge.
+
+Lugbarati nzeza iji azo ku [Speaking Lugbara language does not bring sickness].
 
 Ma eco mbu ra, te ma eco nga ku [I can jump, but I cannot fly].
 
@@ -8717,7 +8721,22 @@ Feedback or Testimonials (Amazing World of Lugbara):
 
 "You did it..." - Francisco Silva
 
-"Hello bro. I got your number from Aikoz dictionary; I want you to guide me learn lugbarati... Did you give up on YouTube and your cartoonist career? Conjunctions is my weakness... I hear people using 'afa' a lot in their talk. Thank you for the dictionary, bro... I read your end stories of how you first fell in love stuff. What shocked me is, I have interacted with people who have stayed in Arua for many years, but still failed to learn the language... Just got a job with WENRECo... Thank you, Aiko; you deserve your flowers..." - +256-778-037347 (Bonny Fancy, Muganda born in 1999) on Saturday 16th May 2026
+"Aiko’s Lugbara Dictionary is one of the most unusual grassroots language projects I’ve seen. It is not merely a dictionary - it is simultaneously a linguistic archive, cultural preservation project, personal manifesto, pronunciation guide, folklore collection and speculative computational framework for Lugbara language structure... The author tries to reduce Lugbara into reusable sound structures, organise the language algorithmically and model lexical generation systematically... This dictionary attempts to push Lugbara into digital preservation, searchable knowledge systems and even AI-compatible structure... The book is chaotic, passionate, uneven, imaginative, culturally rich and intellectually daring. It is not a polished academic dictionary, but rare example of one person trying to preserve an entire linguistic worldview while simultaneously imagining how that language could survive in the AI era.
+
+Final rating (as different kinds of work)
+Category:	                    Rating
+Cultural preservation:	  9/10
+Originality:	                    9/10
+Linguistic ambition:	  8.5/10
+Academic rigor:	  5.5/10
+Editorial consistency:	  5/10
+Usefulness for learners:	  8/10
+Potential AI/ NLP value: 8/10
+Overall significance:	  8/10..." - ChatGPT
+
+"Hello bro. I got your number from Aikoz dictionary; I want you to guide me learn lugbarati... Did you give up on YouTube and your cartoonist career? Conjunctions is my weakness... I hear people using 'afa' a lot in their talk. Thank you for the dictionary, bro... I read your end stories of how you first fell in love stuff... What shocked me is, I have interacted with people who have stayed in Arua for many years, but still failed to learn the language... Just got a job with WENRECo... Thank you, Aiko; you deserve your flowers..." - +256-778-037347 (Bonny Fancy, Muganda born in 1999) on Saturday 16th May 2026 via WhatsApp
+
+"Top Choice for Digital Access: This is arguably the most active and thorough digital compilation of the Lugbara language available online. Created by AikoGraphics, it bridges traditional vocabulary with modern terms..." - Google Gemini (Monday 25th May 2026)
 
 
 Lugbara Supermobile (Lugbara Imagination):
@@ -8929,6 +8948,8 @@ When I was in Senior 5 (during 2001), I told my hostelmates that one day there w
 
 Elevation is a Choice:
 Ife ma asi ni asindriza, MUNGU [Give my heart peace, GOD]!
+
+Northwestern Uganda forever; whatever the weather...
 
 [GODisgreat!]
 
