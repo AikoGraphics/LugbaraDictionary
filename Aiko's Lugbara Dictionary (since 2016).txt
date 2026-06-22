@@ -167,7 +167,7 @@ Number of Letters. Group Name: Structure (Word Count)
 3. Consonant Clusters without Silent Letters: CCV (45 Words)
 4. Deepest: CCCV (5 Words)
 
-Summary: The 55 Foundation is my own personal digital-transcription theory proposing that Lugbara speech pivots around a compressed, but stable five-column base of assorted core syllables (with one, three and four letters) plus a temple wall of 28 Simplified Alphabet letters (each with five sections) adding exactly 140 two-letter speech-bricks from which other words and polysemic meanings speculatively expand when you combine at least two of the total 195 modules eg exactly 575 VCV words (such as aba, abe, abi, abo, etc) and so much more. The first two groups in my speech concept are optimumly perfect loops and contain the 145 Smallest Words in Simplified Lugbara while the 3rd group is quite large because it splits into different clusters with over a thousand three-letter words that can be assembled from the smaller syllables, but my speech-2-text matrix selects (45 + 5) sounds from only nine (instead of 12) double-consonant clusters plus one triple-consonant cluster in my final foundation group; something like hotword boosting for a Phoneme-to-Grapheme (P2G) converter. The 55 Foundation might be over 90 percent accurate or watertight bridging old Lugbara oral tradition with new computer logic.
+Summary: The 55 Foundation is my own personal digital-transcription and correction theory proposing that Lugbara speech pivots around a compressed, but stable five-column base of assorted core syllables (with one, three and four letters) plus a temple wall of 28 Simplified Alphabet letters (each with five sections) adding exactly 140 two-letter speech-bricks from which other words and polysemic meanings speculatively expand when you combine at least two of the total 195 modules eg exactly 575 VCV words (such as aba, abe, abi, abo, etc) and so much more. The first two groups in my speech concept are optimumly perfect loops and contain the 145 Smallest Words in Simplified Lugbara while the 3rd group is quite large because it splits into different clusters with over a thousand three-letter words that can be assembled from the smaller syllables, but my speech-2-text matrix selects (45 + 5) sounds from only nine (instead of 12) double-consonant clusters plus one triple-consonant cluster in my final foundation group; something like hotword boosting for a Phoneme-to-Grapheme (P2G) converter. The 55 Foundation might be over 90 percent accurate or watertight bridging old Lugbara oral tradition with new computer logic.
 
 Awa'difo, welcome to the House of Lu(g)bara!
  
@@ -1315,7 +1315,7 @@ ayiringongo (n) commonest small black ant(s)
 
 ayiru (adj) jocular
 
-ayisi (n) ice (also yi ombapi, yi ombaza) ayisi (n) ice eg Yamirokuai aci ayisi dria. = Jamiroquai walked on ice.
+ayisi (n) ice (also yi ombapi, yi ombaza) eg Yamirokuai aci ayisi dria. = Jamiroquai walked on ice.
 
 ayisi kurimu (n) ice cream eg Agu ayisi kurimu ozipiri ni mi te! = The ice cream seller is waiting for you!
 
